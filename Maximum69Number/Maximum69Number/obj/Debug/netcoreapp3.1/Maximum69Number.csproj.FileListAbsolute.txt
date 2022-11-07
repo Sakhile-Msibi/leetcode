@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\Maximum69Number\Maximum69Number\bin\Debug\netcoreapp3.1\Maximum69Number.exe
+C:\Sakhile\leetcode\Maximum69Number\Maximum69Number\bin\Debug\netcoreapp3.1\Maximum69Number.deps.json
+C:\Sakhile\leetcode\Maximum69Number\Maximum69Number\bin\Debug\netcoreapp3.1\Maximum69Number.runtimeconfig.json
+C:\Sakhile\leetcode\Maximum69Number\Maximum69Number\bin\Debug\netcoreapp3.1\Maximum69Number.runtimeconfig.dev.json
+C:\Sakhile\leetcode\Maximum69Number\Maximum69Number\bin\Debug\netcoreapp3.1\Maximum69Number.dll
+C:\Sakhile\leetcode\Maximum69Number\Maximum69Number\bin\Debug\netcoreapp3.1\Maximum69Number.pdb
+C:\Sakhile\leetcode\Maximum69Number\Maximum69Number\obj\Debug\netcoreapp3.1\Maximum69Number.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\Maximum69Number\Maximum69Number\obj\Debug\netcoreapp3.1\Maximum69Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\Maximum69Number\Maximum69Number\obj\Debug\netcoreapp3.1\Maximum69Number.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\Maximum69Number\Maximum69Number\obj\Debug\netcoreapp3.1\Maximum69Number.AssemblyInfo.cs
+C:\Sakhile\leetcode\Maximum69Number\Maximum69Number\obj\Debug\netcoreapp3.1\Maximum69Number.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\Maximum69Number\Maximum69Number\obj\Debug\netcoreapp3.1\Maximum69Number.dll
+C:\Sakhile\leetcode\Maximum69Number\Maximum69Number\obj\Debug\netcoreapp3.1\Maximum69Number.pdb
+C:\Sakhile\leetcode\Maximum69Number\Maximum69Number\obj\Debug\netcoreapp3.1\Maximum69Number.genruntimeconfig.cache
