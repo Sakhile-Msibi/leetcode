@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\MaximumWealth\MaximumWealth\bin\Debug\netcoreapp3.1\MaximumWealth.exe
+C:\Sakhile\leetcode\MaximumWealth\MaximumWealth\bin\Debug\netcoreapp3.1\MaximumWealth.deps.json
+C:\Sakhile\leetcode\MaximumWealth\MaximumWealth\bin\Debug\netcoreapp3.1\MaximumWealth.runtimeconfig.json
+C:\Sakhile\leetcode\MaximumWealth\MaximumWealth\bin\Debug\netcoreapp3.1\MaximumWealth.runtimeconfig.dev.json
+C:\Sakhile\leetcode\MaximumWealth\MaximumWealth\bin\Debug\netcoreapp3.1\MaximumWealth.dll
+C:\Sakhile\leetcode\MaximumWealth\MaximumWealth\bin\Debug\netcoreapp3.1\MaximumWealth.pdb
+C:\Sakhile\leetcode\MaximumWealth\MaximumWealth\obj\Debug\netcoreapp3.1\MaximumWealth.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\MaximumWealth\MaximumWealth\obj\Debug\netcoreapp3.1\MaximumWealth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\MaximumWealth\MaximumWealth\obj\Debug\netcoreapp3.1\MaximumWealth.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\MaximumWealth\MaximumWealth\obj\Debug\netcoreapp3.1\MaximumWealth.AssemblyInfo.cs
+C:\Sakhile\leetcode\MaximumWealth\MaximumWealth\obj\Debug\netcoreapp3.1\MaximumWealth.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\MaximumWealth\MaximumWealth\obj\Debug\netcoreapp3.1\MaximumWealth.dll
+C:\Sakhile\leetcode\MaximumWealth\MaximumWealth\obj\Debug\netcoreapp3.1\MaximumWealth.pdb
+C:\Sakhile\leetcode\MaximumWealth\MaximumWealth\obj\Debug\netcoreapp3.1\MaximumWealth.genruntimeconfig.cache
