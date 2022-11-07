@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.exe
+C:\Sakhile\leetcode\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.deps.json
+C:\Sakhile\leetcode\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.runtimeconfig.json
+C:\Sakhile\leetcode\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.runtimeconfig.dev.json
+C:\Sakhile\leetcode\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.dll
+C:\Sakhile\leetcode\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.pdb
+C:\Sakhile\leetcode\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.AssemblyInfo.cs
+C:\Sakhile\leetcode\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.dll
+C:\Sakhile\leetcode\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.pdb
+C:\Sakhile\leetcode\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.genruntimeconfig.cache
