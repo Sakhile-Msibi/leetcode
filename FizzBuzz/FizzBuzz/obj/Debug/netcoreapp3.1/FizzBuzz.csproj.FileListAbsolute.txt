@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+C:\Sakhile\leetcode\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+C:\Sakhile\leetcode\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+C:\Sakhile\leetcode\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+C:\Sakhile\leetcode\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Sakhile\leetcode\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Sakhile\leetcode\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+C:\Sakhile\leetcode\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Sakhile\leetcode\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Sakhile\leetcode\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache
