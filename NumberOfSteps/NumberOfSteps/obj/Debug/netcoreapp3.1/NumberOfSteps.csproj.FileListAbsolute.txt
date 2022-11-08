@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\NumberOfSteps\NumberOfSteps\bin\Debug\netcoreapp3.1\NumberOfSteps.exe
+C:\Sakhile\leetcode\NumberOfSteps\NumberOfSteps\bin\Debug\netcoreapp3.1\NumberOfSteps.deps.json
+C:\Sakhile\leetcode\NumberOfSteps\NumberOfSteps\bin\Debug\netcoreapp3.1\NumberOfSteps.runtimeconfig.json
+C:\Sakhile\leetcode\NumberOfSteps\NumberOfSteps\bin\Debug\netcoreapp3.1\NumberOfSteps.runtimeconfig.dev.json
+C:\Sakhile\leetcode\NumberOfSteps\NumberOfSteps\bin\Debug\netcoreapp3.1\NumberOfSteps.dll
+C:\Sakhile\leetcode\NumberOfSteps\NumberOfSteps\bin\Debug\netcoreapp3.1\NumberOfSteps.pdb
+C:\Sakhile\leetcode\NumberOfSteps\NumberOfSteps\obj\Debug\netcoreapp3.1\NumberOfSteps.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\NumberOfSteps\NumberOfSteps\obj\Debug\netcoreapp3.1\NumberOfSteps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\NumberOfSteps\NumberOfSteps\obj\Debug\netcoreapp3.1\NumberOfSteps.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\NumberOfSteps\NumberOfSteps\obj\Debug\netcoreapp3.1\NumberOfSteps.AssemblyInfo.cs
+C:\Sakhile\leetcode\NumberOfSteps\NumberOfSteps\obj\Debug\netcoreapp3.1\NumberOfSteps.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\NumberOfSteps\NumberOfSteps\obj\Debug\netcoreapp3.1\NumberOfSteps.dll
+C:\Sakhile\leetcode\NumberOfSteps\NumberOfSteps\obj\Debug\netcoreapp3.1\NumberOfSteps.pdb
+C:\Sakhile\leetcode\NumberOfSteps\NumberOfSteps\obj\Debug\netcoreapp3.1\NumberOfSteps.genruntimeconfig.cache
