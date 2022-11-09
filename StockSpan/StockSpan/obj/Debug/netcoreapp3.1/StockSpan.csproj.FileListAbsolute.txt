@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\StockSpan\StockSpan\obj\Debug\netcoreapp3.1\StockSpan.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\StockSpan\StockSpan\obj\Debug\netcoreapp3.1\StockSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\StockSpan\StockSpan\obj\Debug\netcoreapp3.1\StockSpan.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\StockSpan\StockSpan\obj\Debug\netcoreapp3.1\StockSpan.AssemblyInfo.cs
+C:\Sakhile\leetcode\StockSpan\StockSpan\obj\Debug\netcoreapp3.1\StockSpan.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\StockSpan\StockSpan\bin\Debug\netcoreapp3.1\StockSpan.exe
+C:\Sakhile\leetcode\StockSpan\StockSpan\bin\Debug\netcoreapp3.1\StockSpan.deps.json
+C:\Sakhile\leetcode\StockSpan\StockSpan\bin\Debug\netcoreapp3.1\StockSpan.runtimeconfig.json
+C:\Sakhile\leetcode\StockSpan\StockSpan\bin\Debug\netcoreapp3.1\StockSpan.runtimeconfig.dev.json
+C:\Sakhile\leetcode\StockSpan\StockSpan\bin\Debug\netcoreapp3.1\StockSpan.dll
+C:\Sakhile\leetcode\StockSpan\StockSpan\bin\Debug\netcoreapp3.1\StockSpan.pdb
+C:\Sakhile\leetcode\StockSpan\StockSpan\obj\Debug\netcoreapp3.1\StockSpan.dll
+C:\Sakhile\leetcode\StockSpan\StockSpan\obj\Debug\netcoreapp3.1\StockSpan.pdb
+C:\Sakhile\leetcode\StockSpan\StockSpan\obj\Debug\netcoreapp3.1\StockSpan.genruntimeconfig.cache
