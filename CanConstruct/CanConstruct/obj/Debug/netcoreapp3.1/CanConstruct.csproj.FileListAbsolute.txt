@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\CanConstruct\CanConstruct\bin\Debug\netcoreapp3.1\CanConstruct.exe
+C:\Sakhile\leetcode\CanConstruct\CanConstruct\bin\Debug\netcoreapp3.1\CanConstruct.deps.json
+C:\Sakhile\leetcode\CanConstruct\CanConstruct\bin\Debug\netcoreapp3.1\CanConstruct.runtimeconfig.json
+C:\Sakhile\leetcode\CanConstruct\CanConstruct\bin\Debug\netcoreapp3.1\CanConstruct.runtimeconfig.dev.json
+C:\Sakhile\leetcode\CanConstruct\CanConstruct\bin\Debug\netcoreapp3.1\CanConstruct.dll
+C:\Sakhile\leetcode\CanConstruct\CanConstruct\bin\Debug\netcoreapp3.1\CanConstruct.pdb
+C:\Sakhile\leetcode\CanConstruct\CanConstruct\obj\Debug\netcoreapp3.1\CanConstruct.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\CanConstruct\CanConstruct\obj\Debug\netcoreapp3.1\CanConstruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\CanConstruct\CanConstruct\obj\Debug\netcoreapp3.1\CanConstruct.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\CanConstruct\CanConstruct\obj\Debug\netcoreapp3.1\CanConstruct.AssemblyInfo.cs
+C:\Sakhile\leetcode\CanConstruct\CanConstruct\obj\Debug\netcoreapp3.1\CanConstruct.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\CanConstruct\CanConstruct\obj\Debug\netcoreapp3.1\CanConstruct.dll
+C:\Sakhile\leetcode\CanConstruct\CanConstruct\obj\Debug\netcoreapp3.1\CanConstruct.pdb
+C:\Sakhile\leetcode\CanConstruct\CanConstruct\obj\Debug\netcoreapp3.1\CanConstruct.genruntimeconfig.cache
