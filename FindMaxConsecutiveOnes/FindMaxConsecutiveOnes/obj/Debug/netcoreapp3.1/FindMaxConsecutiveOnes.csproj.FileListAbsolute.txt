@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\FindMaxConsecutiveOnes\FindMaxConsecutiveOnes\bin\Debug\netcoreapp3.1\FindMaxConsecutiveOnes.exe
+C:\Sakhile\leetcode\FindMaxConsecutiveOnes\FindMaxConsecutiveOnes\bin\Debug\netcoreapp3.1\FindMaxConsecutiveOnes.deps.json
+C:\Sakhile\leetcode\FindMaxConsecutiveOnes\FindMaxConsecutiveOnes\bin\Debug\netcoreapp3.1\FindMaxConsecutiveOnes.runtimeconfig.json
+C:\Sakhile\leetcode\FindMaxConsecutiveOnes\FindMaxConsecutiveOnes\bin\Debug\netcoreapp3.1\FindMaxConsecutiveOnes.runtimeconfig.dev.json
+C:\Sakhile\leetcode\FindMaxConsecutiveOnes\FindMaxConsecutiveOnes\bin\Debug\netcoreapp3.1\FindMaxConsecutiveOnes.dll
+C:\Sakhile\leetcode\FindMaxConsecutiveOnes\FindMaxConsecutiveOnes\bin\Debug\netcoreapp3.1\FindMaxConsecutiveOnes.pdb
+C:\Sakhile\leetcode\FindMaxConsecutiveOnes\FindMaxConsecutiveOnes\obj\Debug\netcoreapp3.1\FindMaxConsecutiveOnes.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\FindMaxConsecutiveOnes\FindMaxConsecutiveOnes\obj\Debug\netcoreapp3.1\FindMaxConsecutiveOnes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\FindMaxConsecutiveOnes\FindMaxConsecutiveOnes\obj\Debug\netcoreapp3.1\FindMaxConsecutiveOnes.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\FindMaxConsecutiveOnes\FindMaxConsecutiveOnes\obj\Debug\netcoreapp3.1\FindMaxConsecutiveOnes.AssemblyInfo.cs
+C:\Sakhile\leetcode\FindMaxConsecutiveOnes\FindMaxConsecutiveOnes\obj\Debug\netcoreapp3.1\FindMaxConsecutiveOnes.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\FindMaxConsecutiveOnes\FindMaxConsecutiveOnes\obj\Debug\netcoreapp3.1\FindMaxConsecutiveOnes.dll
+C:\Sakhile\leetcode\FindMaxConsecutiveOnes\FindMaxConsecutiveOnes\obj\Debug\netcoreapp3.1\FindMaxConsecutiveOnes.pdb
+C:\Sakhile\leetcode\FindMaxConsecutiveOnes\FindMaxConsecutiveOnes\obj\Debug\netcoreapp3.1\FindMaxConsecutiveOnes.genruntimeconfig.cache
