@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\MakeGood\MakeGood\bin\Debug\netcoreapp3.1\MakeGood.exe
+C:\Sakhile\leetcode\MakeGood\MakeGood\bin\Debug\netcoreapp3.1\MakeGood.deps.json
+C:\Sakhile\leetcode\MakeGood\MakeGood\bin\Debug\netcoreapp3.1\MakeGood.runtimeconfig.json
+C:\Sakhile\leetcode\MakeGood\MakeGood\bin\Debug\netcoreapp3.1\MakeGood.runtimeconfig.dev.json
+C:\Sakhile\leetcode\MakeGood\MakeGood\bin\Debug\netcoreapp3.1\MakeGood.dll
+C:\Sakhile\leetcode\MakeGood\MakeGood\bin\Debug\netcoreapp3.1\MakeGood.pdb
+C:\Sakhile\leetcode\MakeGood\MakeGood\obj\Debug\netcoreapp3.1\MakeGood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\MakeGood\MakeGood\obj\Debug\netcoreapp3.1\MakeGood.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\MakeGood\MakeGood\obj\Debug\netcoreapp3.1\MakeGood.AssemblyInfo.cs
+C:\Sakhile\leetcode\MakeGood\MakeGood\obj\Debug\netcoreapp3.1\MakeGood.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\MakeGood\MakeGood\obj\Debug\netcoreapp3.1\MakeGood.dll
+C:\Sakhile\leetcode\MakeGood\MakeGood\obj\Debug\netcoreapp3.1\MakeGood.pdb
+C:\Sakhile\leetcode\MakeGood\MakeGood\obj\Debug\netcoreapp3.1\MakeGood.genruntimeconfig.cache
+C:\Sakhile\leetcode\MakeGood\MakeGood\obj\Debug\netcoreapp3.1\MakeGood.csproj.AssemblyReference.cache
