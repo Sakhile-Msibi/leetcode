@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\FindNumbers\FindNumbers\bin\Debug\netcoreapp3.1\FindNumbers.exe
+C:\Sakhile\leetcode\FindNumbers\FindNumbers\bin\Debug\netcoreapp3.1\FindNumbers.deps.json
+C:\Sakhile\leetcode\FindNumbers\FindNumbers\bin\Debug\netcoreapp3.1\FindNumbers.runtimeconfig.json
+C:\Sakhile\leetcode\FindNumbers\FindNumbers\bin\Debug\netcoreapp3.1\FindNumbers.runtimeconfig.dev.json
+C:\Sakhile\leetcode\FindNumbers\FindNumbers\bin\Debug\netcoreapp3.1\FindNumbers.dll
+C:\Sakhile\leetcode\FindNumbers\FindNumbers\bin\Debug\netcoreapp3.1\FindNumbers.pdb
+C:\Sakhile\leetcode\FindNumbers\FindNumbers\obj\Debug\netcoreapp3.1\FindNumbers.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\FindNumbers\FindNumbers\obj\Debug\netcoreapp3.1\FindNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\FindNumbers\FindNumbers\obj\Debug\netcoreapp3.1\FindNumbers.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\FindNumbers\FindNumbers\obj\Debug\netcoreapp3.1\FindNumbers.AssemblyInfo.cs
+C:\Sakhile\leetcode\FindNumbers\FindNumbers\obj\Debug\netcoreapp3.1\FindNumbers.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\FindNumbers\FindNumbers\obj\Debug\netcoreapp3.1\FindNumbers.dll
+C:\Sakhile\leetcode\FindNumbers\FindNumbers\obj\Debug\netcoreapp3.1\FindNumbers.pdb
+C:\Sakhile\leetcode\FindNumbers\FindNumbers\obj\Debug\netcoreapp3.1\FindNumbers.genruntimeconfig.cache
