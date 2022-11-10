@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\SortedSquares\SortedSquares\bin\Debug\netcoreapp3.1\SortedSquares.exe
+C:\Sakhile\leetcode\SortedSquares\SortedSquares\bin\Debug\netcoreapp3.1\SortedSquares.deps.json
+C:\Sakhile\leetcode\SortedSquares\SortedSquares\bin\Debug\netcoreapp3.1\SortedSquares.runtimeconfig.json
+C:\Sakhile\leetcode\SortedSquares\SortedSquares\bin\Debug\netcoreapp3.1\SortedSquares.runtimeconfig.dev.json
+C:\Sakhile\leetcode\SortedSquares\SortedSquares\bin\Debug\netcoreapp3.1\SortedSquares.dll
+C:\Sakhile\leetcode\SortedSquares\SortedSquares\bin\Debug\netcoreapp3.1\SortedSquares.pdb
+C:\Sakhile\leetcode\SortedSquares\SortedSquares\obj\Debug\netcoreapp3.1\SortedSquares.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\SortedSquares\SortedSquares\obj\Debug\netcoreapp3.1\SortedSquares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\SortedSquares\SortedSquares\obj\Debug\netcoreapp3.1\SortedSquares.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\SortedSquares\SortedSquares\obj\Debug\netcoreapp3.1\SortedSquares.AssemblyInfo.cs
+C:\Sakhile\leetcode\SortedSquares\SortedSquares\obj\Debug\netcoreapp3.1\SortedSquares.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\SortedSquares\SortedSquares\obj\Debug\netcoreapp3.1\SortedSquares.dll
+C:\Sakhile\leetcode\SortedSquares\SortedSquares\obj\Debug\netcoreapp3.1\SortedSquares.pdb
+C:\Sakhile\leetcode\SortedSquares\SortedSquares\obj\Debug\netcoreapp3.1\SortedSquares.genruntimeconfig.cache
