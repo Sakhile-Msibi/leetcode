@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\DistinctAverages\DistinctAverages\bin\Debug\netcoreapp3.1\DistinctAverages.exe
+C:\Sakhile\leetcode\DistinctAverages\DistinctAverages\bin\Debug\netcoreapp3.1\DistinctAverages.deps.json
+C:\Sakhile\leetcode\DistinctAverages\DistinctAverages\bin\Debug\netcoreapp3.1\DistinctAverages.runtimeconfig.json
+C:\Sakhile\leetcode\DistinctAverages\DistinctAverages\bin\Debug\netcoreapp3.1\DistinctAverages.runtimeconfig.dev.json
+C:\Sakhile\leetcode\DistinctAverages\DistinctAverages\bin\Debug\netcoreapp3.1\DistinctAverages.dll
+C:\Sakhile\leetcode\DistinctAverages\DistinctAverages\bin\Debug\netcoreapp3.1\DistinctAverages.pdb
+C:\Sakhile\leetcode\DistinctAverages\DistinctAverages\obj\Debug\netcoreapp3.1\DistinctAverages.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\DistinctAverages\DistinctAverages\obj\Debug\netcoreapp3.1\DistinctAverages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\DistinctAverages\DistinctAverages\obj\Debug\netcoreapp3.1\DistinctAverages.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\DistinctAverages\DistinctAverages\obj\Debug\netcoreapp3.1\DistinctAverages.AssemblyInfo.cs
+C:\Sakhile\leetcode\DistinctAverages\DistinctAverages\obj\Debug\netcoreapp3.1\DistinctAverages.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\DistinctAverages\DistinctAverages\obj\Debug\netcoreapp3.1\DistinctAverages.dll
+C:\Sakhile\leetcode\DistinctAverages\DistinctAverages\obj\Debug\netcoreapp3.1\DistinctAverages.pdb
+C:\Sakhile\leetcode\DistinctAverages\DistinctAverages\obj\Debug\netcoreapp3.1\DistinctAverages.genruntimeconfig.cache
