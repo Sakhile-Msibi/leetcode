@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\MoveZeroes\MoveZeroes\bin\Debug\netcoreapp3.1\MoveZeroes.exe
+C:\Sakhile\leetcode\MoveZeroes\MoveZeroes\bin\Debug\netcoreapp3.1\MoveZeroes.deps.json
+C:\Sakhile\leetcode\MoveZeroes\MoveZeroes\bin\Debug\netcoreapp3.1\MoveZeroes.runtimeconfig.json
+C:\Sakhile\leetcode\MoveZeroes\MoveZeroes\bin\Debug\netcoreapp3.1\MoveZeroes.runtimeconfig.dev.json
+C:\Sakhile\leetcode\MoveZeroes\MoveZeroes\bin\Debug\netcoreapp3.1\MoveZeroes.dll
+C:\Sakhile\leetcode\MoveZeroes\MoveZeroes\bin\Debug\netcoreapp3.1\MoveZeroes.pdb
+C:\Sakhile\leetcode\MoveZeroes\MoveZeroes\obj\Debug\netcoreapp3.1\MoveZeroes.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\MoveZeroes\MoveZeroes\obj\Debug\netcoreapp3.1\MoveZeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\MoveZeroes\MoveZeroes\obj\Debug\netcoreapp3.1\MoveZeroes.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\MoveZeroes\MoveZeroes\obj\Debug\netcoreapp3.1\MoveZeroes.AssemblyInfo.cs
+C:\Sakhile\leetcode\MoveZeroes\MoveZeroes\obj\Debug\netcoreapp3.1\MoveZeroes.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\MoveZeroes\MoveZeroes\obj\Debug\netcoreapp3.1\MoveZeroes.dll
+C:\Sakhile\leetcode\MoveZeroes\MoveZeroes\obj\Debug\netcoreapp3.1\MoveZeroes.pdb
+C:\Sakhile\leetcode\MoveZeroes\MoveZeroes\obj\Debug\netcoreapp3.1\MoveZeroes.genruntimeconfig.cache
