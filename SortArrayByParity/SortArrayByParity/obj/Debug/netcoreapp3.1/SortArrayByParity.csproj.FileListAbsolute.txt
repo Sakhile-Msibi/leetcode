@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\SortArrayByParity\SortArrayByParity\bin\Debug\netcoreapp3.1\SortArrayByParity.exe
+C:\Sakhile\leetcode\SortArrayByParity\SortArrayByParity\bin\Debug\netcoreapp3.1\SortArrayByParity.deps.json
+C:\Sakhile\leetcode\SortArrayByParity\SortArrayByParity\bin\Debug\netcoreapp3.1\SortArrayByParity.runtimeconfig.json
+C:\Sakhile\leetcode\SortArrayByParity\SortArrayByParity\bin\Debug\netcoreapp3.1\SortArrayByParity.runtimeconfig.dev.json
+C:\Sakhile\leetcode\SortArrayByParity\SortArrayByParity\bin\Debug\netcoreapp3.1\SortArrayByParity.dll
+C:\Sakhile\leetcode\SortArrayByParity\SortArrayByParity\bin\Debug\netcoreapp3.1\SortArrayByParity.pdb
+C:\Sakhile\leetcode\SortArrayByParity\SortArrayByParity\obj\Debug\netcoreapp3.1\SortArrayByParity.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\SortArrayByParity\SortArrayByParity\obj\Debug\netcoreapp3.1\SortArrayByParity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\SortArrayByParity\SortArrayByParity\obj\Debug\netcoreapp3.1\SortArrayByParity.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\SortArrayByParity\SortArrayByParity\obj\Debug\netcoreapp3.1\SortArrayByParity.AssemblyInfo.cs
+C:\Sakhile\leetcode\SortArrayByParity\SortArrayByParity\obj\Debug\netcoreapp3.1\SortArrayByParity.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\SortArrayByParity\SortArrayByParity\obj\Debug\netcoreapp3.1\SortArrayByParity.dll
+C:\Sakhile\leetcode\SortArrayByParity\SortArrayByParity\obj\Debug\netcoreapp3.1\SortArrayByParity.pdb
+C:\Sakhile\leetcode\SortArrayByParity\SortArrayByParity\obj\Debug\netcoreapp3.1\SortArrayByParity.genruntimeconfig.cache
