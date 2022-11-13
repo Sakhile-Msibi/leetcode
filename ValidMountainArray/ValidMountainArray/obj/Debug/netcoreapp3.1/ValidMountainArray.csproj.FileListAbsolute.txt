@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\ValidMountainArray\ValidMountainArray\bin\Debug\netcoreapp3.1\ValidMountainArray.exe
+C:\Sakhile\leetcode\ValidMountainArray\ValidMountainArray\bin\Debug\netcoreapp3.1\ValidMountainArray.deps.json
+C:\Sakhile\leetcode\ValidMountainArray\ValidMountainArray\bin\Debug\netcoreapp3.1\ValidMountainArray.runtimeconfig.json
+C:\Sakhile\leetcode\ValidMountainArray\ValidMountainArray\bin\Debug\netcoreapp3.1\ValidMountainArray.runtimeconfig.dev.json
+C:\Sakhile\leetcode\ValidMountainArray\ValidMountainArray\bin\Debug\netcoreapp3.1\ValidMountainArray.dll
+C:\Sakhile\leetcode\ValidMountainArray\ValidMountainArray\bin\Debug\netcoreapp3.1\ValidMountainArray.pdb
+C:\Sakhile\leetcode\ValidMountainArray\ValidMountainArray\obj\Debug\netcoreapp3.1\ValidMountainArray.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\ValidMountainArray\ValidMountainArray\obj\Debug\netcoreapp3.1\ValidMountainArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\ValidMountainArray\ValidMountainArray\obj\Debug\netcoreapp3.1\ValidMountainArray.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\ValidMountainArray\ValidMountainArray\obj\Debug\netcoreapp3.1\ValidMountainArray.AssemblyInfo.cs
+C:\Sakhile\leetcode\ValidMountainArray\ValidMountainArray\obj\Debug\netcoreapp3.1\ValidMountainArray.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\ValidMountainArray\ValidMountainArray\obj\Debug\netcoreapp3.1\ValidMountainArray.dll
+C:\Sakhile\leetcode\ValidMountainArray\ValidMountainArray\obj\Debug\netcoreapp3.1\ValidMountainArray.pdb
+C:\Sakhile\leetcode\ValidMountainArray\ValidMountainArray\obj\Debug\netcoreapp3.1\ValidMountainArray.genruntimeconfig.cache
