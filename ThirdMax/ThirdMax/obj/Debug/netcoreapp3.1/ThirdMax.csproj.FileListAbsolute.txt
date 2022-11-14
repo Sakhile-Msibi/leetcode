@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\ThirdMax\ThirdMax\obj\Debug\netcoreapp3.1\ThirdMax.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\ThirdMax\ThirdMax\obj\Debug\netcoreapp3.1\ThirdMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\ThirdMax\ThirdMax\obj\Debug\netcoreapp3.1\ThirdMax.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\ThirdMax\ThirdMax\obj\Debug\netcoreapp3.1\ThirdMax.AssemblyInfo.cs
+C:\Sakhile\leetcode\ThirdMax\ThirdMax\obj\Debug\netcoreapp3.1\ThirdMax.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\ThirdMax\ThirdMax\bin\Debug\netcoreapp3.1\ThirdMax.exe
+C:\Sakhile\leetcode\ThirdMax\ThirdMax\bin\Debug\netcoreapp3.1\ThirdMax.deps.json
+C:\Sakhile\leetcode\ThirdMax\ThirdMax\bin\Debug\netcoreapp3.1\ThirdMax.runtimeconfig.json
+C:\Sakhile\leetcode\ThirdMax\ThirdMax\bin\Debug\netcoreapp3.1\ThirdMax.runtimeconfig.dev.json
+C:\Sakhile\leetcode\ThirdMax\ThirdMax\bin\Debug\netcoreapp3.1\ThirdMax.dll
+C:\Sakhile\leetcode\ThirdMax\ThirdMax\bin\Debug\netcoreapp3.1\ThirdMax.pdb
+C:\Sakhile\leetcode\ThirdMax\ThirdMax\obj\Debug\netcoreapp3.1\ThirdMax.dll
+C:\Sakhile\leetcode\ThirdMax\ThirdMax\obj\Debug\netcoreapp3.1\ThirdMax.pdb
+C:\Sakhile\leetcode\ThirdMax\ThirdMax\obj\Debug\netcoreapp3.1\ThirdMax.genruntimeconfig.cache
