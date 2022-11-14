@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\HeightChecker\HeightChecker\bin\Debug\netcoreapp3.1\HeightChecker.exe
+C:\Sakhile\leetcode\HeightChecker\HeightChecker\bin\Debug\netcoreapp3.1\HeightChecker.deps.json
+C:\Sakhile\leetcode\HeightChecker\HeightChecker\bin\Debug\netcoreapp3.1\HeightChecker.runtimeconfig.json
+C:\Sakhile\leetcode\HeightChecker\HeightChecker\bin\Debug\netcoreapp3.1\HeightChecker.runtimeconfig.dev.json
+C:\Sakhile\leetcode\HeightChecker\HeightChecker\bin\Debug\netcoreapp3.1\HeightChecker.dll
+C:\Sakhile\leetcode\HeightChecker\HeightChecker\bin\Debug\netcoreapp3.1\HeightChecker.pdb
+C:\Sakhile\leetcode\HeightChecker\HeightChecker\obj\Debug\netcoreapp3.1\HeightChecker.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\HeightChecker\HeightChecker\obj\Debug\netcoreapp3.1\HeightChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\HeightChecker\HeightChecker\obj\Debug\netcoreapp3.1\HeightChecker.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\HeightChecker\HeightChecker\obj\Debug\netcoreapp3.1\HeightChecker.AssemblyInfo.cs
+C:\Sakhile\leetcode\HeightChecker\HeightChecker\obj\Debug\netcoreapp3.1\HeightChecker.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\HeightChecker\HeightChecker\obj\Debug\netcoreapp3.1\HeightChecker.dll
+C:\Sakhile\leetcode\HeightChecker\HeightChecker\obj\Debug\netcoreapp3.1\HeightChecker.pdb
+C:\Sakhile\leetcode\HeightChecker\HeightChecker\obj\Debug\netcoreapp3.1\HeightChecker.genruntimeconfig.cache
