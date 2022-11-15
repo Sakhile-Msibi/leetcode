@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\PivotIndex\PivotIndex\bin\Debug\netcoreapp3.1\PivotIndex.exe
+C:\Sakhile\leetcode\PivotIndex\PivotIndex\bin\Debug\netcoreapp3.1\PivotIndex.deps.json
+C:\Sakhile\leetcode\PivotIndex\PivotIndex\bin\Debug\netcoreapp3.1\PivotIndex.runtimeconfig.json
+C:\Sakhile\leetcode\PivotIndex\PivotIndex\bin\Debug\netcoreapp3.1\PivotIndex.runtimeconfig.dev.json
+C:\Sakhile\leetcode\PivotIndex\PivotIndex\bin\Debug\netcoreapp3.1\PivotIndex.dll
+C:\Sakhile\leetcode\PivotIndex\PivotIndex\bin\Debug\netcoreapp3.1\PivotIndex.pdb
+C:\Sakhile\leetcode\PivotIndex\PivotIndex\obj\Debug\netcoreapp3.1\PivotIndex.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\PivotIndex\PivotIndex\obj\Debug\netcoreapp3.1\PivotIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\PivotIndex\PivotIndex\obj\Debug\netcoreapp3.1\PivotIndex.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\PivotIndex\PivotIndex\obj\Debug\netcoreapp3.1\PivotIndex.AssemblyInfo.cs
+C:\Sakhile\leetcode\PivotIndex\PivotIndex\obj\Debug\netcoreapp3.1\PivotIndex.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\PivotIndex\PivotIndex\obj\Debug\netcoreapp3.1\PivotIndex.dll
+C:\Sakhile\leetcode\PivotIndex\PivotIndex\obj\Debug\netcoreapp3.1\PivotIndex.pdb
+C:\Sakhile\leetcode\PivotIndex\PivotIndex\obj\Debug\netcoreapp3.1\PivotIndex.genruntimeconfig.cache
