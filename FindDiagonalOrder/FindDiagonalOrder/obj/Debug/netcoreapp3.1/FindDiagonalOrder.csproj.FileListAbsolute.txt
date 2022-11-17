@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\FindDiagonalOrder\FindDiagonalOrder\bin\Debug\netcoreapp3.1\FindDiagonalOrder.exe
+C:\Sakhile\leetcode\FindDiagonalOrder\FindDiagonalOrder\bin\Debug\netcoreapp3.1\FindDiagonalOrder.deps.json
+C:\Sakhile\leetcode\FindDiagonalOrder\FindDiagonalOrder\bin\Debug\netcoreapp3.1\FindDiagonalOrder.runtimeconfig.json
+C:\Sakhile\leetcode\FindDiagonalOrder\FindDiagonalOrder\bin\Debug\netcoreapp3.1\FindDiagonalOrder.runtimeconfig.dev.json
+C:\Sakhile\leetcode\FindDiagonalOrder\FindDiagonalOrder\bin\Debug\netcoreapp3.1\FindDiagonalOrder.dll
+C:\Sakhile\leetcode\FindDiagonalOrder\FindDiagonalOrder\bin\Debug\netcoreapp3.1\FindDiagonalOrder.pdb
+C:\Sakhile\leetcode\FindDiagonalOrder\FindDiagonalOrder\obj\Debug\netcoreapp3.1\FindDiagonalOrder.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\FindDiagonalOrder\FindDiagonalOrder\obj\Debug\netcoreapp3.1\FindDiagonalOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\FindDiagonalOrder\FindDiagonalOrder\obj\Debug\netcoreapp3.1\FindDiagonalOrder.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\FindDiagonalOrder\FindDiagonalOrder\obj\Debug\netcoreapp3.1\FindDiagonalOrder.AssemblyInfo.cs
+C:\Sakhile\leetcode\FindDiagonalOrder\FindDiagonalOrder\obj\Debug\netcoreapp3.1\FindDiagonalOrder.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\FindDiagonalOrder\FindDiagonalOrder\obj\Debug\netcoreapp3.1\FindDiagonalOrder.dll
+C:\Sakhile\leetcode\FindDiagonalOrder\FindDiagonalOrder\obj\Debug\netcoreapp3.1\FindDiagonalOrder.pdb
+C:\Sakhile\leetcode\FindDiagonalOrder\FindDiagonalOrder\obj\Debug\netcoreapp3.1\FindDiagonalOrder.genruntimeconfig.cache
