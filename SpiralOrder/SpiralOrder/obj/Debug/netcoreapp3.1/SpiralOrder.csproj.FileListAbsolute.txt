@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\SpiralOrder\SpiralOrder\bin\Debug\netcoreapp3.1\SpiralOrder.exe
+C:\Sakhile\leetcode\SpiralOrder\SpiralOrder\bin\Debug\netcoreapp3.1\SpiralOrder.deps.json
+C:\Sakhile\leetcode\SpiralOrder\SpiralOrder\bin\Debug\netcoreapp3.1\SpiralOrder.runtimeconfig.json
+C:\Sakhile\leetcode\SpiralOrder\SpiralOrder\bin\Debug\netcoreapp3.1\SpiralOrder.runtimeconfig.dev.json
+C:\Sakhile\leetcode\SpiralOrder\SpiralOrder\bin\Debug\netcoreapp3.1\SpiralOrder.dll
+C:\Sakhile\leetcode\SpiralOrder\SpiralOrder\bin\Debug\netcoreapp3.1\SpiralOrder.pdb
+C:\Sakhile\leetcode\SpiralOrder\SpiralOrder\obj\Debug\netcoreapp3.1\SpiralOrder.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\SpiralOrder\SpiralOrder\obj\Debug\netcoreapp3.1\SpiralOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\SpiralOrder\SpiralOrder\obj\Debug\netcoreapp3.1\SpiralOrder.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\SpiralOrder\SpiralOrder\obj\Debug\netcoreapp3.1\SpiralOrder.AssemblyInfo.cs
+C:\Sakhile\leetcode\SpiralOrder\SpiralOrder\obj\Debug\netcoreapp3.1\SpiralOrder.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\SpiralOrder\SpiralOrder\obj\Debug\netcoreapp3.1\SpiralOrder.dll
+C:\Sakhile\leetcode\SpiralOrder\SpiralOrder\obj\Debug\netcoreapp3.1\SpiralOrder.pdb
+C:\Sakhile\leetcode\SpiralOrder\SpiralOrder\obj\Debug\netcoreapp3.1\SpiralOrder.genruntimeconfig.cache
