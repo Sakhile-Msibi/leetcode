@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\RomanToIntUsingDictionary\RomanToIntUsingDictionary\bin\Debug\netcoreapp3.1\RomanToIntUsingDictionary.exe
+C:\Sakhile\leetcode\RomanToIntUsingDictionary\RomanToIntUsingDictionary\bin\Debug\netcoreapp3.1\RomanToIntUsingDictionary.deps.json
+C:\Sakhile\leetcode\RomanToIntUsingDictionary\RomanToIntUsingDictionary\bin\Debug\netcoreapp3.1\RomanToIntUsingDictionary.runtimeconfig.json
+C:\Sakhile\leetcode\RomanToIntUsingDictionary\RomanToIntUsingDictionary\bin\Debug\netcoreapp3.1\RomanToIntUsingDictionary.runtimeconfig.dev.json
+C:\Sakhile\leetcode\RomanToIntUsingDictionary\RomanToIntUsingDictionary\bin\Debug\netcoreapp3.1\RomanToIntUsingDictionary.dll
+C:\Sakhile\leetcode\RomanToIntUsingDictionary\RomanToIntUsingDictionary\bin\Debug\netcoreapp3.1\RomanToIntUsingDictionary.pdb
+C:\Sakhile\leetcode\RomanToIntUsingDictionary\RomanToIntUsingDictionary\obj\Debug\netcoreapp3.1\RomanToIntUsingDictionary.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\RomanToIntUsingDictionary\RomanToIntUsingDictionary\obj\Debug\netcoreapp3.1\RomanToIntUsingDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\RomanToIntUsingDictionary\RomanToIntUsingDictionary\obj\Debug\netcoreapp3.1\RomanToIntUsingDictionary.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\RomanToIntUsingDictionary\RomanToIntUsingDictionary\obj\Debug\netcoreapp3.1\RomanToIntUsingDictionary.AssemblyInfo.cs
+C:\Sakhile\leetcode\RomanToIntUsingDictionary\RomanToIntUsingDictionary\obj\Debug\netcoreapp3.1\RomanToIntUsingDictionary.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\RomanToIntUsingDictionary\RomanToIntUsingDictionary\obj\Debug\netcoreapp3.1\RomanToIntUsingDictionary.dll
+C:\Sakhile\leetcode\RomanToIntUsingDictionary\RomanToIntUsingDictionary\obj\Debug\netcoreapp3.1\RomanToIntUsingDictionary.pdb
+C:\Sakhile\leetcode\RomanToIntUsingDictionary\RomanToIntUsingDictionary\obj\Debug\netcoreapp3.1\RomanToIntUsingDictionary.genruntimeconfig.cache
