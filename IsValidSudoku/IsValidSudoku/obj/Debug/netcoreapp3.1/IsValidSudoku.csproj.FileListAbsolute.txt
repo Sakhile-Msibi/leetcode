@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\bin\Debug\netcoreapp3.1\IsValidSudoku.exe
+C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\bin\Debug\netcoreapp3.1\IsValidSudoku.deps.json
+C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\bin\Debug\netcoreapp3.1\IsValidSudoku.runtimeconfig.json
+C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\bin\Debug\netcoreapp3.1\IsValidSudoku.runtimeconfig.dev.json
+C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\bin\Debug\netcoreapp3.1\IsValidSudoku.dll
+C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\bin\Debug\netcoreapp3.1\IsValidSudoku.pdb
+C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.AssemblyInfo.cs
+C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.dll
+C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.pdb
+C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.genruntimeconfig.cache
