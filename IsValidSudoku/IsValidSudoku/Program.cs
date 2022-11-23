@@ -34,6 +34,19 @@ namespace IsValidSudoku
                 { '9', 0 }
             };
 
+            Dictionary<char, int> subBoxesSudokuValues = new Dictionary<char, int>()
+            {
+                { '1', 0 },
+                { '2', 0 },
+                { '3', 0 },
+                { '4', 0 },
+                { '5', 0 },
+                { '6', 0 },
+                { '7', 0 },
+                { '8', 0 },
+                { '9', 0 }
+            };
+
             for (int i = 0; i < board.Length; i++)
             {
                 for (int j = 0; j < board[i].Length; j++)
@@ -76,7 +89,6 @@ namespace IsValidSudoku
                     //        return false;
                     //}
 
-
                     ////for (int k = i + 1; k < board.Length - 1; k++)
                     ////{
                     ////    if (board[i][j] != 46)
@@ -99,16 +111,55 @@ namespace IsValidSudoku
                 {
                     for (int k = 0; k < 3; k++)
                     {
-                        if (board[i][j] != 46)
+                        if (board[j][k] != 46)
                         {
-                            if (board[i][j] == rowsSudokuValues.ElementAt(board[i][j] - 49).Key)
-                                rowsSudokuValues[rowsSudokuValues.ElementAt(board[i][j] - 49).Key]++;
+                            if (board[j][k] == subBoxesSudokuValues.ElementAt(board[j][k] - 49).Key)
+                                subBoxesSudokuValues[subBoxesSudokuValues.ElementAt(board[j][k] - 49).Key]++;
 
-                            if (rowsSudokuValues[rowsSudokuValues.ElementAt(board[i][j] - 49).Key] > 1)
+                            if (subBoxesSudokuValues[subBoxesSudokuValues.ElementAt(board[j][k] - 49).Key] > 1)
                                 return false;
                         }
                     }
                 }
+
+
+                rowsSudokuValues = new Dictionary<char, int>()
+                {
+                    { '1', 0 },
+                    { '2', 0 },
+                    { '3', 0 },
+                    { '4', 0 },
+                    { '5', 0 },
+                    { '6', 0 },
+                    { '7', 0 },
+                    { '8', 0 },
+                    { '9', 0 }
+                };
+
+                columnsSudokuValues = new Dictionary<char, int>()
+                {
+                    { '1', 0 },
+                    { '2', 0 },
+                    { '3', 0 },
+                    { '4', 0 },
+                    { '5', 0 },
+                    { '6', 0 },
+                    { '7', 0 },
+                    { '8', 0 },
+                    { '9', 0 }
+                };
+                subBoxesSudokuValues = new Dictionary<char, int>()
+                {
+                    { '1', 0 },
+                    { '2', 0 },
+                    { '3', 0 },
+                    { '4', 0 },
+                    { '5', 0 },
+                    { '6', 0 },
+                    { '7', 0 },
+                    { '8', 0 },
+                    { '9', 0 }
+                };
             }
 
             return true;
@@ -119,7 +170,15 @@ namespace IsValidSudoku
 
             char[][] board =
             {
-                new char[] { '5', '3', '.', '.', '7', '.', '.', '.', '.' }
+                new char[] { '8', '3', '.', '.', '7', '.', '.', '.', '.' },
+                new char[] { '6', '.', '.', '1', '9', '5', '.', '.', '.' },
+                new char[] { '.', '9', '8', '.', '.', '.', '.', '6', '.' },
+                new char[] { '8', '.', '.', '.', '6', '.', '.', '.', '3' },
+                new char[] { '4', '.', '.', '8', '.', '3', '.', '.', '1' },
+                new char[] { '7', '.', '.', '.', '2', '.', '.', '.', '6' },
+                new char[] { '.', '6', '.', '.', '.', '.', '2', '8', '.' },
+                new char[] { '.', '.', '.', '4', '1', '9', '.', '.', '5' },
+                new char[] { '.', '.', '.', '.', '8', '.', '.', '7', '9' }
             };
 
             Console.WriteLine(program.SudokuValidation(board));
