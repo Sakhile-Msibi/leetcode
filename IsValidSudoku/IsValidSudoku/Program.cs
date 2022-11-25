@@ -47,6 +47,9 @@ namespace IsValidSudoku
                 { '9', 0 }
             };
 
+            int x = 0;
+            int y = 0;
+
             for (int i = 0; i < board.Length; i++)
             {
                 for (int j = 0; j < board[i].Length; j++)
@@ -62,54 +65,21 @@ namespace IsValidSudoku
                             return false;
                     }
 
-                    //for (int k = j + 1; k < board[i].Length - 1; k++)
-                    //{
-                    //    if (board[i][j] != 46)
-                    //    {
-                    //        if (board[i][k] != 46)
-                    //        {
-                    //            if (board[i][j] == board[i][k])
-                    //                return false;
-                    //        }
-                    //    }
-                    //}
-
-                    ////Compare the current value board[i][j] to the last column of j
-                    //if (board[i][j] == board[i][board[i].Length - 1])
-                    //    return false;
-
-
                     //Checks columns
-                    //if (board[j][i] != 46)
-                    //{
-                    //    if (board[j][i] == columnsSudokuValues.ElementAt(board[j][i] - 49).Key)
-                    //        columnsSudokuValues[columnsSudokuValues.ElementAt(board[j][i] - 49).Key]++;
+                    if (board[j][i] != 46)
+                    {
+                        if (board[j][i] == columnsSudokuValues.ElementAt(board[j][i] - 49).Key)
+                            columnsSudokuValues[columnsSudokuValues.ElementAt(board[j][i] - 49).Key]++;
 
-                    //    if (columnsSudokuValues[columnsSudokuValues.ElementAt(board[j][i] - 49).Key] > 1)
-                    //        return false;
-                    //}
-
-                    ////for (int k = i + 1; k < board.Length - 1; k++)
-                    ////{
-                    ////    if (board[i][j] != 46)
-                    ////    {
-                    ////        if (board[k][j] != 46)
-                    ////        {
-                    ////            if (board[i][j] == board[k][j])
-                    ////                return false;
-                    ////        }
-                    ////    }
-                    ////}
-
-                    //////Compare the current value board[i][j] to the last row of i
-                    ////if (board[i][j] == board[board.Length - 1][j])
-                    ////    return false;
+                        if (columnsSudokuValues[columnsSudokuValues.ElementAt(board[j][i] - 49).Key] > 1)
+                            return false;
+                    }
                 }
 
                 //Checks the 3 X 3 sub-boxes
-                for (int j = 0; j < 3; j++)
+                for (int j = 0 + y; j < 3 + y; j++)
                 {
-                    for (int k = 0; k < 3; k++)
+                    for (int k = 0 + x; k < 3 + x; k++)
                     {
                         if (board[j][k] != 46)
                         {
@@ -121,7 +91,6 @@ namespace IsValidSudoku
                         }
                     }
                 }
-
 
                 rowsSudokuValues = new Dictionary<char, int>()
                 {
@@ -148,6 +117,7 @@ namespace IsValidSudoku
                     { '8', 0 },
                     { '9', 0 }
                 };
+
                 subBoxesSudokuValues = new Dictionary<char, int>()
                 {
                     { '1', 0 },
@@ -160,6 +130,29 @@ namespace IsValidSudoku
                     { '8', 0 },
                     { '9', 0 }
                 };
+
+                if (i >= 0 && i <= 1)
+                {
+                    y += 3;
+                }
+                else if (i == 2)
+                {
+                    x += 3;
+                    y = 0;
+                }
+                else if (i >= 3 && i <= 4)
+                {
+                    y += 3;
+                }
+                else if (i == 5)
+                {
+                    x += 3;
+                    y = 0;
+                }
+                else if (i >= 6 && i <= 7)
+                {
+                    y += 3;
+                }
             }
 
             return true;
@@ -170,7 +163,7 @@ namespace IsValidSudoku
 
             char[][] board =
             {
-                new char[] { '8', '3', '.', '.', '7', '.', '.', '.', '.' },
+                new char[] { '5', '3', '.', '.', '7', '.', '.', '.', '.' },
                 new char[] { '6', '.', '.', '1', '9', '5', '.', '.', '.' },
                 new char[] { '.', '9', '8', '.', '.', '.', '.', '6', '.' },
                 new char[] { '8', '.', '.', '.', '6', '.', '.', '.', '3' },
