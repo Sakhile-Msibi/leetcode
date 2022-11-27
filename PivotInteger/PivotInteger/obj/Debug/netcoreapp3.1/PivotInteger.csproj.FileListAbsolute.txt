@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\PivotInteger\PivotInteger\bin\Debug\netcoreapp3.1\PivotInteger.exe
+C:\Sakhile\leetcode\PivotInteger\PivotInteger\bin\Debug\netcoreapp3.1\PivotInteger.deps.json
+C:\Sakhile\leetcode\PivotInteger\PivotInteger\bin\Debug\netcoreapp3.1\PivotInteger.runtimeconfig.json
+C:\Sakhile\leetcode\PivotInteger\PivotInteger\bin\Debug\netcoreapp3.1\PivotInteger.runtimeconfig.dev.json
+C:\Sakhile\leetcode\PivotInteger\PivotInteger\bin\Debug\netcoreapp3.1\PivotInteger.dll
+C:\Sakhile\leetcode\PivotInteger\PivotInteger\bin\Debug\netcoreapp3.1\PivotInteger.pdb
+C:\Sakhile\leetcode\PivotInteger\PivotInteger\obj\Debug\netcoreapp3.1\PivotInteger.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\PivotInteger\PivotInteger\obj\Debug\netcoreapp3.1\PivotInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\PivotInteger\PivotInteger\obj\Debug\netcoreapp3.1\PivotInteger.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\PivotInteger\PivotInteger\obj\Debug\netcoreapp3.1\PivotInteger.AssemblyInfo.cs
+C:\Sakhile\leetcode\PivotInteger\PivotInteger\obj\Debug\netcoreapp3.1\PivotInteger.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\PivotInteger\PivotInteger\obj\Debug\netcoreapp3.1\PivotInteger.dll
+C:\Sakhile\leetcode\PivotInteger\PivotInteger\obj\Debug\netcoreapp3.1\PivotInteger.pdb
+C:\Sakhile\leetcode\PivotInteger\PivotInteger\obj\Debug\netcoreapp3.1\PivotInteger.genruntimeconfig.cache
