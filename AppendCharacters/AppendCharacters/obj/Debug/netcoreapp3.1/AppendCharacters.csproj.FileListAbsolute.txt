@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\AppendCharacters\AppendCharacters\bin\Debug\netcoreapp3.1\AppendCharacters.exe
+C:\Sakhile\leetcode\AppendCharacters\AppendCharacters\bin\Debug\netcoreapp3.1\AppendCharacters.deps.json
+C:\Sakhile\leetcode\AppendCharacters\AppendCharacters\bin\Debug\netcoreapp3.1\AppendCharacters.runtimeconfig.json
+C:\Sakhile\leetcode\AppendCharacters\AppendCharacters\bin\Debug\netcoreapp3.1\AppendCharacters.runtimeconfig.dev.json
+C:\Sakhile\leetcode\AppendCharacters\AppendCharacters\bin\Debug\netcoreapp3.1\AppendCharacters.dll
+C:\Sakhile\leetcode\AppendCharacters\AppendCharacters\bin\Debug\netcoreapp3.1\AppendCharacters.pdb
+C:\Sakhile\leetcode\AppendCharacters\AppendCharacters\obj\Debug\netcoreapp3.1\AppendCharacters.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\AppendCharacters\AppendCharacters\obj\Debug\netcoreapp3.1\AppendCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\AppendCharacters\AppendCharacters\obj\Debug\netcoreapp3.1\AppendCharacters.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\AppendCharacters\AppendCharacters\obj\Debug\netcoreapp3.1\AppendCharacters.AssemblyInfo.cs
+C:\Sakhile\leetcode\AppendCharacters\AppendCharacters\obj\Debug\netcoreapp3.1\AppendCharacters.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\AppendCharacters\AppendCharacters\obj\Debug\netcoreapp3.1\AppendCharacters.dll
+C:\Sakhile\leetcode\AppendCharacters\AppendCharacters\obj\Debug\netcoreapp3.1\AppendCharacters.pdb
+C:\Sakhile\leetcode\AppendCharacters\AppendCharacters\obj\Debug\netcoreapp3.1\AppendCharacters.genruntimeconfig.cache
