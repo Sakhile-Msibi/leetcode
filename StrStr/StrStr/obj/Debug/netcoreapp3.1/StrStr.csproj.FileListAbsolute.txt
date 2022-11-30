@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\StrStr\StrStr\bin\Debug\netcoreapp3.1\StrStr.exe
+C:\Sakhile\leetcode\StrStr\StrStr\bin\Debug\netcoreapp3.1\StrStr.deps.json
+C:\Sakhile\leetcode\StrStr\StrStr\bin\Debug\netcoreapp3.1\StrStr.runtimeconfig.json
+C:\Sakhile\leetcode\StrStr\StrStr\bin\Debug\netcoreapp3.1\StrStr.runtimeconfig.dev.json
+C:\Sakhile\leetcode\StrStr\StrStr\bin\Debug\netcoreapp3.1\StrStr.dll
+C:\Sakhile\leetcode\StrStr\StrStr\bin\Debug\netcoreapp3.1\StrStr.pdb
+C:\Sakhile\leetcode\StrStr\StrStr\obj\Debug\netcoreapp3.1\StrStr.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\StrStr\StrStr\obj\Debug\netcoreapp3.1\StrStr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\StrStr\StrStr\obj\Debug\netcoreapp3.1\StrStr.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\StrStr\StrStr\obj\Debug\netcoreapp3.1\StrStr.AssemblyInfo.cs
+C:\Sakhile\leetcode\StrStr\StrStr\obj\Debug\netcoreapp3.1\StrStr.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\StrStr\StrStr\obj\Debug\netcoreapp3.1\StrStr.dll
+C:\Sakhile\leetcode\StrStr\StrStr\obj\Debug\netcoreapp3.1\StrStr.pdb
+C:\Sakhile\leetcode\StrStr\StrStr\obj\Debug\netcoreapp3.1\StrStr.genruntimeconfig.cache
