@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\UniqueOccurrences\UniqueOccurrences\bin\Debug\netcoreapp3.1\UniqueOccurrences.exe
+C:\Sakhile\leetcode\UniqueOccurrences\UniqueOccurrences\bin\Debug\netcoreapp3.1\UniqueOccurrences.deps.json
+C:\Sakhile\leetcode\UniqueOccurrences\UniqueOccurrences\bin\Debug\netcoreapp3.1\UniqueOccurrences.runtimeconfig.json
+C:\Sakhile\leetcode\UniqueOccurrences\UniqueOccurrences\bin\Debug\netcoreapp3.1\UniqueOccurrences.runtimeconfig.dev.json
+C:\Sakhile\leetcode\UniqueOccurrences\UniqueOccurrences\bin\Debug\netcoreapp3.1\UniqueOccurrences.dll
+C:\Sakhile\leetcode\UniqueOccurrences\UniqueOccurrences\bin\Debug\netcoreapp3.1\UniqueOccurrences.pdb
+C:\Sakhile\leetcode\UniqueOccurrences\UniqueOccurrences\obj\Debug\netcoreapp3.1\UniqueOccurrences.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\UniqueOccurrences\UniqueOccurrences\obj\Debug\netcoreapp3.1\UniqueOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\UniqueOccurrences\UniqueOccurrences\obj\Debug\netcoreapp3.1\UniqueOccurrences.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\UniqueOccurrences\UniqueOccurrences\obj\Debug\netcoreapp3.1\UniqueOccurrences.AssemblyInfo.cs
+C:\Sakhile\leetcode\UniqueOccurrences\UniqueOccurrences\obj\Debug\netcoreapp3.1\UniqueOccurrences.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\UniqueOccurrences\UniqueOccurrences\obj\Debug\netcoreapp3.1\UniqueOccurrences.dll
+C:\Sakhile\leetcode\UniqueOccurrences\UniqueOccurrences\obj\Debug\netcoreapp3.1\UniqueOccurrences.pdb
+C:\Sakhile\leetcode\UniqueOccurrences\UniqueOccurrences\obj\Debug\netcoreapp3.1\UniqueOccurrences.genruntimeconfig.cache
