@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\netcoreapp3.1\LongestCommonPrefix.exe
+C:\Sakhile\leetcode\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\netcoreapp3.1\LongestCommonPrefix.deps.json
+C:\Sakhile\leetcode\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\netcoreapp3.1\LongestCommonPrefix.runtimeconfig.json
+C:\Sakhile\leetcode\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\netcoreapp3.1\LongestCommonPrefix.runtimeconfig.dev.json
+C:\Sakhile\leetcode\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\netcoreapp3.1\LongestCommonPrefix.dll
+C:\Sakhile\leetcode\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\netcoreapp3.1\LongestCommonPrefix.pdb
+C:\Sakhile\leetcode\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp3.1\LongestCommonPrefix.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp3.1\LongestCommonPrefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp3.1\LongestCommonPrefix.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp3.1\LongestCommonPrefix.AssemblyInfo.cs
+C:\Sakhile\leetcode\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp3.1\LongestCommonPrefix.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp3.1\LongestCommonPrefix.dll
+C:\Sakhile\leetcode\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp3.1\LongestCommonPrefix.pdb
+C:\Sakhile\leetcode\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp3.1\LongestCommonPrefix.genruntimeconfig.cache
