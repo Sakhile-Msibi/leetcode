@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\HalvesAreAlike\HalvesAreAlike\bin\Debug\netcoreapp3.1\HalvesAreAlike.exe
+C:\Sakhile\leetcode\HalvesAreAlike\HalvesAreAlike\bin\Debug\netcoreapp3.1\HalvesAreAlike.deps.json
+C:\Sakhile\leetcode\HalvesAreAlike\HalvesAreAlike\bin\Debug\netcoreapp3.1\HalvesAreAlike.runtimeconfig.json
+C:\Sakhile\leetcode\HalvesAreAlike\HalvesAreAlike\bin\Debug\netcoreapp3.1\HalvesAreAlike.runtimeconfig.dev.json
+C:\Sakhile\leetcode\HalvesAreAlike\HalvesAreAlike\bin\Debug\netcoreapp3.1\HalvesAreAlike.dll
+C:\Sakhile\leetcode\HalvesAreAlike\HalvesAreAlike\bin\Debug\netcoreapp3.1\HalvesAreAlike.pdb
+C:\Sakhile\leetcode\HalvesAreAlike\HalvesAreAlike\obj\Debug\netcoreapp3.1\HalvesAreAlike.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\HalvesAreAlike\HalvesAreAlike\obj\Debug\netcoreapp3.1\HalvesAreAlike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\HalvesAreAlike\HalvesAreAlike\obj\Debug\netcoreapp3.1\HalvesAreAlike.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\HalvesAreAlike\HalvesAreAlike\obj\Debug\netcoreapp3.1\HalvesAreAlike.AssemblyInfo.cs
+C:\Sakhile\leetcode\HalvesAreAlike\HalvesAreAlike\obj\Debug\netcoreapp3.1\HalvesAreAlike.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\HalvesAreAlike\HalvesAreAlike\obj\Debug\netcoreapp3.1\HalvesAreAlike.dll
+C:\Sakhile\leetcode\HalvesAreAlike\HalvesAreAlike\obj\Debug\netcoreapp3.1\HalvesAreAlike.pdb
+C:\Sakhile\leetcode\HalvesAreAlike\HalvesAreAlike\obj\Debug\netcoreapp3.1\HalvesAreAlike.genruntimeconfig.cache
