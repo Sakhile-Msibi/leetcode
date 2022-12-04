@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace MinimumAverageDifference
 {
@@ -12,9 +13,10 @@ namespace MinimumAverageDifference
             int averageOfFirstElemnts = 0;
             int averageOfLastElemnts = 0;
 
-            int average = 0;
+            List<int> average = new List<int>();
             int minAverage = int.MaxValue;
-            int minIndex = -1;
+            int minIndex = int.MaxValue;
+            List<int> indexList = new List<int>();
 
             if (nums.Length == 1)
                 return 0;
@@ -42,23 +44,19 @@ namespace MinimumAverageDifference
 
                 averageOfLastElemnts = sumOfLastElemnts / (nums.Length - i);
 
-                average = Math.Abs(averageOfFirstElemnts - averageOfLastElemnts);
-
-                if (average < minAverage)
-                {
-                    minAverage = average;
-                    if (i == 0)
-                        minIndex = nums.Length - 1;
-                    else
-                        minIndex = i - 1;
-
-                    if (minAverage == 0)
-                        return minIndex;
-                }
+                average.Add(Convert.ToInt32(Math.Abs(averageOfFirstElemnts - averageOfLastElemnts)));
 
                 sumOfFirstElemnts = 0;
                 sumOfLastElemnts = 0;
             }
+
+            int lastaverage = average[0];
+            average.Remove(average[0]);
+            minIndex = average.IndexOf(average.Min());
+            minAverage = Math.Min(average.Min(), lastaverage);
+
+            if (minAverage == lastaverage && lastaverage < average.Min())
+                return nums.Length - 1;
 
             return minIndex;
         }
@@ -67,12 +65,16 @@ namespace MinimumAverageDifference
             Program program = new Program();
 
             int[] nums = { 2, 5, 3, 9, 5, 3 };
-            int[] nums1 = { 0 };
+            int[] nums1 = { 0,4,3,0,0 };
             int[] nums2 = { 0, 0, 0, 0, 0 };
+            int[] nums3 = { 5,4,3,2,1 };
+            int[] nums4 = { 4, 2, 0 };
 
             //Console.WriteLine(program.FindMinimumAverageDifference(nums));
             //Console.WriteLine(program.FindMinimumAverageDifference(nums1));
-            Console.WriteLine(program.FindMinimumAverageDifference(nums2));
+            //Console.WriteLine(program.FindMinimumAverageDifference(nums2));
+            //Console.WriteLine(program.FindMinimumAverageDifference(nums3));
+            Console.WriteLine(program.FindMinimumAverageDifference(nums4));
             Console.ReadKey();
         }
     }

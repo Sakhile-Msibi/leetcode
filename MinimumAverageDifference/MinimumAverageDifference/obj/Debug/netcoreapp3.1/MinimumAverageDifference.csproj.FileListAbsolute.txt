@@ -12,3 +12,17 @@ C:\Sakhile\leetcode\MinimumAverageDifference\MinimumAverageDifference\obj\Debug\
 C:\Sakhile\leetcode\MinimumAverageDifference\MinimumAverageDifference\obj\Debug\netcoreapp3.1\MinimumAverageDifference.dll
 C:\Sakhile\leetcode\MinimumAverageDifference\MinimumAverageDifference\obj\Debug\netcoreapp3.1\MinimumAverageDifference.pdb
 C:\Sakhile\leetcode\MinimumAverageDifference\MinimumAverageDifference\obj\Debug\netcoreapp3.1\MinimumAverageDifference.genruntimeconfig.cache
+C:\Sakhile\leet\MinimumAverageDifference\MinimumAverageDifference\bin\Debug\netcoreapp3.1\MinimumAverageDifference.exe
+C:\Sakhile\leet\MinimumAverageDifference\MinimumAverageDifference\bin\Debug\netcoreapp3.1\MinimumAverageDifference.deps.json
+C:\Sakhile\leet\MinimumAverageDifference\MinimumAverageDifference\bin\Debug\netcoreapp3.1\MinimumAverageDifference.runtimeconfig.json
+C:\Sakhile\leet\MinimumAverageDifference\MinimumAverageDifference\bin\Debug\netcoreapp3.1\MinimumAverageDifference.runtimeconfig.dev.json
+C:\Sakhile\leet\MinimumAverageDifference\MinimumAverageDifference\bin\Debug\netcoreapp3.1\MinimumAverageDifference.dll
+C:\Sakhile\leet\MinimumAverageDifference\MinimumAverageDifference\bin\Debug\netcoreapp3.1\MinimumAverageDifference.pdb
+C:\Sakhile\leet\MinimumAverageDifference\MinimumAverageDifference\obj\Debug\netcoreapp3.1\MinimumAverageDifference.csproj.AssemblyReference.cache
+C:\Sakhile\leet\MinimumAverageDifference\MinimumAverageDifference\obj\Debug\netcoreapp3.1\MinimumAverageDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\MinimumAverageDifference\MinimumAverageDifference\obj\Debug\netcoreapp3.1\MinimumAverageDifference.AssemblyInfoInputs.cache
+C:\Sakhile\leet\MinimumAverageDifference\MinimumAverageDifference\obj\Debug\netcoreapp3.1\MinimumAverageDifference.AssemblyInfo.cs
+C:\Sakhile\leet\MinimumAverageDifference\MinimumAverageDifference\obj\Debug\netcoreapp3.1\MinimumAverageDifference.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\MinimumAverageDifference\MinimumAverageDifference\obj\Debug\netcoreapp3.1\MinimumAverageDifference.dll
+C:\Sakhile\leet\MinimumAverageDifference\MinimumAverageDifference\obj\Debug\netcoreapp3.1\MinimumAverageDifference.pdb
+C:\Sakhile\leet\MinimumAverageDifference\MinimumAverageDifference\obj\Debug\netcoreapp3.1\MinimumAverageDifference.genruntimeconfig.cache

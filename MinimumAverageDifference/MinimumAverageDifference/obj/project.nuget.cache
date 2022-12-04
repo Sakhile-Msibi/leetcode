@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DPZfliR72k48TALbahuey46druzoSUxxnU9MLuHFJQKoa16Yey6UlxsL+ctxVJ3i34NHemlzCpqjdMFF3IcsVQ==",
+  "dgSpecHash": "bO+csxEBsyQuDm1ke2nnhEvfYXKEeKjcnBs9zRpV5HV8qF748WxNX+QR1IjRF5M2hIVGKtxrzKWx9tW/mNNF7w==",
   "success": true,
-  "projectFilePath": "C:\\Sakhile\\leetcode\\MinimumAverageDifference\\MinimumAverageDifference\\MinimumAverageDifference.csproj",
+  "projectFilePath": "C:\\Sakhile\\leet\\MinimumAverageDifference\\MinimumAverageDifference\\MinimumAverageDifference.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

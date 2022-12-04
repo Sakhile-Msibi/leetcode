@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sakhile\\leetcode\\MinimumAverageDifference\\MinimumAverageDifference\\MinimumAverageDifference.csproj": {}
+    "C:\\Sakhile\\leet\\MinimumAverageDifference\\MinimumAverageDifference\\MinimumAverageDifference.csproj": {}
   },
   "projects": {
-    "C:\\Sakhile\\leetcode\\MinimumAverageDifference\\MinimumAverageDifference\\MinimumAverageDifference.csproj": {
+    "C:\\Sakhile\\leet\\MinimumAverageDifference\\MinimumAverageDifference\\MinimumAverageDifference.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sakhile\\leetcode\\MinimumAverageDifference\\MinimumAverageDifference\\MinimumAverageDifference.csproj",
+        "projectUniqueName": "C:\\Sakhile\\leet\\MinimumAverageDifference\\MinimumAverageDifference\\MinimumAverageDifference.csproj",
         "projectName": "MinimumAverageDifference",
-        "projectPath": "C:\\Sakhile\\leetcode\\MinimumAverageDifference\\MinimumAverageDifference\\MinimumAverageDifference.csproj",
+        "projectPath": "C:\\Sakhile\\leet\\MinimumAverageDifference\\MinimumAverageDifference\\MinimumAverageDifference.csproj",
         "packagesPath": "C:\\Users\\themb\\.nuget\\packages\\",
-        "outputPath": "C:\\Sakhile\\leetcode\\MinimumAverageDifference\\MinimumAverageDifference\\obj\\",
+        "outputPath": "C:\\Sakhile\\leet\\MinimumAverageDifference\\MinimumAverageDifference\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
