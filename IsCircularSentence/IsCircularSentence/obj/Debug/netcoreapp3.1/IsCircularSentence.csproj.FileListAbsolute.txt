@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\IsCircularSentence\IsCircularSentence\bin\Debug\netcoreapp3.1\IsCircularSentence.exe
+C:\Sakhile\leetcode\IsCircularSentence\IsCircularSentence\bin\Debug\netcoreapp3.1\IsCircularSentence.deps.json
+C:\Sakhile\leetcode\IsCircularSentence\IsCircularSentence\bin\Debug\netcoreapp3.1\IsCircularSentence.runtimeconfig.json
+C:\Sakhile\leetcode\IsCircularSentence\IsCircularSentence\bin\Debug\netcoreapp3.1\IsCircularSentence.runtimeconfig.dev.json
+C:\Sakhile\leetcode\IsCircularSentence\IsCircularSentence\bin\Debug\netcoreapp3.1\IsCircularSentence.dll
+C:\Sakhile\leetcode\IsCircularSentence\IsCircularSentence\bin\Debug\netcoreapp3.1\IsCircularSentence.pdb
+C:\Sakhile\leetcode\IsCircularSentence\IsCircularSentence\obj\Debug\netcoreapp3.1\IsCircularSentence.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\IsCircularSentence\IsCircularSentence\obj\Debug\netcoreapp3.1\IsCircularSentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\IsCircularSentence\IsCircularSentence\obj\Debug\netcoreapp3.1\IsCircularSentence.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\IsCircularSentence\IsCircularSentence\obj\Debug\netcoreapp3.1\IsCircularSentence.AssemblyInfo.cs
+C:\Sakhile\leetcode\IsCircularSentence\IsCircularSentence\obj\Debug\netcoreapp3.1\IsCircularSentence.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\IsCircularSentence\IsCircularSentence\obj\Debug\netcoreapp3.1\IsCircularSentence.dll
+C:\Sakhile\leetcode\IsCircularSentence\IsCircularSentence\obj\Debug\netcoreapp3.1\IsCircularSentence.pdb
+C:\Sakhile\leetcode\IsCircularSentence\IsCircularSentence\obj\Debug\netcoreapp3.1\IsCircularSentence.genruntimeconfig.cache

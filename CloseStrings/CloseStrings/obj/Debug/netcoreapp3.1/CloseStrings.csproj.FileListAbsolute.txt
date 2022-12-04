@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\CloseStrings\CloseStrings\bin\Debug\netcoreapp3.1\CloseStrings.exe
+C:\Sakhile\leetcode\CloseStrings\CloseStrings\bin\Debug\netcoreapp3.1\CloseStrings.deps.json
+C:\Sakhile\leetcode\CloseStrings\CloseStrings\bin\Debug\netcoreapp3.1\CloseStrings.runtimeconfig.json
+C:\Sakhile\leetcode\CloseStrings\CloseStrings\bin\Debug\netcoreapp3.1\CloseStrings.runtimeconfig.dev.json
+C:\Sakhile\leetcode\CloseStrings\CloseStrings\bin\Debug\netcoreapp3.1\CloseStrings.dll
+C:\Sakhile\leetcode\CloseStrings\CloseStrings\bin\Debug\netcoreapp3.1\CloseStrings.pdb
+C:\Sakhile\leetcode\CloseStrings\CloseStrings\obj\Debug\netcoreapp3.1\CloseStrings.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\CloseStrings\CloseStrings\obj\Debug\netcoreapp3.1\CloseStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\CloseStrings\CloseStrings\obj\Debug\netcoreapp3.1\CloseStrings.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\CloseStrings\CloseStrings\obj\Debug\netcoreapp3.1\CloseStrings.AssemblyInfo.cs
+C:\Sakhile\leetcode\CloseStrings\CloseStrings\obj\Debug\netcoreapp3.1\CloseStrings.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\CloseStrings\CloseStrings\obj\Debug\netcoreapp3.1\CloseStrings.dll
+C:\Sakhile\leetcode\CloseStrings\CloseStrings\obj\Debug\netcoreapp3.1\CloseStrings.pdb
+C:\Sakhile\leetcode\CloseStrings\CloseStrings\obj\Debug\netcoreapp3.1\CloseStrings.genruntimeconfig.cache
