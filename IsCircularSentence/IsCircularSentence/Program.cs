@@ -8,6 +8,7 @@ namespace IsCircularSentence
         {
             string[] splittedSentence = sentence.Split(' ');
 
+
             if (splittedSentence[0][0] != splittedSentence[splittedSentence.Length - 1][splittedSentence[splittedSentence.Length - 1].Length - 1])
                 return false;
 
