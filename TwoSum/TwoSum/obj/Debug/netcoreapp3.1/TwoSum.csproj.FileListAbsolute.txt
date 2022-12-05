@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.AssemblyInfo.cs
+C:\Sakhile\leetcode\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.exe
+C:\Sakhile\leetcode\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.deps.json
+C:\Sakhile\leetcode\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.runtimeconfig.json
+C:\Sakhile\leetcode\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.runtimeconfig.dev.json
+C:\Sakhile\leetcode\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.dll
+C:\Sakhile\leetcode\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.pdb
+C:\Sakhile\leetcode\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.dll
+C:\Sakhile\leetcode\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.pdb
+C:\Sakhile\leetcode\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.genruntimeconfig.cache
