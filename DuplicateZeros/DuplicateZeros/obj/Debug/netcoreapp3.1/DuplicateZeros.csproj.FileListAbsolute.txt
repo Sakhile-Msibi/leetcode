@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\DuplicateZeros\DuplicateZeros\bin\Debug\netcoreapp3.1\DuplicateZeros.exe
+C:\Sakhile\leetcode\DuplicateZeros\DuplicateZeros\bin\Debug\netcoreapp3.1\DuplicateZeros.deps.json
+C:\Sakhile\leetcode\DuplicateZeros\DuplicateZeros\bin\Debug\netcoreapp3.1\DuplicateZeros.runtimeconfig.json
+C:\Sakhile\leetcode\DuplicateZeros\DuplicateZeros\bin\Debug\netcoreapp3.1\DuplicateZeros.runtimeconfig.dev.json
+C:\Sakhile\leetcode\DuplicateZeros\DuplicateZeros\bin\Debug\netcoreapp3.1\DuplicateZeros.dll
+C:\Sakhile\leetcode\DuplicateZeros\DuplicateZeros\bin\Debug\netcoreapp3.1\DuplicateZeros.pdb
+C:\Sakhile\leetcode\DuplicateZeros\DuplicateZeros\obj\Debug\netcoreapp3.1\DuplicateZeros.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\DuplicateZeros\DuplicateZeros\obj\Debug\netcoreapp3.1\DuplicateZeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\DuplicateZeros\DuplicateZeros\obj\Debug\netcoreapp3.1\DuplicateZeros.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\DuplicateZeros\DuplicateZeros\obj\Debug\netcoreapp3.1\DuplicateZeros.AssemblyInfo.cs
+C:\Sakhile\leetcode\DuplicateZeros\DuplicateZeros\obj\Debug\netcoreapp3.1\DuplicateZeros.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\DuplicateZeros\DuplicateZeros\obj\Debug\netcoreapp3.1\DuplicateZeros.dll
+C:\Sakhile\leetcode\DuplicateZeros\DuplicateZeros\obj\Debug\netcoreapp3.1\DuplicateZeros.pdb
+C:\Sakhile\leetcode\DuplicateZeros\DuplicateZeros\obj\Debug\netcoreapp3.1\DuplicateZeros.genruntimeconfig.cache

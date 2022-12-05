@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\DominantIndex\DominantIndex\bin\Debug\netcoreapp3.1\DominantIndex.exe
+C:\Sakhile\leetcode\DominantIndex\DominantIndex\bin\Debug\netcoreapp3.1\DominantIndex.deps.json
+C:\Sakhile\leetcode\DominantIndex\DominantIndex\bin\Debug\netcoreapp3.1\DominantIndex.runtimeconfig.json
+C:\Sakhile\leetcode\DominantIndex\DominantIndex\bin\Debug\netcoreapp3.1\DominantIndex.runtimeconfig.dev.json
+C:\Sakhile\leetcode\DominantIndex\DominantIndex\bin\Debug\netcoreapp3.1\DominantIndex.dll
+C:\Sakhile\leetcode\DominantIndex\DominantIndex\bin\Debug\netcoreapp3.1\DominantIndex.pdb
+C:\Sakhile\leetcode\DominantIndex\DominantIndex\obj\Debug\netcoreapp3.1\DominantIndex.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\DominantIndex\DominantIndex\obj\Debug\netcoreapp3.1\DominantIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\DominantIndex\DominantIndex\obj\Debug\netcoreapp3.1\DominantIndex.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\DominantIndex\DominantIndex\obj\Debug\netcoreapp3.1\DominantIndex.AssemblyInfo.cs
+C:\Sakhile\leetcode\DominantIndex\DominantIndex\obj\Debug\netcoreapp3.1\DominantIndex.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\DominantIndex\DominantIndex\obj\Debug\netcoreapp3.1\DominantIndex.dll
+C:\Sakhile\leetcode\DominantIndex\DominantIndex\obj\Debug\netcoreapp3.1\DominantIndex.pdb
+C:\Sakhile\leetcode\DominantIndex\DominantIndex\obj\Debug\netcoreapp3.1\DominantIndex.genruntimeconfig.cache

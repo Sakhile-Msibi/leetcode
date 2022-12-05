@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\DividePlayers\DividePlayers\bin\Debug\netcoreapp3.1\DividePlayers.exe
+C:\Sakhile\leetcode\DividePlayers\DividePlayers\bin\Debug\netcoreapp3.1\DividePlayers.deps.json
+C:\Sakhile\leetcode\DividePlayers\DividePlayers\bin\Debug\netcoreapp3.1\DividePlayers.runtimeconfig.json
+C:\Sakhile\leetcode\DividePlayers\DividePlayers\bin\Debug\netcoreapp3.1\DividePlayers.runtimeconfig.dev.json
+C:\Sakhile\leetcode\DividePlayers\DividePlayers\bin\Debug\netcoreapp3.1\DividePlayers.dll
+C:\Sakhile\leetcode\DividePlayers\DividePlayers\bin\Debug\netcoreapp3.1\DividePlayers.pdb
+C:\Sakhile\leetcode\DividePlayers\DividePlayers\obj\Debug\netcoreapp3.1\DividePlayers.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\DividePlayers\DividePlayers\obj\Debug\netcoreapp3.1\DividePlayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\DividePlayers\DividePlayers\obj\Debug\netcoreapp3.1\DividePlayers.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\DividePlayers\DividePlayers\obj\Debug\netcoreapp3.1\DividePlayers.AssemblyInfo.cs
+C:\Sakhile\leetcode\DividePlayers\DividePlayers\obj\Debug\netcoreapp3.1\DividePlayers.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\DividePlayers\DividePlayers\obj\Debug\netcoreapp3.1\DividePlayers.dll
+C:\Sakhile\leetcode\DividePlayers\DividePlayers\obj\Debug\netcoreapp3.1\DividePlayers.pdb
+C:\Sakhile\leetcode\DividePlayers\DividePlayers\obj\Debug\netcoreapp3.1\DividePlayers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\ConvertTemperature\ConvertTemperature\bin\Debug\netcoreapp3.1\ConvertTemperature.exe
+C:\Sakhile\leetcode\ConvertTemperature\ConvertTemperature\bin\Debug\netcoreapp3.1\ConvertTemperature.deps.json
+C:\Sakhile\leetcode\ConvertTemperature\ConvertTemperature\bin\Debug\netcoreapp3.1\ConvertTemperature.runtimeconfig.json
+C:\Sakhile\leetcode\ConvertTemperature\ConvertTemperature\bin\Debug\netcoreapp3.1\ConvertTemperature.runtimeconfig.dev.json
+C:\Sakhile\leetcode\ConvertTemperature\ConvertTemperature\bin\Debug\netcoreapp3.1\ConvertTemperature.dll
+C:\Sakhile\leetcode\ConvertTemperature\ConvertTemperature\bin\Debug\netcoreapp3.1\ConvertTemperature.pdb
+C:\Sakhile\leetcode\ConvertTemperature\ConvertTemperature\obj\Debug\netcoreapp3.1\ConvertTemperature.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\ConvertTemperature\ConvertTemperature\obj\Debug\netcoreapp3.1\ConvertTemperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\ConvertTemperature\ConvertTemperature\obj\Debug\netcoreapp3.1\ConvertTemperature.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\ConvertTemperature\ConvertTemperature\obj\Debug\netcoreapp3.1\ConvertTemperature.AssemblyInfo.cs
+C:\Sakhile\leetcode\ConvertTemperature\ConvertTemperature\obj\Debug\netcoreapp3.1\ConvertTemperature.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\ConvertTemperature\ConvertTemperature\obj\Debug\netcoreapp3.1\ConvertTemperature.dll
+C:\Sakhile\leetcode\ConvertTemperature\ConvertTemperature\obj\Debug\netcoreapp3.1\ConvertTemperature.pdb
+C:\Sakhile\leetcode\ConvertTemperature\ConvertTemperature\obj\Debug\netcoreapp3.1\ConvertTemperature.genruntimeconfig.cache

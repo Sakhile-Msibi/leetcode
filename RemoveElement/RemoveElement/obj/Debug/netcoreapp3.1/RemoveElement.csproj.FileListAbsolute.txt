@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.1\RemoveElement.exe
+C:\Sakhile\leetcode\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.1\RemoveElement.deps.json
+C:\Sakhile\leetcode\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.1\RemoveElement.runtimeconfig.json
+C:\Sakhile\leetcode\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.1\RemoveElement.runtimeconfig.dev.json
+C:\Sakhile\leetcode\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.1\RemoveElement.dll
+C:\Sakhile\leetcode\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.1\RemoveElement.pdb
+C:\Sakhile\leetcode\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.1\RemoveElement.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.1\RemoveElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.1\RemoveElement.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.1\RemoveElement.AssemblyInfo.cs
+C:\Sakhile\leetcode\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.1\RemoveElement.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.1\RemoveElement.dll
+C:\Sakhile\leetcode\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.1\RemoveElement.pdb
+C:\Sakhile\leetcode\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.1\RemoveElement.genruntimeconfig.cache

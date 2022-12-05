@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\RomanToInt\RomanToInt\bin\Debug\netcoreapp3.1\RomanToInt.exe
+C:\Sakhile\leetcode\RomanToInt\RomanToInt\bin\Debug\netcoreapp3.1\RomanToInt.deps.json
+C:\Sakhile\leetcode\RomanToInt\RomanToInt\bin\Debug\netcoreapp3.1\RomanToInt.runtimeconfig.json
+C:\Sakhile\leetcode\RomanToInt\RomanToInt\bin\Debug\netcoreapp3.1\RomanToInt.runtimeconfig.dev.json
+C:\Sakhile\leetcode\RomanToInt\RomanToInt\bin\Debug\netcoreapp3.1\RomanToInt.dll
+C:\Sakhile\leetcode\RomanToInt\RomanToInt\bin\Debug\netcoreapp3.1\RomanToInt.pdb
+C:\Sakhile\leetcode\RomanToInt\RomanToInt\obj\Debug\netcoreapp3.1\RomanToInt.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\RomanToInt\RomanToInt\obj\Debug\netcoreapp3.1\RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\RomanToInt\RomanToInt\obj\Debug\netcoreapp3.1\RomanToInt.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\RomanToInt\RomanToInt\obj\Debug\netcoreapp3.1\RomanToInt.AssemblyInfo.cs
+C:\Sakhile\leetcode\RomanToInt\RomanToInt\obj\Debug\netcoreapp3.1\RomanToInt.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\RomanToInt\RomanToInt\obj\Debug\netcoreapp3.1\RomanToInt.dll
+C:\Sakhile\leetcode\RomanToInt\RomanToInt\obj\Debug\netcoreapp3.1\RomanToInt.pdb
+C:\Sakhile\leetcode\RomanToInt\RomanToInt\obj\Debug\netcoreapp3.1\RomanToInt.genruntimeconfig.cache

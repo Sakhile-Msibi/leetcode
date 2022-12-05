@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\AddBinary\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.exe
+C:\Sakhile\leetcode\AddBinary\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.deps.json
+C:\Sakhile\leetcode\AddBinary\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.runtimeconfig.json
+C:\Sakhile\leetcode\AddBinary\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.runtimeconfig.dev.json
+C:\Sakhile\leetcode\AddBinary\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.dll
+C:\Sakhile\leetcode\AddBinary\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.pdb
+C:\Sakhile\leetcode\AddBinary\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\AddBinary\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\AddBinary\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\AddBinary\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.AssemblyInfo.cs
+C:\Sakhile\leetcode\AddBinary\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\AddBinary\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.dll
+C:\Sakhile\leetcode\AddBinary\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.pdb
+C:\Sakhile\leetcode\AddBinary\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.genruntimeconfig.cache

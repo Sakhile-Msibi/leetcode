@@ -1,0 +1,14 @@
+C:\Sakhile\leetcode\ReplaceElements\ReplaceElements\bin\Debug\netcoreapp3.1\ReplaceElements.exe
+C:\Sakhile\leetcode\ReplaceElements\ReplaceElements\bin\Debug\netcoreapp3.1\ReplaceElements.deps.json
+C:\Sakhile\leetcode\ReplaceElements\ReplaceElements\bin\Debug\netcoreapp3.1\ReplaceElements.runtimeconfig.json
+C:\Sakhile\leetcode\ReplaceElements\ReplaceElements\bin\Debug\netcoreapp3.1\ReplaceElements.runtimeconfig.dev.json
+C:\Sakhile\leetcode\ReplaceElements\ReplaceElements\bin\Debug\netcoreapp3.1\ReplaceElements.dll
+C:\Sakhile\leetcode\ReplaceElements\ReplaceElements\bin\Debug\netcoreapp3.1\ReplaceElements.pdb
+C:\Sakhile\leetcode\ReplaceElements\ReplaceElements\obj\Debug\netcoreapp3.1\ReplaceElements.csproj.AssemblyReference.cache
+C:\Sakhile\leetcode\ReplaceElements\ReplaceElements\obj\Debug\netcoreapp3.1\ReplaceElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leetcode\ReplaceElements\ReplaceElements\obj\Debug\netcoreapp3.1\ReplaceElements.AssemblyInfoInputs.cache
+C:\Sakhile\leetcode\ReplaceElements\ReplaceElements\obj\Debug\netcoreapp3.1\ReplaceElements.AssemblyInfo.cs
+C:\Sakhile\leetcode\ReplaceElements\ReplaceElements\obj\Debug\netcoreapp3.1\ReplaceElements.csproj.CoreCompileInputs.cache
+C:\Sakhile\leetcode\ReplaceElements\ReplaceElements\obj\Debug\netcoreapp3.1\ReplaceElements.dll
+C:\Sakhile\leetcode\ReplaceElements\ReplaceElements\obj\Debug\netcoreapp3.1\ReplaceElements.pdb
+C:\Sakhile\leetcode\ReplaceElements\ReplaceElements\obj\Debug\netcoreapp3.1\ReplaceElements.genruntimeconfig.cache
