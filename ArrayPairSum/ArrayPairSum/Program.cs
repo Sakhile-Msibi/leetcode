@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace ArrayPairSum
 {
@@ -7,26 +8,12 @@ namespace ArrayPairSum
     {
         public int PairSum(int[] nums)
         {
-            IList<List<int>> pairsList = new List<List<int>>();
-            List<int> pairs = new List<int>();
             int sum = 0;
             Array.Sort(nums);
 
-            for (int i = 0; i < nums.Length - 1; i++)
+            for (int i = 0; i < nums.Length - 1; i += 2)
             {
-                for (int j = i + 1; j < nums.Length; j++)
-                {
-                    pairs.Add(nums[i]);
-                    pairs.Add(nums[j]);
-
-                    pairsList.Add(pairs);
-                    pairs = new List<int>();
-                }
-            }
-
-            for (int i = 0; i < pairsList.Count; i++)
-            {
-                
+                sum += nums[i];
             }
 
             return sum;
@@ -36,8 +23,10 @@ namespace ArrayPairSum
             Program program = new Program();
 
             int[] nums = { 1, 4, 3, 2 };
+            int[] nums1 = { 6, 2, 6, 5, 1, 2 };
 
             Console.WriteLine(program.PairSum(nums));
+            Console.WriteLine(program.PairSum(nums1));
             Console.ReadKey();
         }
     }

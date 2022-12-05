@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kccLBDhEdd4UWyLIlgpNbbZ4XwBBxgGR5bSiNycbZedvC33rcaTXQp5/g7cVcre0JWEjA9pNcM6QG8rFeJHGWg==",
+  "dgSpecHash": "iyGWeSmZuPenB1RS4osklxtgIZsW6J6DcfKFYmcqIFKypXMpco5YTBkxfktzizGxugEBwkmCMJ8aH6tIRndkiA==",
   "success": true,
-  "projectFilePath": "C:\\Sakhile\\leetcode\\ArrayPairSum\\ArrayPairSum\\ArrayPairSum.csproj",
+  "projectFilePath": "C:\\Sakhile\\leet\\ArrayPairSum\\ArrayPairSum\\ArrayPairSum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
