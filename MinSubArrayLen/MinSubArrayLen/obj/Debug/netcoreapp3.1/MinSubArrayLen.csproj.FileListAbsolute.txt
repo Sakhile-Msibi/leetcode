@@ -1,0 +1,14 @@
+C:\Sakhile\leet\MinSubArrayLen\MinSubArrayLen\bin\Debug\netcoreapp3.1\MinSubArrayLen.exe
+C:\Sakhile\leet\MinSubArrayLen\MinSubArrayLen\bin\Debug\netcoreapp3.1\MinSubArrayLen.deps.json
+C:\Sakhile\leet\MinSubArrayLen\MinSubArrayLen\bin\Debug\netcoreapp3.1\MinSubArrayLen.runtimeconfig.json
+C:\Sakhile\leet\MinSubArrayLen\MinSubArrayLen\bin\Debug\netcoreapp3.1\MinSubArrayLen.runtimeconfig.dev.json
+C:\Sakhile\leet\MinSubArrayLen\MinSubArrayLen\bin\Debug\netcoreapp3.1\MinSubArrayLen.dll
+C:\Sakhile\leet\MinSubArrayLen\MinSubArrayLen\bin\Debug\netcoreapp3.1\MinSubArrayLen.pdb
+C:\Sakhile\leet\MinSubArrayLen\MinSubArrayLen\obj\Debug\netcoreapp3.1\MinSubArrayLen.csproj.AssemblyReference.cache
+C:\Sakhile\leet\MinSubArrayLen\MinSubArrayLen\obj\Debug\netcoreapp3.1\MinSubArrayLen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\MinSubArrayLen\MinSubArrayLen\obj\Debug\netcoreapp3.1\MinSubArrayLen.AssemblyInfoInputs.cache
+C:\Sakhile\leet\MinSubArrayLen\MinSubArrayLen\obj\Debug\netcoreapp3.1\MinSubArrayLen.AssemblyInfo.cs
+C:\Sakhile\leet\MinSubArrayLen\MinSubArrayLen\obj\Debug\netcoreapp3.1\MinSubArrayLen.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\MinSubArrayLen\MinSubArrayLen\obj\Debug\netcoreapp3.1\MinSubArrayLen.dll
+C:\Sakhile\leet\MinSubArrayLen\MinSubArrayLen\obj\Debug\netcoreapp3.1\MinSubArrayLen.pdb
+C:\Sakhile\leet\MinSubArrayLen\MinSubArrayLen\obj\Debug\netcoreapp3.1\MinSubArrayLen.genruntimeconfig.cache
