@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElementTwoPointers", "RemoveElementTwoPointers\RemoveElementTwoPointers.csproj", "{2428B730-E401-4957-8430-79C45A10506C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2428B730-E401-4957-8430-79C45A10506C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2428B730-E401-4957-8430-79C45A10506C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2428B730-E401-4957-8430-79C45A10506C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2428B730-E401-4957-8430-79C45A10506C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70B5F0C6-ECC0-4141-B36A-F9AA4A5E09D7}
+	EndGlobalSection
+EndGlobal

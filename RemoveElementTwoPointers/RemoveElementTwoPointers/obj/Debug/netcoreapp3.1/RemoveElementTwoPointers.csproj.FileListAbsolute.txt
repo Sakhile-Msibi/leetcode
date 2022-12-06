@@ -1,0 +1,14 @@
+C:\Sakhile\leet\RemoveElementTwoPointers\RemoveElementTwoPointers\bin\Debug\netcoreapp3.1\RemoveElementTwoPointers.exe
+C:\Sakhile\leet\RemoveElementTwoPointers\RemoveElementTwoPointers\bin\Debug\netcoreapp3.1\RemoveElementTwoPointers.deps.json
+C:\Sakhile\leet\RemoveElementTwoPointers\RemoveElementTwoPointers\bin\Debug\netcoreapp3.1\RemoveElementTwoPointers.runtimeconfig.json
+C:\Sakhile\leet\RemoveElementTwoPointers\RemoveElementTwoPointers\bin\Debug\netcoreapp3.1\RemoveElementTwoPointers.runtimeconfig.dev.json
+C:\Sakhile\leet\RemoveElementTwoPointers\RemoveElementTwoPointers\bin\Debug\netcoreapp3.1\RemoveElementTwoPointers.dll
+C:\Sakhile\leet\RemoveElementTwoPointers\RemoveElementTwoPointers\bin\Debug\netcoreapp3.1\RemoveElementTwoPointers.pdb
+C:\Sakhile\leet\RemoveElementTwoPointers\RemoveElementTwoPointers\obj\Debug\netcoreapp3.1\RemoveElementTwoPointers.csproj.AssemblyReference.cache
+C:\Sakhile\leet\RemoveElementTwoPointers\RemoveElementTwoPointers\obj\Debug\netcoreapp3.1\RemoveElementTwoPointers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\RemoveElementTwoPointers\RemoveElementTwoPointers\obj\Debug\netcoreapp3.1\RemoveElementTwoPointers.AssemblyInfoInputs.cache
+C:\Sakhile\leet\RemoveElementTwoPointers\RemoveElementTwoPointers\obj\Debug\netcoreapp3.1\RemoveElementTwoPointers.AssemblyInfo.cs
+C:\Sakhile\leet\RemoveElementTwoPointers\RemoveElementTwoPointers\obj\Debug\netcoreapp3.1\RemoveElementTwoPointers.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\RemoveElementTwoPointers\RemoveElementTwoPointers\obj\Debug\netcoreapp3.1\RemoveElementTwoPointers.dll
+C:\Sakhile\leet\RemoveElementTwoPointers\RemoveElementTwoPointers\obj\Debug\netcoreapp3.1\RemoveElementTwoPointers.pdb
+C:\Sakhile\leet\RemoveElementTwoPointers\RemoveElementTwoPointers\obj\Debug\netcoreapp3.1\RemoveElementTwoPointers.genruntimeconfig.cache
