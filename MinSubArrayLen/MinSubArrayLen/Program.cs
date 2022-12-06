@@ -10,7 +10,6 @@ namespace MinSubArrayLen
             int sum = 0;
             int counter = 0;
             int index = 0;
-
             Array.Sort(nums, (a, b) => b - a);
 
             for (int i = 0; i < nums.Length; i++)
