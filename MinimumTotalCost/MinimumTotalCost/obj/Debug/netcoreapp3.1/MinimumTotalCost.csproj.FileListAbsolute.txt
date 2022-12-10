@@ -1,0 +1,14 @@
+C:\Sakhile\leet\MinimumTotalCost\MinimumTotalCost\bin\Debug\netcoreapp3.1\MinimumTotalCost.exe
+C:\Sakhile\leet\MinimumTotalCost\MinimumTotalCost\bin\Debug\netcoreapp3.1\MinimumTotalCost.deps.json
+C:\Sakhile\leet\MinimumTotalCost\MinimumTotalCost\bin\Debug\netcoreapp3.1\MinimumTotalCost.runtimeconfig.json
+C:\Sakhile\leet\MinimumTotalCost\MinimumTotalCost\bin\Debug\netcoreapp3.1\MinimumTotalCost.runtimeconfig.dev.json
+C:\Sakhile\leet\MinimumTotalCost\MinimumTotalCost\bin\Debug\netcoreapp3.1\MinimumTotalCost.dll
+C:\Sakhile\leet\MinimumTotalCost\MinimumTotalCost\bin\Debug\netcoreapp3.1\MinimumTotalCost.pdb
+C:\Sakhile\leet\MinimumTotalCost\MinimumTotalCost\obj\Debug\netcoreapp3.1\MinimumTotalCost.csproj.AssemblyReference.cache
+C:\Sakhile\leet\MinimumTotalCost\MinimumTotalCost\obj\Debug\netcoreapp3.1\MinimumTotalCost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\MinimumTotalCost\MinimumTotalCost\obj\Debug\netcoreapp3.1\MinimumTotalCost.AssemblyInfoInputs.cache
+C:\Sakhile\leet\MinimumTotalCost\MinimumTotalCost\obj\Debug\netcoreapp3.1\MinimumTotalCost.AssemblyInfo.cs
+C:\Sakhile\leet\MinimumTotalCost\MinimumTotalCost\obj\Debug\netcoreapp3.1\MinimumTotalCost.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\MinimumTotalCost\MinimumTotalCost\obj\Debug\netcoreapp3.1\MinimumTotalCost.dll
+C:\Sakhile\leet\MinimumTotalCost\MinimumTotalCost\obj\Debug\netcoreapp3.1\MinimumTotalCost.pdb
+C:\Sakhile\leet\MinimumTotalCost\MinimumTotalCost\obj\Debug\netcoreapp3.1\MinimumTotalCost.genruntimeconfig.cache
