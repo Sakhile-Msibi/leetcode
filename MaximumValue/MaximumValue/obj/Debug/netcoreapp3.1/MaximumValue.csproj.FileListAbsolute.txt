@@ -1,0 +1,14 @@
+C:\Sakhile\leet\MaximumValue\MaximumValue\bin\Debug\netcoreapp3.1\MaximumValue.exe
+C:\Sakhile\leet\MaximumValue\MaximumValue\bin\Debug\netcoreapp3.1\MaximumValue.deps.json
+C:\Sakhile\leet\MaximumValue\MaximumValue\bin\Debug\netcoreapp3.1\MaximumValue.runtimeconfig.json
+C:\Sakhile\leet\MaximumValue\MaximumValue\bin\Debug\netcoreapp3.1\MaximumValue.runtimeconfig.dev.json
+C:\Sakhile\leet\MaximumValue\MaximumValue\bin\Debug\netcoreapp3.1\MaximumValue.dll
+C:\Sakhile\leet\MaximumValue\MaximumValue\bin\Debug\netcoreapp3.1\MaximumValue.pdb
+C:\Sakhile\leet\MaximumValue\MaximumValue\obj\Debug\netcoreapp3.1\MaximumValue.csproj.AssemblyReference.cache
+C:\Sakhile\leet\MaximumValue\MaximumValue\obj\Debug\netcoreapp3.1\MaximumValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\MaximumValue\MaximumValue\obj\Debug\netcoreapp3.1\MaximumValue.AssemblyInfoInputs.cache
+C:\Sakhile\leet\MaximumValue\MaximumValue\obj\Debug\netcoreapp3.1\MaximumValue.AssemblyInfo.cs
+C:\Sakhile\leet\MaximumValue\MaximumValue\obj\Debug\netcoreapp3.1\MaximumValue.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\MaximumValue\MaximumValue\obj\Debug\netcoreapp3.1\MaximumValue.dll
+C:\Sakhile\leet\MaximumValue\MaximumValue\obj\Debug\netcoreapp3.1\MaximumValue.pdb
+C:\Sakhile\leet\MaximumValue\MaximumValue\obj\Debug\netcoreapp3.1\MaximumValue.genruntimeconfig.cache
