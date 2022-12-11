@@ -37,12 +37,18 @@ namespace MinSubArrayLen
 
                 if (sumLR > target)
                 {
-                    sumLR -= nums[indexLR];
-                    counterLR--;
-                    indexLR++;
-
                     if (counterLR < largerLR)
                         largerLR = counterLR;
+
+                    while (sumLR > target)
+                    {
+                        sumLR -= nums[indexLR];
+                        counterLR--;
+                        indexLR++;
+                    }
+
+                    //if (counterLR < largerLR)
+                    //    largerLR = counterLR;
                 }
 
                 sumRL += nums[j];
@@ -53,9 +59,12 @@ namespace MinSubArrayLen
                     if (counterRL < largerRL)
                         largerRL = counterRL;
 
-                    sumRL -= nums[indexRL];
-                    counterRL--;
-                    indexRL--;  
+                    while (sumRL > target)
+                    {
+                        sumRL -= nums[indexRL];
+                        counterRL--;
+                        indexRL--;
+                    }
                 }
             }
 
@@ -112,16 +121,16 @@ namespace MinSubArrayLen
             int[] nums4 = { 12,28,83,4,25,26,25,2,25,25,25,12 };
             int target4 = 213;
             int[] nums5 = { 1,2,3,4,5 };
-            int target5 = 15;
-            int[] nums6 = { 5,1,3,5,10,7,4,9,2,8 };
+            int target5 = 11;
+            int[] nums6 = { 5, 1, 3, 5, 10, 7, 4, 9, 2, 8 };
             int target6 = 15;
 
-            //Console.WriteLine(program.FindMinSubArrayLen(target, nums));
-            //Console.WriteLine(program.FindMinSubArrayLen(target1, nums1));
-            //Console.WriteLine(program.FindMinSubArrayLen(target2, nums2));
-            //Console.WriteLine(program.FindMinSubArrayLen(target3, nums3));
-            //Console.WriteLine(program.FindMinSubArrayLen(target4, nums4));
-            //Console.WriteLine(program.FindMinSubArrayLen(target5, nums5));
+            Console.WriteLine(program.FindMinSubArrayLen(target, nums));
+            Console.WriteLine(program.FindMinSubArrayLen(target1, nums1));
+            Console.WriteLine(program.FindMinSubArrayLen(target2, nums2));
+            Console.WriteLine(program.FindMinSubArrayLen(target3, nums3));
+            Console.WriteLine(program.FindMinSubArrayLen(target4, nums4));
+            Console.WriteLine(program.FindMinSubArrayLen(target5, nums5));
             Console.WriteLine(program.FindMinSubArrayLen(target6, nums6));
             Console.ReadKey();
         }
