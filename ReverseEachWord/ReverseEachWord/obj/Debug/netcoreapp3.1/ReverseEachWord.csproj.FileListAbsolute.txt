@@ -1,0 +1,14 @@
+C:\Sakhile\leet\ReverseEachWord\ReverseEachWord\bin\Debug\netcoreapp3.1\ReverseEachWord.exe
+C:\Sakhile\leet\ReverseEachWord\ReverseEachWord\bin\Debug\netcoreapp3.1\ReverseEachWord.deps.json
+C:\Sakhile\leet\ReverseEachWord\ReverseEachWord\bin\Debug\netcoreapp3.1\ReverseEachWord.runtimeconfig.json
+C:\Sakhile\leet\ReverseEachWord\ReverseEachWord\bin\Debug\netcoreapp3.1\ReverseEachWord.runtimeconfig.dev.json
+C:\Sakhile\leet\ReverseEachWord\ReverseEachWord\bin\Debug\netcoreapp3.1\ReverseEachWord.dll
+C:\Sakhile\leet\ReverseEachWord\ReverseEachWord\bin\Debug\netcoreapp3.1\ReverseEachWord.pdb
+C:\Sakhile\leet\ReverseEachWord\ReverseEachWord\obj\Debug\netcoreapp3.1\ReverseEachWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\ReverseEachWord\ReverseEachWord\obj\Debug\netcoreapp3.1\ReverseEachWord.AssemblyInfoInputs.cache
+C:\Sakhile\leet\ReverseEachWord\ReverseEachWord\obj\Debug\netcoreapp3.1\ReverseEachWord.AssemblyInfo.cs
+C:\Sakhile\leet\ReverseEachWord\ReverseEachWord\obj\Debug\netcoreapp3.1\ReverseEachWord.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\ReverseEachWord\ReverseEachWord\obj\Debug\netcoreapp3.1\ReverseEachWord.dll
+C:\Sakhile\leet\ReverseEachWord\ReverseEachWord\obj\Debug\netcoreapp3.1\ReverseEachWord.pdb
+C:\Sakhile\leet\ReverseEachWord\ReverseEachWord\obj\Debug\netcoreapp3.1\ReverseEachWord.genruntimeconfig.cache
+C:\Sakhile\leet\ReverseEachWord\ReverseEachWord\obj\Debug\netcoreapp3.1\ReverseEachWord.csproj.AssemblyReference.cache
