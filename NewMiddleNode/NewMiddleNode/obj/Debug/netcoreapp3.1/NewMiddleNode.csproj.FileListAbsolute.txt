@@ -1,0 +1,14 @@
+C:\Sakhile\leet\NewMiddleNode\NewMiddleNode\bin\Debug\netcoreapp3.1\NewMiddleNode.exe
+C:\Sakhile\leet\NewMiddleNode\NewMiddleNode\bin\Debug\netcoreapp3.1\NewMiddleNode.deps.json
+C:\Sakhile\leet\NewMiddleNode\NewMiddleNode\bin\Debug\netcoreapp3.1\NewMiddleNode.runtimeconfig.json
+C:\Sakhile\leet\NewMiddleNode\NewMiddleNode\bin\Debug\netcoreapp3.1\NewMiddleNode.runtimeconfig.dev.json
+C:\Sakhile\leet\NewMiddleNode\NewMiddleNode\bin\Debug\netcoreapp3.1\NewMiddleNode.dll
+C:\Sakhile\leet\NewMiddleNode\NewMiddleNode\bin\Debug\netcoreapp3.1\NewMiddleNode.pdb
+C:\Sakhile\leet\NewMiddleNode\NewMiddleNode\obj\Debug\netcoreapp3.1\NewMiddleNode.csproj.AssemblyReference.cache
+C:\Sakhile\leet\NewMiddleNode\NewMiddleNode\obj\Debug\netcoreapp3.1\NewMiddleNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\NewMiddleNode\NewMiddleNode\obj\Debug\netcoreapp3.1\NewMiddleNode.AssemblyInfoInputs.cache
+C:\Sakhile\leet\NewMiddleNode\NewMiddleNode\obj\Debug\netcoreapp3.1\NewMiddleNode.AssemblyInfo.cs
+C:\Sakhile\leet\NewMiddleNode\NewMiddleNode\obj\Debug\netcoreapp3.1\NewMiddleNode.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\NewMiddleNode\NewMiddleNode\obj\Debug\netcoreapp3.1\NewMiddleNode.dll
+C:\Sakhile\leet\NewMiddleNode\NewMiddleNode\obj\Debug\netcoreapp3.1\NewMiddleNode.pdb
+C:\Sakhile\leet\NewMiddleNode\NewMiddleNode\obj\Debug\netcoreapp3.1\NewMiddleNode.genruntimeconfig.cache
