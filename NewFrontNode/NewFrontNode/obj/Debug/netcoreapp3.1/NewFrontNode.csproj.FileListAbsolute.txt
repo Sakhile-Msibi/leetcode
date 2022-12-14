@@ -1,0 +1,14 @@
+C:\Sakhile\leet\NewFrontNode\NewFrontNode\bin\Debug\netcoreapp3.1\NewFrontNode.exe
+C:\Sakhile\leet\NewFrontNode\NewFrontNode\bin\Debug\netcoreapp3.1\NewFrontNode.deps.json
+C:\Sakhile\leet\NewFrontNode\NewFrontNode\bin\Debug\netcoreapp3.1\NewFrontNode.runtimeconfig.json
+C:\Sakhile\leet\NewFrontNode\NewFrontNode\bin\Debug\netcoreapp3.1\NewFrontNode.runtimeconfig.dev.json
+C:\Sakhile\leet\NewFrontNode\NewFrontNode\bin\Debug\netcoreapp3.1\NewFrontNode.dll
+C:\Sakhile\leet\NewFrontNode\NewFrontNode\bin\Debug\netcoreapp3.1\NewFrontNode.pdb
+C:\Sakhile\leet\NewFrontNode\NewFrontNode\obj\Debug\netcoreapp3.1\NewFrontNode.csproj.AssemblyReference.cache
+C:\Sakhile\leet\NewFrontNode\NewFrontNode\obj\Debug\netcoreapp3.1\NewFrontNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\NewFrontNode\NewFrontNode\obj\Debug\netcoreapp3.1\NewFrontNode.AssemblyInfoInputs.cache
+C:\Sakhile\leet\NewFrontNode\NewFrontNode\obj\Debug\netcoreapp3.1\NewFrontNode.AssemblyInfo.cs
+C:\Sakhile\leet\NewFrontNode\NewFrontNode\obj\Debug\netcoreapp3.1\NewFrontNode.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\NewFrontNode\NewFrontNode\obj\Debug\netcoreapp3.1\NewFrontNode.dll
+C:\Sakhile\leet\NewFrontNode\NewFrontNode\obj\Debug\netcoreapp3.1\NewFrontNode.pdb
+C:\Sakhile\leet\NewFrontNode\NewFrontNode\obj\Debug\netcoreapp3.1\NewFrontNode.genruntimeconfig.cache
