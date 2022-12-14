@@ -1,0 +1,14 @@
+C:\Sakhile\leet\TraverseLinkedList\TraverseLinkedList\bin\Debug\netcoreapp3.1\TraverseLinkedList.exe
+C:\Sakhile\leet\TraverseLinkedList\TraverseLinkedList\bin\Debug\netcoreapp3.1\TraverseLinkedList.deps.json
+C:\Sakhile\leet\TraverseLinkedList\TraverseLinkedList\bin\Debug\netcoreapp3.1\TraverseLinkedList.runtimeconfig.json
+C:\Sakhile\leet\TraverseLinkedList\TraverseLinkedList\bin\Debug\netcoreapp3.1\TraverseLinkedList.runtimeconfig.dev.json
+C:\Sakhile\leet\TraverseLinkedList\TraverseLinkedList\bin\Debug\netcoreapp3.1\TraverseLinkedList.dll
+C:\Sakhile\leet\TraverseLinkedList\TraverseLinkedList\bin\Debug\netcoreapp3.1\TraverseLinkedList.pdb
+C:\Sakhile\leet\TraverseLinkedList\TraverseLinkedList\obj\Debug\netcoreapp3.1\TraverseLinkedList.csproj.AssemblyReference.cache
+C:\Sakhile\leet\TraverseLinkedList\TraverseLinkedList\obj\Debug\netcoreapp3.1\TraverseLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\TraverseLinkedList\TraverseLinkedList\obj\Debug\netcoreapp3.1\TraverseLinkedList.AssemblyInfoInputs.cache
+C:\Sakhile\leet\TraverseLinkedList\TraverseLinkedList\obj\Debug\netcoreapp3.1\TraverseLinkedList.AssemblyInfo.cs
+C:\Sakhile\leet\TraverseLinkedList\TraverseLinkedList\obj\Debug\netcoreapp3.1\TraverseLinkedList.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\TraverseLinkedList\TraverseLinkedList\obj\Debug\netcoreapp3.1\TraverseLinkedList.dll
+C:\Sakhile\leet\TraverseLinkedList\TraverseLinkedList\obj\Debug\netcoreapp3.1\TraverseLinkedList.pdb
+C:\Sakhile\leet\TraverseLinkedList\TraverseLinkedList\obj\Debug\netcoreapp3.1\TraverseLinkedList.genruntimeconfig.cache
