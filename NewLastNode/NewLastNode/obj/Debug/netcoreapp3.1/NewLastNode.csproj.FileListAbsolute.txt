@@ -1,0 +1,14 @@
+C:\Sakhile\leet\NewLastNode\NewLastNode\bin\Debug\netcoreapp3.1\NewLastNode.exe
+C:\Sakhile\leet\NewLastNode\NewLastNode\bin\Debug\netcoreapp3.1\NewLastNode.deps.json
+C:\Sakhile\leet\NewLastNode\NewLastNode\bin\Debug\netcoreapp3.1\NewLastNode.runtimeconfig.json
+C:\Sakhile\leet\NewLastNode\NewLastNode\bin\Debug\netcoreapp3.1\NewLastNode.runtimeconfig.dev.json
+C:\Sakhile\leet\NewLastNode\NewLastNode\bin\Debug\netcoreapp3.1\NewLastNode.dll
+C:\Sakhile\leet\NewLastNode\NewLastNode\bin\Debug\netcoreapp3.1\NewLastNode.pdb
+C:\Sakhile\leet\NewLastNode\NewLastNode\obj\Debug\netcoreapp3.1\NewLastNode.csproj.AssemblyReference.cache
+C:\Sakhile\leet\NewLastNode\NewLastNode\obj\Debug\netcoreapp3.1\NewLastNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\NewLastNode\NewLastNode\obj\Debug\netcoreapp3.1\NewLastNode.AssemblyInfoInputs.cache
+C:\Sakhile\leet\NewLastNode\NewLastNode\obj\Debug\netcoreapp3.1\NewLastNode.AssemblyInfo.cs
+C:\Sakhile\leet\NewLastNode\NewLastNode\obj\Debug\netcoreapp3.1\NewLastNode.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\NewLastNode\NewLastNode\obj\Debug\netcoreapp3.1\NewLastNode.dll
+C:\Sakhile\leet\NewLastNode\NewLastNode\obj\Debug\netcoreapp3.1\NewLastNode.pdb
+C:\Sakhile\leet\NewLastNode\NewLastNode\obj\Debug\netcoreapp3.1\NewLastNode.genruntimeconfig.cache
