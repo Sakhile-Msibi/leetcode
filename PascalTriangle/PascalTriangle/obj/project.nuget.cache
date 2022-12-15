@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ltt12FAtf+uD+fsUdlx1hmAwI/rIY/VO0rs3/tMB/h+Fg8mefW32TiTR/97gH5sNnsBeyL8kzvL91QTu+VaKcw==",
+  "dgSpecHash": "RLN12DSV2MKG5ennz9ulDiCuLS4whOjSt0qZtIEzXhPIlxmP3VwND2YILuzWo1ZrGz5pNR8iDWlJv/sx44Qn4A==",
   "success": true,
-  "projectFilePath": "C:\\Sakhile\\leetcode\\PascalTriangle\\PascalTriangle\\PascalTriangle.csproj",
+  "projectFilePath": "C:\\Sakhile\\leet\\PascalTriangle\\PascalTriangle\\PascalTriangle.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

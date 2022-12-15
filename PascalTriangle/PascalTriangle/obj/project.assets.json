@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sakhile\\leetcode\\PascalTriangle\\PascalTriangle\\PascalTriangle.csproj",
+      "projectUniqueName": "C:\\Sakhile\\leet\\PascalTriangle\\PascalTriangle\\PascalTriangle.csproj",
       "projectName": "PascalTriangle",
-      "projectPath": "C:\\Sakhile\\leetcode\\PascalTriangle\\PascalTriangle\\PascalTriangle.csproj",
+      "projectPath": "C:\\Sakhile\\leet\\PascalTriangle\\PascalTriangle\\PascalTriangle.csproj",
       "packagesPath": "C:\\Users\\themb\\.nuget\\packages\\",
-      "outputPath": "C:\\Sakhile\\leetcode\\PascalTriangle\\PascalTriangle\\obj\\",
+      "outputPath": "C:\\Sakhile\\leet\\PascalTriangle\\PascalTriangle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
