@@ -12,3 +12,17 @@ C:\Sakhile\leetcode\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\Pascal
 C:\Sakhile\leetcode\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.dll
 C:\Sakhile\leetcode\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.pdb
 C:\Sakhile\leetcode\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.genruntimeconfig.cache
+C:\Sakhile\leet\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.exe
+C:\Sakhile\leet\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.deps.json
+C:\Sakhile\leet\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.json
+C:\Sakhile\leet\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.dev.json
+C:\Sakhile\leet\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.dll
+C:\Sakhile\leet\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.pdb
+C:\Sakhile\leet\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.csproj.AssemblyReference.cache
+C:\Sakhile\leet\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfoInputs.cache
+C:\Sakhile\leet\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfo.cs
+C:\Sakhile\leet\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.dll
+C:\Sakhile\leet\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.pdb
+C:\Sakhile\leet\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.genruntimeconfig.cache
