@@ -1,0 +1,14 @@
+C:\Sakhile\leet\DeleteNodeGivenPosition\DeleteNodeGivenPosition\bin\Debug\netcoreapp3.1\DeleteNodeGivenPosition.exe
+C:\Sakhile\leet\DeleteNodeGivenPosition\DeleteNodeGivenPosition\bin\Debug\netcoreapp3.1\DeleteNodeGivenPosition.deps.json
+C:\Sakhile\leet\DeleteNodeGivenPosition\DeleteNodeGivenPosition\bin\Debug\netcoreapp3.1\DeleteNodeGivenPosition.runtimeconfig.json
+C:\Sakhile\leet\DeleteNodeGivenPosition\DeleteNodeGivenPosition\bin\Debug\netcoreapp3.1\DeleteNodeGivenPosition.runtimeconfig.dev.json
+C:\Sakhile\leet\DeleteNodeGivenPosition\DeleteNodeGivenPosition\bin\Debug\netcoreapp3.1\DeleteNodeGivenPosition.dll
+C:\Sakhile\leet\DeleteNodeGivenPosition\DeleteNodeGivenPosition\bin\Debug\netcoreapp3.1\DeleteNodeGivenPosition.pdb
+C:\Sakhile\leet\DeleteNodeGivenPosition\DeleteNodeGivenPosition\obj\Debug\netcoreapp3.1\DeleteNodeGivenPosition.csproj.AssemblyReference.cache
+C:\Sakhile\leet\DeleteNodeGivenPosition\DeleteNodeGivenPosition\obj\Debug\netcoreapp3.1\DeleteNodeGivenPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\DeleteNodeGivenPosition\DeleteNodeGivenPosition\obj\Debug\netcoreapp3.1\DeleteNodeGivenPosition.AssemblyInfoInputs.cache
+C:\Sakhile\leet\DeleteNodeGivenPosition\DeleteNodeGivenPosition\obj\Debug\netcoreapp3.1\DeleteNodeGivenPosition.AssemblyInfo.cs
+C:\Sakhile\leet\DeleteNodeGivenPosition\DeleteNodeGivenPosition\obj\Debug\netcoreapp3.1\DeleteNodeGivenPosition.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\DeleteNodeGivenPosition\DeleteNodeGivenPosition\obj\Debug\netcoreapp3.1\DeleteNodeGivenPosition.dll
+C:\Sakhile\leet\DeleteNodeGivenPosition\DeleteNodeGivenPosition\obj\Debug\netcoreapp3.1\DeleteNodeGivenPosition.pdb
+C:\Sakhile\leet\DeleteNodeGivenPosition\DeleteNodeGivenPosition\obj\Debug\netcoreapp3.1\DeleteNodeGivenPosition.genruntimeconfig.cache
