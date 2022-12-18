@@ -1,0 +1,14 @@
+C:\Sakhile\leet\SmallestValue\SmallestValue\bin\Debug\netcoreapp3.1\SmallestValue.exe
+C:\Sakhile\leet\SmallestValue\SmallestValue\bin\Debug\netcoreapp3.1\SmallestValue.deps.json
+C:\Sakhile\leet\SmallestValue\SmallestValue\bin\Debug\netcoreapp3.1\SmallestValue.runtimeconfig.json
+C:\Sakhile\leet\SmallestValue\SmallestValue\bin\Debug\netcoreapp3.1\SmallestValue.runtimeconfig.dev.json
+C:\Sakhile\leet\SmallestValue\SmallestValue\bin\Debug\netcoreapp3.1\SmallestValue.dll
+C:\Sakhile\leet\SmallestValue\SmallestValue\bin\Debug\netcoreapp3.1\SmallestValue.pdb
+C:\Sakhile\leet\SmallestValue\SmallestValue\obj\Debug\netcoreapp3.1\SmallestValue.csproj.AssemblyReference.cache
+C:\Sakhile\leet\SmallestValue\SmallestValue\obj\Debug\netcoreapp3.1\SmallestValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\SmallestValue\SmallestValue\obj\Debug\netcoreapp3.1\SmallestValue.AssemblyInfoInputs.cache
+C:\Sakhile\leet\SmallestValue\SmallestValue\obj\Debug\netcoreapp3.1\SmallestValue.AssemblyInfo.cs
+C:\Sakhile\leet\SmallestValue\SmallestValue\obj\Debug\netcoreapp3.1\SmallestValue.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\SmallestValue\SmallestValue\obj\Debug\netcoreapp3.1\SmallestValue.dll
+C:\Sakhile\leet\SmallestValue\SmallestValue\obj\Debug\netcoreapp3.1\SmallestValue.pdb
+C:\Sakhile\leet\SmallestValue\SmallestValue\obj\Debug\netcoreapp3.1\SmallestValue.genruntimeconfig.cache
