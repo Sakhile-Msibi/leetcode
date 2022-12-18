@@ -1,0 +1,14 @@
+C:\Sakhile\leet\DeleteNodeFromBeginning\DeleteNodeFromBeginning\bin\Debug\netcoreapp3.1\DeleteNodeFromBeginning.exe
+C:\Sakhile\leet\DeleteNodeFromBeginning\DeleteNodeFromBeginning\bin\Debug\netcoreapp3.1\DeleteNodeFromBeginning.deps.json
+C:\Sakhile\leet\DeleteNodeFromBeginning\DeleteNodeFromBeginning\bin\Debug\netcoreapp3.1\DeleteNodeFromBeginning.runtimeconfig.json
+C:\Sakhile\leet\DeleteNodeFromBeginning\DeleteNodeFromBeginning\bin\Debug\netcoreapp3.1\DeleteNodeFromBeginning.runtimeconfig.dev.json
+C:\Sakhile\leet\DeleteNodeFromBeginning\DeleteNodeFromBeginning\bin\Debug\netcoreapp3.1\DeleteNodeFromBeginning.dll
+C:\Sakhile\leet\DeleteNodeFromBeginning\DeleteNodeFromBeginning\bin\Debug\netcoreapp3.1\DeleteNodeFromBeginning.pdb
+C:\Sakhile\leet\DeleteNodeFromBeginning\DeleteNodeFromBeginning\obj\Debug\netcoreapp3.1\DeleteNodeFromBeginning.csproj.AssemblyReference.cache
+C:\Sakhile\leet\DeleteNodeFromBeginning\DeleteNodeFromBeginning\obj\Debug\netcoreapp3.1\DeleteNodeFromBeginning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\DeleteNodeFromBeginning\DeleteNodeFromBeginning\obj\Debug\netcoreapp3.1\DeleteNodeFromBeginning.AssemblyInfoInputs.cache
+C:\Sakhile\leet\DeleteNodeFromBeginning\DeleteNodeFromBeginning\obj\Debug\netcoreapp3.1\DeleteNodeFromBeginning.AssemblyInfo.cs
+C:\Sakhile\leet\DeleteNodeFromBeginning\DeleteNodeFromBeginning\obj\Debug\netcoreapp3.1\DeleteNodeFromBeginning.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\DeleteNodeFromBeginning\DeleteNodeFromBeginning\obj\Debug\netcoreapp3.1\DeleteNodeFromBeginning.dll
+C:\Sakhile\leet\DeleteNodeFromBeginning\DeleteNodeFromBeginning\obj\Debug\netcoreapp3.1\DeleteNodeFromBeginning.pdb
+C:\Sakhile\leet\DeleteNodeFromBeginning\DeleteNodeFromBeginning\obj\Debug\netcoreapp3.1\DeleteNodeFromBeginning.genruntimeconfig.cache
