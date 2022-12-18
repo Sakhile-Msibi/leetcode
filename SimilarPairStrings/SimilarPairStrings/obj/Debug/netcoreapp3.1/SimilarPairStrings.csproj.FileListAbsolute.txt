@@ -1,0 +1,14 @@
+C:\Sakhile\leet\SimilarPairStrings\SimilarPairStrings\bin\Debug\netcoreapp3.1\SimilarPairStrings.exe
+C:\Sakhile\leet\SimilarPairStrings\SimilarPairStrings\bin\Debug\netcoreapp3.1\SimilarPairStrings.deps.json
+C:\Sakhile\leet\SimilarPairStrings\SimilarPairStrings\bin\Debug\netcoreapp3.1\SimilarPairStrings.runtimeconfig.json
+C:\Sakhile\leet\SimilarPairStrings\SimilarPairStrings\bin\Debug\netcoreapp3.1\SimilarPairStrings.runtimeconfig.dev.json
+C:\Sakhile\leet\SimilarPairStrings\SimilarPairStrings\bin\Debug\netcoreapp3.1\SimilarPairStrings.dll
+C:\Sakhile\leet\SimilarPairStrings\SimilarPairStrings\bin\Debug\netcoreapp3.1\SimilarPairStrings.pdb
+C:\Sakhile\leet\SimilarPairStrings\SimilarPairStrings\obj\Debug\netcoreapp3.1\SimilarPairStrings.csproj.AssemblyReference.cache
+C:\Sakhile\leet\SimilarPairStrings\SimilarPairStrings\obj\Debug\netcoreapp3.1\SimilarPairStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\SimilarPairStrings\SimilarPairStrings\obj\Debug\netcoreapp3.1\SimilarPairStrings.AssemblyInfoInputs.cache
+C:\Sakhile\leet\SimilarPairStrings\SimilarPairStrings\obj\Debug\netcoreapp3.1\SimilarPairStrings.AssemblyInfo.cs
+C:\Sakhile\leet\SimilarPairStrings\SimilarPairStrings\obj\Debug\netcoreapp3.1\SimilarPairStrings.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\SimilarPairStrings\SimilarPairStrings\obj\Debug\netcoreapp3.1\SimilarPairStrings.dll
+C:\Sakhile\leet\SimilarPairStrings\SimilarPairStrings\obj\Debug\netcoreapp3.1\SimilarPairStrings.pdb
+C:\Sakhile\leet\SimilarPairStrings\SimilarPairStrings\obj\Debug\netcoreapp3.1\SimilarPairStrings.genruntimeconfig.cache
