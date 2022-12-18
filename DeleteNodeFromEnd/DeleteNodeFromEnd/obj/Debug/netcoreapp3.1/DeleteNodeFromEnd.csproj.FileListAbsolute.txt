@@ -1,0 +1,14 @@
+C:\Sakhile\leet\DeleteNodeFromEnd\DeleteNodeFromEnd\bin\Debug\netcoreapp3.1\DeleteNodeFromEnd.exe
+C:\Sakhile\leet\DeleteNodeFromEnd\DeleteNodeFromEnd\bin\Debug\netcoreapp3.1\DeleteNodeFromEnd.deps.json
+C:\Sakhile\leet\DeleteNodeFromEnd\DeleteNodeFromEnd\bin\Debug\netcoreapp3.1\DeleteNodeFromEnd.runtimeconfig.json
+C:\Sakhile\leet\DeleteNodeFromEnd\DeleteNodeFromEnd\bin\Debug\netcoreapp3.1\DeleteNodeFromEnd.runtimeconfig.dev.json
+C:\Sakhile\leet\DeleteNodeFromEnd\DeleteNodeFromEnd\bin\Debug\netcoreapp3.1\DeleteNodeFromEnd.dll
+C:\Sakhile\leet\DeleteNodeFromEnd\DeleteNodeFromEnd\bin\Debug\netcoreapp3.1\DeleteNodeFromEnd.pdb
+C:\Sakhile\leet\DeleteNodeFromEnd\DeleteNodeFromEnd\obj\Debug\netcoreapp3.1\DeleteNodeFromEnd.csproj.AssemblyReference.cache
+C:\Sakhile\leet\DeleteNodeFromEnd\DeleteNodeFromEnd\obj\Debug\netcoreapp3.1\DeleteNodeFromEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\DeleteNodeFromEnd\DeleteNodeFromEnd\obj\Debug\netcoreapp3.1\DeleteNodeFromEnd.AssemblyInfoInputs.cache
+C:\Sakhile\leet\DeleteNodeFromEnd\DeleteNodeFromEnd\obj\Debug\netcoreapp3.1\DeleteNodeFromEnd.AssemblyInfo.cs
+C:\Sakhile\leet\DeleteNodeFromEnd\DeleteNodeFromEnd\obj\Debug\netcoreapp3.1\DeleteNodeFromEnd.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\DeleteNodeFromEnd\DeleteNodeFromEnd\obj\Debug\netcoreapp3.1\DeleteNodeFromEnd.dll
+C:\Sakhile\leet\DeleteNodeFromEnd\DeleteNodeFromEnd\obj\Debug\netcoreapp3.1\DeleteNodeFromEnd.pdb
+C:\Sakhile\leet\DeleteNodeFromEnd\DeleteNodeFromEnd\obj\Debug\netcoreapp3.1\DeleteNodeFromEnd.genruntimeconfig.cache
