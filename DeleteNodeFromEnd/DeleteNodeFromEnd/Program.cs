@@ -23,14 +23,14 @@ namespace DeleteNodeFromEnd
             Node prev_node = head;
             Node end_node = head;
 
+            if (end_node == null)
+                return;
+
             while (end_node.next != null)
             {
                 prev_node = end_node;
                 end_node = end_node.next;
             }
-
-            if (end_node == null)
-                return;
 
             prev_node.next = end_node.next;
         }
