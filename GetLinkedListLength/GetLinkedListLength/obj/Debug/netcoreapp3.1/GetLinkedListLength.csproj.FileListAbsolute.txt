@@ -1,0 +1,14 @@
+C:\Sakhile\leet\GetLinkedListLength\GetLinkedListLength\bin\Debug\netcoreapp3.1\GetLinkedListLength.exe
+C:\Sakhile\leet\GetLinkedListLength\GetLinkedListLength\bin\Debug\netcoreapp3.1\GetLinkedListLength.deps.json
+C:\Sakhile\leet\GetLinkedListLength\GetLinkedListLength\bin\Debug\netcoreapp3.1\GetLinkedListLength.runtimeconfig.json
+C:\Sakhile\leet\GetLinkedListLength\GetLinkedListLength\bin\Debug\netcoreapp3.1\GetLinkedListLength.runtimeconfig.dev.json
+C:\Sakhile\leet\GetLinkedListLength\GetLinkedListLength\bin\Debug\netcoreapp3.1\GetLinkedListLength.dll
+C:\Sakhile\leet\GetLinkedListLength\GetLinkedListLength\bin\Debug\netcoreapp3.1\GetLinkedListLength.pdb
+C:\Sakhile\leet\GetLinkedListLength\GetLinkedListLength\obj\Debug\netcoreapp3.1\GetLinkedListLength.csproj.AssemblyReference.cache
+C:\Sakhile\leet\GetLinkedListLength\GetLinkedListLength\obj\Debug\netcoreapp3.1\GetLinkedListLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\GetLinkedListLength\GetLinkedListLength\obj\Debug\netcoreapp3.1\GetLinkedListLength.AssemblyInfoInputs.cache
+C:\Sakhile\leet\GetLinkedListLength\GetLinkedListLength\obj\Debug\netcoreapp3.1\GetLinkedListLength.AssemblyInfo.cs
+C:\Sakhile\leet\GetLinkedListLength\GetLinkedListLength\obj\Debug\netcoreapp3.1\GetLinkedListLength.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\GetLinkedListLength\GetLinkedListLength\obj\Debug\netcoreapp3.1\GetLinkedListLength.dll
+C:\Sakhile\leet\GetLinkedListLength\GetLinkedListLength\obj\Debug\netcoreapp3.1\GetLinkedListLength.pdb
+C:\Sakhile\leet\GetLinkedListLength\GetLinkedListLength\obj\Debug\netcoreapp3.1\GetLinkedListLength.genruntimeconfig.cache
