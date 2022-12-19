@@ -1,0 +1,14 @@
+C:\Sakhile\leet\GetNodeAtPositionX\GetNodeAtPositionX\bin\Debug\netcoreapp3.1\GetNodeAtPositionX.exe
+C:\Sakhile\leet\GetNodeAtPositionX\GetNodeAtPositionX\bin\Debug\netcoreapp3.1\GetNodeAtPositionX.deps.json
+C:\Sakhile\leet\GetNodeAtPositionX\GetNodeAtPositionX\bin\Debug\netcoreapp3.1\GetNodeAtPositionX.runtimeconfig.json
+C:\Sakhile\leet\GetNodeAtPositionX\GetNodeAtPositionX\bin\Debug\netcoreapp3.1\GetNodeAtPositionX.runtimeconfig.dev.json
+C:\Sakhile\leet\GetNodeAtPositionX\GetNodeAtPositionX\bin\Debug\netcoreapp3.1\GetNodeAtPositionX.dll
+C:\Sakhile\leet\GetNodeAtPositionX\GetNodeAtPositionX\bin\Debug\netcoreapp3.1\GetNodeAtPositionX.pdb
+C:\Sakhile\leet\GetNodeAtPositionX\GetNodeAtPositionX\obj\Debug\netcoreapp3.1\GetNodeAtPositionX.csproj.AssemblyReference.cache
+C:\Sakhile\leet\GetNodeAtPositionX\GetNodeAtPositionX\obj\Debug\netcoreapp3.1\GetNodeAtPositionX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\GetNodeAtPositionX\GetNodeAtPositionX\obj\Debug\netcoreapp3.1\GetNodeAtPositionX.AssemblyInfoInputs.cache
+C:\Sakhile\leet\GetNodeAtPositionX\GetNodeAtPositionX\obj\Debug\netcoreapp3.1\GetNodeAtPositionX.AssemblyInfo.cs
+C:\Sakhile\leet\GetNodeAtPositionX\GetNodeAtPositionX\obj\Debug\netcoreapp3.1\GetNodeAtPositionX.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\GetNodeAtPositionX\GetNodeAtPositionX\obj\Debug\netcoreapp3.1\GetNodeAtPositionX.dll
+C:\Sakhile\leet\GetNodeAtPositionX\GetNodeAtPositionX\obj\Debug\netcoreapp3.1\GetNodeAtPositionX.pdb
+C:\Sakhile\leet\GetNodeAtPositionX\GetNodeAtPositionX\obj\Debug\netcoreapp3.1\GetNodeAtPositionX.genruntimeconfig.cache
