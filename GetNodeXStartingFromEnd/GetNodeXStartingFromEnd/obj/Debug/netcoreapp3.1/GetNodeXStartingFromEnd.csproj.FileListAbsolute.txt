@@ -1,0 +1,14 @@
+C:\Sakhile\leet\GetNodeXStartingFromEnd\GetNodeXStartingFromEnd\bin\Debug\netcoreapp3.1\GetNodeXStartingFromEnd.exe
+C:\Sakhile\leet\GetNodeXStartingFromEnd\GetNodeXStartingFromEnd\bin\Debug\netcoreapp3.1\GetNodeXStartingFromEnd.deps.json
+C:\Sakhile\leet\GetNodeXStartingFromEnd\GetNodeXStartingFromEnd\bin\Debug\netcoreapp3.1\GetNodeXStartingFromEnd.runtimeconfig.json
+C:\Sakhile\leet\GetNodeXStartingFromEnd\GetNodeXStartingFromEnd\bin\Debug\netcoreapp3.1\GetNodeXStartingFromEnd.runtimeconfig.dev.json
+C:\Sakhile\leet\GetNodeXStartingFromEnd\GetNodeXStartingFromEnd\bin\Debug\netcoreapp3.1\GetNodeXStartingFromEnd.dll
+C:\Sakhile\leet\GetNodeXStartingFromEnd\GetNodeXStartingFromEnd\bin\Debug\netcoreapp3.1\GetNodeXStartingFromEnd.pdb
+C:\Sakhile\leet\GetNodeXStartingFromEnd\GetNodeXStartingFromEnd\obj\Debug\netcoreapp3.1\GetNodeXStartingFromEnd.csproj.AssemblyReference.cache
+C:\Sakhile\leet\GetNodeXStartingFromEnd\GetNodeXStartingFromEnd\obj\Debug\netcoreapp3.1\GetNodeXStartingFromEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\GetNodeXStartingFromEnd\GetNodeXStartingFromEnd\obj\Debug\netcoreapp3.1\GetNodeXStartingFromEnd.AssemblyInfoInputs.cache
+C:\Sakhile\leet\GetNodeXStartingFromEnd\GetNodeXStartingFromEnd\obj\Debug\netcoreapp3.1\GetNodeXStartingFromEnd.AssemblyInfo.cs
+C:\Sakhile\leet\GetNodeXStartingFromEnd\GetNodeXStartingFromEnd\obj\Debug\netcoreapp3.1\GetNodeXStartingFromEnd.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\GetNodeXStartingFromEnd\GetNodeXStartingFromEnd\obj\Debug\netcoreapp3.1\GetNodeXStartingFromEnd.dll
+C:\Sakhile\leet\GetNodeXStartingFromEnd\GetNodeXStartingFromEnd\obj\Debug\netcoreapp3.1\GetNodeXStartingFromEnd.pdb
+C:\Sakhile\leet\GetNodeXStartingFromEnd\GetNodeXStartingFromEnd\obj\Debug\netcoreapp3.1\GetNodeXStartingFromEnd.genruntimeconfig.cache
