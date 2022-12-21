@@ -1,0 +1,14 @@
+C:\Sakhile\leet\DesignLinkedList\DesignLinkedList\bin\Debug\netcoreapp3.1\DesignLinkedList.exe
+C:\Sakhile\leet\DesignLinkedList\DesignLinkedList\bin\Debug\netcoreapp3.1\DesignLinkedList.deps.json
+C:\Sakhile\leet\DesignLinkedList\DesignLinkedList\bin\Debug\netcoreapp3.1\DesignLinkedList.runtimeconfig.json
+C:\Sakhile\leet\DesignLinkedList\DesignLinkedList\bin\Debug\netcoreapp3.1\DesignLinkedList.runtimeconfig.dev.json
+C:\Sakhile\leet\DesignLinkedList\DesignLinkedList\bin\Debug\netcoreapp3.1\DesignLinkedList.dll
+C:\Sakhile\leet\DesignLinkedList\DesignLinkedList\bin\Debug\netcoreapp3.1\DesignLinkedList.pdb
+C:\Sakhile\leet\DesignLinkedList\DesignLinkedList\obj\Debug\netcoreapp3.1\DesignLinkedList.csproj.AssemblyReference.cache
+C:\Sakhile\leet\DesignLinkedList\DesignLinkedList\obj\Debug\netcoreapp3.1\DesignLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\DesignLinkedList\DesignLinkedList\obj\Debug\netcoreapp3.1\DesignLinkedList.AssemblyInfoInputs.cache
+C:\Sakhile\leet\DesignLinkedList\DesignLinkedList\obj\Debug\netcoreapp3.1\DesignLinkedList.AssemblyInfo.cs
+C:\Sakhile\leet\DesignLinkedList\DesignLinkedList\obj\Debug\netcoreapp3.1\DesignLinkedList.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\DesignLinkedList\DesignLinkedList\obj\Debug\netcoreapp3.1\DesignLinkedList.dll
+C:\Sakhile\leet\DesignLinkedList\DesignLinkedList\obj\Debug\netcoreapp3.1\DesignLinkedList.pdb
+C:\Sakhile\leet\DesignLinkedList\DesignLinkedList\obj\Debug\netcoreapp3.1\DesignLinkedList.genruntimeconfig.cache
