@@ -26,16 +26,19 @@ namespace DesignLinkedList
         public int Get(int index)
         {
             Node temp = head;
+            Node prev = head;
 
             if (temp == null)
                 return -1;
 
             for (int i = 0; i < index; i++)
             {
-                temp = temp.next;
 
-                if (temp == null)
+                prev = temp;
+                if (prev == null)
                     return -1;
+
+                temp = temp.next;
             }
 
             return temp.data;
@@ -82,10 +85,10 @@ namespace DesignLinkedList
             for (int i = 0; i < index; i++)
             {
                 prev = current;
-                current = current.next;
-
-                if (current == null)
+                if (prev == null)
                     return;
+
+                current = current.next;
             }
 
             new_node.next = current;
@@ -103,10 +106,10 @@ namespace DesignLinkedList
             for (int i = 0; i < index; i++)
             {
                 prev = current;
-                current = current.next;
-
-                if (current == null)
+                if (prev == null)
                     return;
+
+                current = current.next;
             }
 
             prev.next = current.next;
@@ -127,17 +130,29 @@ namespace DesignLinkedList
         {
             MyLinkedList myLinkedList = new MyLinkedList();
 
-            myLinkedList.AddAtHead(1);
-            myLinkedList.AddAtTail(3);
-            myLinkedList.AddAtIndex(1, 2);
-            myLinkedList.DisplayLinkedList();
+            //myLinkedList.AddAtHead(7);
+            //myLinkedList.AddAtHead(2);
+            //myLinkedList.AddAtHead(1);
+            //myLinkedList.AddAtIndex(3, 0);
+            //myLinkedList.DisplayLinkedList();
 
-            Console.WriteLine(myLinkedList.Get(1));
+            //myLinkedList.DeleteAtIndex(2);
+            //myLinkedList.DisplayLinkedList();
 
-            myLinkedList.DeleteAtIndex(1);
-            myLinkedList.DisplayLinkedList();
+            //myLinkedList.AddAtHead(6);
+            //myLinkedList.AddAtTail(4);
+            //myLinkedList.DisplayLinkedList();
 
-            Console.WriteLine(myLinkedList.Get(1));
+            //Console.WriteLine(myLinkedList.Get(14));
+
+            //myLinkedList.AddAtHead(4);
+            //myLinkedList.AddAtIndex(5, 0);
+            //myLinkedList.AddAtHead(6);
+            //myLinkedList.DisplayLinkedList();
+
+
+
+            //Console.WriteLine(myLinkedList.Get(1));
             Console.ReadKey();
         }
     }
