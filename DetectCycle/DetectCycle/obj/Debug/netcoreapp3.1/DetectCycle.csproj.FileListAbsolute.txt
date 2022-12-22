@@ -1,0 +1,14 @@
+C:\Sakhile\leet\DetectCycle\DetectCycle\bin\Debug\netcoreapp3.1\DetectCycle.exe
+C:\Sakhile\leet\DetectCycle\DetectCycle\bin\Debug\netcoreapp3.1\DetectCycle.deps.json
+C:\Sakhile\leet\DetectCycle\DetectCycle\bin\Debug\netcoreapp3.1\DetectCycle.runtimeconfig.json
+C:\Sakhile\leet\DetectCycle\DetectCycle\bin\Debug\netcoreapp3.1\DetectCycle.runtimeconfig.dev.json
+C:\Sakhile\leet\DetectCycle\DetectCycle\bin\Debug\netcoreapp3.1\DetectCycle.dll
+C:\Sakhile\leet\DetectCycle\DetectCycle\bin\Debug\netcoreapp3.1\DetectCycle.pdb
+C:\Sakhile\leet\DetectCycle\DetectCycle\obj\Debug\netcoreapp3.1\DetectCycle.csproj.AssemblyReference.cache
+C:\Sakhile\leet\DetectCycle\DetectCycle\obj\Debug\netcoreapp3.1\DetectCycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\DetectCycle\DetectCycle\obj\Debug\netcoreapp3.1\DetectCycle.AssemblyInfoInputs.cache
+C:\Sakhile\leet\DetectCycle\DetectCycle\obj\Debug\netcoreapp3.1\DetectCycle.AssemblyInfo.cs
+C:\Sakhile\leet\DetectCycle\DetectCycle\obj\Debug\netcoreapp3.1\DetectCycle.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\DetectCycle\DetectCycle\obj\Debug\netcoreapp3.1\DetectCycle.dll
+C:\Sakhile\leet\DetectCycle\DetectCycle\obj\Debug\netcoreapp3.1\DetectCycle.pdb
+C:\Sakhile\leet\DetectCycle\DetectCycle\obj\Debug\netcoreapp3.1\DetectCycle.genruntimeconfig.cache
