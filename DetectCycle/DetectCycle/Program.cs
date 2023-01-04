@@ -22,28 +22,25 @@ namespace DetectCycle
             ListNode slowPointer = head;
             ListNode fastPointer = head;
 
-            if (slowPointer == null || slowPointer.next == null)
-                return null;
-
-            while (slowPointer != null && slowPointer.next.next != null)
+            while (fastPointer != null && fastPointer.next != null)
             {
-                if (fastPointer == null || fastPointer.next == null)
-                    return null;
-
-                if (slowPointer.next == head)
-                    return head;
-
-                if (slowPointer.next == head)
-                    return head;
-
-                if (slowPointer == fastPointer.next)
-                    return fastPointer;
-
                 fastPointer = fastPointer.next.next;
-                slowPointer = slowPointer.next;  
+                slowPointer = slowPointer.next;
+
+                if (slowPointer == fastPointer)
+                    break;   
             }
 
-            return null;
+            if (fastPointer == null || fastPointer.next == null)
+                return null;
+
+            while (head != slowPointer)
+            {
+                head = head.next;
+                slowPointer = slowPointer.next;
+            }
+
+            return head;
         }
 
         public void Push(int new_data)
@@ -90,60 +87,60 @@ namespace DetectCycle
         {
             LinkedList linkedList = new LinkedList();
 
-            //linkedList.head = new ListNode(1);
-            //ListNode second = new ListNode(2);
-            //ListNode third = new ListNode(1);
-            //ListNode fourth = new ListNode(4);
+            linkedList.head = new ListNode(1);
+            ListNode second = new ListNode(2);
+            ListNode third = new ListNode(3);
+            ListNode fourth = new ListNode(4);
 
-            //linkedList.head.next = second;
-            //second.next = third;
-            //third.next = fourth;
-            //fourth.next = third;
+            linkedList.head.next = second;
+            second.next = third;
+            third.next = fourth;
+            fourth.next = second;
             //linkedList.DisplayLinkedList(linkedList.head);
 
-            linkedList.Append(-21);
-            linkedList.Append(10);
-            linkedList.Append(17);
-            linkedList.Append(8);
-            linkedList.Append(4);
-            linkedList.Append(26);
-            linkedList.Append(5);
-            linkedList.Append(35);
-            linkedList.Append(33);
-            linkedList.Append(-7);
-            linkedList.Append(-16);
-            linkedList.Append(27);
-            linkedList.Append(-12);
-            linkedList.Append(6);
-            linkedList.Append(29);
-            linkedList.Append(-12);
-            linkedList.Append(5);
-            linkedList.Append(9);
-            linkedList.Append(20);
-            linkedList.Append(14);
-            linkedList.Append(14);
-            linkedList.Append(2);
-            linkedList.Append(13);
-            linkedList.Append(-24);
-            linkedList.Append(21);
-            linkedList.Append(23);
-            linkedList.Append(-21);
-            linkedList.Append(5);
-            //linkedList.DisplayLinkedList();
+            //linkedList.Append(-21);
+            //linkedList.Append(10);
+            //linkedList.Append(17);
+            //linkedList.Append(8);
+            //linkedList.Append(4);
+            //linkedList.Append(26);
+            //linkedList.Append(5);
+            //linkedList.Append(35);
+            //linkedList.Append(33);
+            //linkedList.Append(-7);
+            //linkedList.Append(-16);
+            //linkedList.Append(27);
+            //linkedList.Append(-12);
+            //linkedList.Append(6);
+            //linkedList.Append(29);
+            //linkedList.Append(-12);
+            //linkedList.Append(5);
+            //linkedList.Append(9);
+            //linkedList.Append(20);
+            //linkedList.Append(14);
+            //linkedList.Append(14);
+            //linkedList.Append(2);
+            //linkedList.Append(13);
+            //linkedList.Append(-24);
+            //linkedList.Append(21);
+            //linkedList.Append(23);
+            //linkedList.Append(-21);
+            //linkedList.Append(5);
+            ////linkedList.DisplayLinkedList();
 
-            ListNode temp = linkedList.head;
-            for (int i = 0; i < 24; i++)
-            {
-                temp = temp.next;
-            }
+            //ListNode temp = linkedList.head;
+            //for (int i = 0; i < 24; i++)
+            //{
+            //    temp = temp.next;
+            //}
 
-            ListNode temp1 = linkedList.head;
-            for (int i = 0; i < 27; i++)
-            {
-                temp1 = temp1.next;
-            }
+            //ListNode temp1 = linkedList.head;
+            //for (int i = 0; i < 27; i++)
+            //{
+            //    temp1 = temp1.next;
+            //}
 
-            temp1.next = temp;
+            //temp1.next = temp;
             linkedList.DisplayLinkedList(linkedList.FindCycle(linkedList.head));
             Console.ReadKey();
         }
