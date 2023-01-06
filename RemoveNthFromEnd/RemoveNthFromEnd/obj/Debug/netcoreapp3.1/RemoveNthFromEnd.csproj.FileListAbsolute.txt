@@ -1,0 +1,14 @@
+C:\Sakhile\leet\RemoveNthFromEnd\RemoveNthFromEnd\bin\Debug\netcoreapp3.1\RemoveNthFromEnd.exe
+C:\Sakhile\leet\RemoveNthFromEnd\RemoveNthFromEnd\bin\Debug\netcoreapp3.1\RemoveNthFromEnd.deps.json
+C:\Sakhile\leet\RemoveNthFromEnd\RemoveNthFromEnd\bin\Debug\netcoreapp3.1\RemoveNthFromEnd.runtimeconfig.json
+C:\Sakhile\leet\RemoveNthFromEnd\RemoveNthFromEnd\bin\Debug\netcoreapp3.1\RemoveNthFromEnd.runtimeconfig.dev.json
+C:\Sakhile\leet\RemoveNthFromEnd\RemoveNthFromEnd\bin\Debug\netcoreapp3.1\RemoveNthFromEnd.dll
+C:\Sakhile\leet\RemoveNthFromEnd\RemoveNthFromEnd\bin\Debug\netcoreapp3.1\RemoveNthFromEnd.pdb
+C:\Sakhile\leet\RemoveNthFromEnd\RemoveNthFromEnd\obj\Debug\netcoreapp3.1\RemoveNthFromEnd.csproj.AssemblyReference.cache
+C:\Sakhile\leet\RemoveNthFromEnd\RemoveNthFromEnd\obj\Debug\netcoreapp3.1\RemoveNthFromEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\RemoveNthFromEnd\RemoveNthFromEnd\obj\Debug\netcoreapp3.1\RemoveNthFromEnd.AssemblyInfoInputs.cache
+C:\Sakhile\leet\RemoveNthFromEnd\RemoveNthFromEnd\obj\Debug\netcoreapp3.1\RemoveNthFromEnd.AssemblyInfo.cs
+C:\Sakhile\leet\RemoveNthFromEnd\RemoveNthFromEnd\obj\Debug\netcoreapp3.1\RemoveNthFromEnd.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\RemoveNthFromEnd\RemoveNthFromEnd\obj\Debug\netcoreapp3.1\RemoveNthFromEnd.dll
+C:\Sakhile\leet\RemoveNthFromEnd\RemoveNthFromEnd\obj\Debug\netcoreapp3.1\RemoveNthFromEnd.pdb
+C:\Sakhile\leet\RemoveNthFromEnd\RemoveNthFromEnd\obj\Debug\netcoreapp3.1\RemoveNthFromEnd.genruntimeconfig.cache
