@@ -1,0 +1,14 @@
+C:\Sakhile\leet\RemoveElements\RemoveElements\obj\Debug\netcoreapp3.1\RemoveElements.csproj.AssemblyReference.cache
+C:\Sakhile\leet\RemoveElements\RemoveElements\obj\Debug\netcoreapp3.1\RemoveElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\RemoveElements\RemoveElements\obj\Debug\netcoreapp3.1\RemoveElements.AssemblyInfoInputs.cache
+C:\Sakhile\leet\RemoveElements\RemoveElements\obj\Debug\netcoreapp3.1\RemoveElements.AssemblyInfo.cs
+C:\Sakhile\leet\RemoveElements\RemoveElements\obj\Debug\netcoreapp3.1\RemoveElements.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\RemoveElements\RemoveElements\bin\Debug\netcoreapp3.1\RemoveElements.exe
+C:\Sakhile\leet\RemoveElements\RemoveElements\bin\Debug\netcoreapp3.1\RemoveElements.deps.json
+C:\Sakhile\leet\RemoveElements\RemoveElements\bin\Debug\netcoreapp3.1\RemoveElements.runtimeconfig.json
+C:\Sakhile\leet\RemoveElements\RemoveElements\bin\Debug\netcoreapp3.1\RemoveElements.runtimeconfig.dev.json
+C:\Sakhile\leet\RemoveElements\RemoveElements\bin\Debug\netcoreapp3.1\RemoveElements.dll
+C:\Sakhile\leet\RemoveElements\RemoveElements\bin\Debug\netcoreapp3.1\RemoveElements.pdb
+C:\Sakhile\leet\RemoveElements\RemoveElements\obj\Debug\netcoreapp3.1\RemoveElements.dll
+C:\Sakhile\leet\RemoveElements\RemoveElements\obj\Debug\netcoreapp3.1\RemoveElements.pdb
+C:\Sakhile\leet\RemoveElements\RemoveElements\obj\Debug\netcoreapp3.1\RemoveElements.genruntimeconfig.cache
