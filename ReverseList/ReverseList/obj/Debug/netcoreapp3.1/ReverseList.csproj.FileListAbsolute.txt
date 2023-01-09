@@ -1,0 +1,14 @@
+C:\Sakhile\leet\ReverseList\ReverseList\bin\Debug\netcoreapp3.1\ReverseList.exe
+C:\Sakhile\leet\ReverseList\ReverseList\bin\Debug\netcoreapp3.1\ReverseList.deps.json
+C:\Sakhile\leet\ReverseList\ReverseList\bin\Debug\netcoreapp3.1\ReverseList.runtimeconfig.json
+C:\Sakhile\leet\ReverseList\ReverseList\bin\Debug\netcoreapp3.1\ReverseList.runtimeconfig.dev.json
+C:\Sakhile\leet\ReverseList\ReverseList\bin\Debug\netcoreapp3.1\ReverseList.dll
+C:\Sakhile\leet\ReverseList\ReverseList\bin\Debug\netcoreapp3.1\ReverseList.pdb
+C:\Sakhile\leet\ReverseList\ReverseList\obj\Debug\netcoreapp3.1\ReverseList.csproj.AssemblyReference.cache
+C:\Sakhile\leet\ReverseList\ReverseList\obj\Debug\netcoreapp3.1\ReverseList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\ReverseList\ReverseList\obj\Debug\netcoreapp3.1\ReverseList.AssemblyInfoInputs.cache
+C:\Sakhile\leet\ReverseList\ReverseList\obj\Debug\netcoreapp3.1\ReverseList.AssemblyInfo.cs
+C:\Sakhile\leet\ReverseList\ReverseList\obj\Debug\netcoreapp3.1\ReverseList.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\ReverseList\ReverseList\obj\Debug\netcoreapp3.1\ReverseList.dll
+C:\Sakhile\leet\ReverseList\ReverseList\obj\Debug\netcoreapp3.1\ReverseList.pdb
+C:\Sakhile\leet\ReverseList\ReverseList\obj\Debug\netcoreapp3.1\ReverseList.genruntimeconfig.cache
