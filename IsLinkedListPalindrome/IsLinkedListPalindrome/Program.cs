@@ -24,32 +24,48 @@ namespace IsLinkedListPalindrome
 
 
             int mid = ListLength(head) / 2;
+            int len = ListLength(head);
             ListNode forwad_list = head;
-            ListNode second_half_list = head;
+            ListNode second_half_list;
 
-            if (ListLength(head) % 2 == 0)
+            while (mid != 0)
             {
-                while (mid != 0)
-                {
-                    second_half_list = second_half_list.next;
-                    
-                    mid--;
-                }
+                second_half_list = GetNthNode(len);
 
-                while (second_half_list != null)
-                {
-                    if (forwad_list.data != second_half_list.data)
-                        return false;
+                if (forwad_list.data != second_half_list.data)
+                    return false;
 
-                    forwad_list = forwad_list.next;
-                    second_half_list = second_half_list.next;
-                }
+                forwad_list = forwad_list.next;
+
+                mid--;
+                len--;
             }
 
             return true;
         }
 
-        public ListNode ReverseList(ListNode head)
+        public ListNode GetNthNode(int N)
+        {
+            //int len = 0;
+            ListNode temp = head;
+
+            //while (temp != null)
+            //{
+            //    temp = temp.next;
+            //    len++;
+            //}
+
+            temp = head;
+
+            for (int i = 1; i < N; i++)
+            {
+                temp = temp.next;
+            }
+
+            return temp;
+        }
+
+        public ListNode ReverseList()
         {
             ListNode prev_node = null;
             ListNode current = head;
@@ -120,7 +136,7 @@ namespace IsLinkedListPalindrome
 
             linkedList.Append(1);
             linkedList.Append(2);
-            linkedList.Append(2);
+            linkedList.Append(6);
             linkedList.Append(1);
             linkedList.DisplayLinkedList(linkedList.head);
 
