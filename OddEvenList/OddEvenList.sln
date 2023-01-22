@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEvenList", "OddEvenList\OddEvenList.csproj", "{B92A83A4-DB86-4D4C-B8D3-020C2C5D0AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B92A83A4-DB86-4D4C-B8D3-020C2C5D0AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92A83A4-DB86-4D4C-B8D3-020C2C5D0AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92A83A4-DB86-4D4C-B8D3-020C2C5D0AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92A83A4-DB86-4D4C-B8D3-020C2C5D0AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {488995A1-52B8-43C7-85F9-A580E9C4666B}
+	EndGlobalSection
+EndGlobal

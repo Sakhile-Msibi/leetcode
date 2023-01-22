@@ -1,0 +1,14 @@
+C:\Sakhile\leet\OddEvenList\OddEvenList\bin\Debug\netcoreapp3.1\OddEvenList.exe
+C:\Sakhile\leet\OddEvenList\OddEvenList\bin\Debug\netcoreapp3.1\OddEvenList.deps.json
+C:\Sakhile\leet\OddEvenList\OddEvenList\bin\Debug\netcoreapp3.1\OddEvenList.runtimeconfig.json
+C:\Sakhile\leet\OddEvenList\OddEvenList\bin\Debug\netcoreapp3.1\OddEvenList.runtimeconfig.dev.json
+C:\Sakhile\leet\OddEvenList\OddEvenList\bin\Debug\netcoreapp3.1\OddEvenList.dll
+C:\Sakhile\leet\OddEvenList\OddEvenList\bin\Debug\netcoreapp3.1\OddEvenList.pdb
+C:\Sakhile\leet\OddEvenList\OddEvenList\obj\Debug\netcoreapp3.1\OddEvenList.csproj.AssemblyReference.cache
+C:\Sakhile\leet\OddEvenList\OddEvenList\obj\Debug\netcoreapp3.1\OddEvenList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\OddEvenList\OddEvenList\obj\Debug\netcoreapp3.1\OddEvenList.AssemblyInfoInputs.cache
+C:\Sakhile\leet\OddEvenList\OddEvenList\obj\Debug\netcoreapp3.1\OddEvenList.AssemblyInfo.cs
+C:\Sakhile\leet\OddEvenList\OddEvenList\obj\Debug\netcoreapp3.1\OddEvenList.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\OddEvenList\OddEvenList\obj\Debug\netcoreapp3.1\OddEvenList.dll
+C:\Sakhile\leet\OddEvenList\OddEvenList\obj\Debug\netcoreapp3.1\OddEvenList.pdb
+C:\Sakhile\leet\OddEvenList\OddEvenList\obj\Debug\netcoreapp3.1\OddEvenList.genruntimeconfig.cache
