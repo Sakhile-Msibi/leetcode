@@ -1,0 +1,14 @@
+C:\Sakhile\leet\IsLinkedListPalindrome\IsLinkedListPalindrome\bin\Debug\netcoreapp3.1\IsLinkedListPalindrome.exe
+C:\Sakhile\leet\IsLinkedListPalindrome\IsLinkedListPalindrome\bin\Debug\netcoreapp3.1\IsLinkedListPalindrome.deps.json
+C:\Sakhile\leet\IsLinkedListPalindrome\IsLinkedListPalindrome\bin\Debug\netcoreapp3.1\IsLinkedListPalindrome.runtimeconfig.json
+C:\Sakhile\leet\IsLinkedListPalindrome\IsLinkedListPalindrome\bin\Debug\netcoreapp3.1\IsLinkedListPalindrome.runtimeconfig.dev.json
+C:\Sakhile\leet\IsLinkedListPalindrome\IsLinkedListPalindrome\bin\Debug\netcoreapp3.1\IsLinkedListPalindrome.dll
+C:\Sakhile\leet\IsLinkedListPalindrome\IsLinkedListPalindrome\bin\Debug\netcoreapp3.1\IsLinkedListPalindrome.pdb
+C:\Sakhile\leet\IsLinkedListPalindrome\IsLinkedListPalindrome\obj\Debug\netcoreapp3.1\IsLinkedListPalindrome.csproj.AssemblyReference.cache
+C:\Sakhile\leet\IsLinkedListPalindrome\IsLinkedListPalindrome\obj\Debug\netcoreapp3.1\IsLinkedListPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\IsLinkedListPalindrome\IsLinkedListPalindrome\obj\Debug\netcoreapp3.1\IsLinkedListPalindrome.AssemblyInfoInputs.cache
+C:\Sakhile\leet\IsLinkedListPalindrome\IsLinkedListPalindrome\obj\Debug\netcoreapp3.1\IsLinkedListPalindrome.AssemblyInfo.cs
+C:\Sakhile\leet\IsLinkedListPalindrome\IsLinkedListPalindrome\obj\Debug\netcoreapp3.1\IsLinkedListPalindrome.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\IsLinkedListPalindrome\IsLinkedListPalindrome\obj\Debug\netcoreapp3.1\IsLinkedListPalindrome.dll
+C:\Sakhile\leet\IsLinkedListPalindrome\IsLinkedListPalindrome\obj\Debug\netcoreapp3.1\IsLinkedListPalindrome.pdb
+C:\Sakhile\leet\IsLinkedListPalindrome\IsLinkedListPalindrome\obj\Debug\netcoreapp3.1\IsLinkedListPalindrome.genruntimeconfig.cache
