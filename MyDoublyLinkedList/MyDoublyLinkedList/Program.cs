@@ -70,6 +70,39 @@ namespace MyDoublyLinkedList
             temp.next = new_node;
         }
 
+        public void AddAtIndex(int index, int val)
+        {
+            ListNode new_node = new ListNode(val);
+            ListNode current = head;
+            ListNode prev_node = head;
+
+            if (index == 0)
+            {
+                AddAtHead(val);
+                return;
+            }
+
+            if (current == null)
+                return;
+
+            for (int i = 0; i < index; i++)
+            {
+                prev_node = current;
+                if (prev_node == null)
+                    return;
+
+                current = current.next;
+            }
+
+
+            new_node.next = current;
+            new_node.prev = prev_node;
+            prev_node.next = new_node;
+            
+            if (current != null)
+                current.prev = new_node;
+        }
+
         public void DisplayDLL(ListNode head)
         {
             ListNode list = head;
@@ -92,9 +125,15 @@ namespace MyDoublyLinkedList
             //linkedList.DisplayDLL(linkedList.head);
 
 
-            linkedList.AddAtTail(1);
-            linkedList.AddAtTail(2);
-            linkedList.AddAtTail(3);
+            //linkedList.AddAtTail(1);
+            //linkedList.AddAtTail(2);
+            //linkedList.AddAtTail(3);
+            //linkedList.DisplayDLL(linkedList.head);
+
+            linkedList.AddAtIndex(0, 1);
+            linkedList.AddAtIndex(1, 2);
+            linkedList.AddAtIndex(2, 3);
+            linkedList.AddAtIndex(1, 5);
             linkedList.DisplayDLL(linkedList.head);
 
             //Console.WriteLine(linkedList.Get(1));
