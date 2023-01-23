@@ -1,0 +1,14 @@
+C:\Sakhile\leet\MyDoublyLinkedList\MyDoublyLinkedList\bin\Debug\netcoreapp3.1\MyDoublyLinkedList.exe
+C:\Sakhile\leet\MyDoublyLinkedList\MyDoublyLinkedList\bin\Debug\netcoreapp3.1\MyDoublyLinkedList.deps.json
+C:\Sakhile\leet\MyDoublyLinkedList\MyDoublyLinkedList\bin\Debug\netcoreapp3.1\MyDoublyLinkedList.runtimeconfig.json
+C:\Sakhile\leet\MyDoublyLinkedList\MyDoublyLinkedList\bin\Debug\netcoreapp3.1\MyDoublyLinkedList.runtimeconfig.dev.json
+C:\Sakhile\leet\MyDoublyLinkedList\MyDoublyLinkedList\bin\Debug\netcoreapp3.1\MyDoublyLinkedList.dll
+C:\Sakhile\leet\MyDoublyLinkedList\MyDoublyLinkedList\bin\Debug\netcoreapp3.1\MyDoublyLinkedList.pdb
+C:\Sakhile\leet\MyDoublyLinkedList\MyDoublyLinkedList\obj\Debug\netcoreapp3.1\MyDoublyLinkedList.csproj.AssemblyReference.cache
+C:\Sakhile\leet\MyDoublyLinkedList\MyDoublyLinkedList\obj\Debug\netcoreapp3.1\MyDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\MyDoublyLinkedList\MyDoublyLinkedList\obj\Debug\netcoreapp3.1\MyDoublyLinkedList.AssemblyInfoInputs.cache
+C:\Sakhile\leet\MyDoublyLinkedList\MyDoublyLinkedList\obj\Debug\netcoreapp3.1\MyDoublyLinkedList.AssemblyInfo.cs
+C:\Sakhile\leet\MyDoublyLinkedList\MyDoublyLinkedList\obj\Debug\netcoreapp3.1\MyDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\MyDoublyLinkedList\MyDoublyLinkedList\obj\Debug\netcoreapp3.1\MyDoublyLinkedList.dll
+C:\Sakhile\leet\MyDoublyLinkedList\MyDoublyLinkedList\obj\Debug\netcoreapp3.1\MyDoublyLinkedList.pdb
+C:\Sakhile\leet\MyDoublyLinkedList\MyDoublyLinkedList\obj\Debug\netcoreapp3.1\MyDoublyLinkedList.genruntimeconfig.cache
