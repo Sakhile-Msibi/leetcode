@@ -1,0 +1,14 @@
+C:\Sakhile\leet\MergeTwoLists\MergeTwoLists\bin\Debug\netcoreapp3.1\MergeTwoLists.exe
+C:\Sakhile\leet\MergeTwoLists\MergeTwoLists\bin\Debug\netcoreapp3.1\MergeTwoLists.deps.json
+C:\Sakhile\leet\MergeTwoLists\MergeTwoLists\bin\Debug\netcoreapp3.1\MergeTwoLists.runtimeconfig.json
+C:\Sakhile\leet\MergeTwoLists\MergeTwoLists\bin\Debug\netcoreapp3.1\MergeTwoLists.runtimeconfig.dev.json
+C:\Sakhile\leet\MergeTwoLists\MergeTwoLists\bin\Debug\netcoreapp3.1\MergeTwoLists.dll
+C:\Sakhile\leet\MergeTwoLists\MergeTwoLists\bin\Debug\netcoreapp3.1\MergeTwoLists.pdb
+C:\Sakhile\leet\MergeTwoLists\MergeTwoLists\obj\Debug\netcoreapp3.1\MergeTwoLists.csproj.AssemblyReference.cache
+C:\Sakhile\leet\MergeTwoLists\MergeTwoLists\obj\Debug\netcoreapp3.1\MergeTwoLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\MergeTwoLists\MergeTwoLists\obj\Debug\netcoreapp3.1\MergeTwoLists.AssemblyInfoInputs.cache
+C:\Sakhile\leet\MergeTwoLists\MergeTwoLists\obj\Debug\netcoreapp3.1\MergeTwoLists.AssemblyInfo.cs
+C:\Sakhile\leet\MergeTwoLists\MergeTwoLists\obj\Debug\netcoreapp3.1\MergeTwoLists.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\MergeTwoLists\MergeTwoLists\obj\Debug\netcoreapp3.1\MergeTwoLists.dll
+C:\Sakhile\leet\MergeTwoLists\MergeTwoLists\obj\Debug\netcoreapp3.1\MergeTwoLists.pdb
+C:\Sakhile\leet\MergeTwoLists\MergeTwoLists\obj\Debug\netcoreapp3.1\MergeTwoLists.genruntimeconfig.cache
