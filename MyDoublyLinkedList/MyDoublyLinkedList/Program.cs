@@ -27,6 +27,9 @@ namespace MyDoublyLinkedList
 
             for (int i = 0; i < index; i++)
             {
+                if (temp == null)
+                    return -1;
+
                 temp = temp.next;
             }
 
@@ -162,17 +165,44 @@ namespace MyDoublyLinkedList
             //linkedList.AddAtTail(3);
             //linkedList.DisplayDLL(linkedList.head);
 
-            linkedList.AddAtIndex(0, 1);
+            //linkedList.AddAtIndex(0, 1);
+            //linkedList.AddAtIndex(1, 2);
+            //linkedList.AddAtIndex(2, 3);
+            //linkedList.AddAtIndex(1, 5);
+            //linkedList.DisplayDLL(linkedList.head);
+
+            //linkedList.DeleteAtIndex(3);
+            //linkedList.DisplayDLL(linkedList.head);
+
+            //Console.WriteLine(linkedList.Get(1));
+
+            linkedList.AddAtHead(1);
+            linkedList.AddAtTail(3);
             linkedList.AddAtIndex(1, 2);
-            linkedList.AddAtIndex(2, 3);
-            linkedList.AddAtIndex(1, 5);
             linkedList.DisplayDLL(linkedList.head);
+
+            Console.WriteLine(linkedList.Get(1));
+
+            linkedList.DeleteAtIndex(1);
+            linkedList.DisplayDLL(linkedList.head);
+
+            Console.WriteLine(linkedList.Get(1));
+
+            Console.WriteLine(linkedList.Get(3));
 
             linkedList.DeleteAtIndex(3);
             linkedList.DisplayDLL(linkedList.head);
 
-            //Console.WriteLine(linkedList.Get(1));
-            
+            linkedList.DeleteAtIndex(0);
+            linkedList.DisplayDLL(linkedList.head);
+
+            Console.WriteLine(linkedList.Get(0));
+
+            linkedList.DeleteAtIndex(0);
+            linkedList.DisplayDLL(linkedList.head);
+
+            Console.WriteLine(linkedList.Get(0));
+
             Console.ReadKey();
         }
     }
