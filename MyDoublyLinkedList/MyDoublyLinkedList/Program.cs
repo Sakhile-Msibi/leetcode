@@ -103,6 +103,38 @@ namespace MyDoublyLinkedList
                 current.prev = new_node;
         }
 
+        public void DeleteAtIndex(int index)
+        {
+            ListNode prev_node = head;
+            ListNode current = head;
+
+            if (current == null)
+                return;
+
+            if (index == 0)
+            {
+                head = head.next;
+                return;
+            }
+
+            for (int i =0; i < index; i++)
+            {
+                prev_node = current;
+                if (prev_node == null)
+                    return;
+
+                current = current.next;
+            }
+
+            if (current == null)
+                return;
+
+            prev_node.next = current.next;
+
+            if (current.next != null)
+                current.next.prev = prev_node;
+        }
+
         public void DisplayDLL(ListNode head)
         {
             ListNode list = head;
@@ -136,7 +168,11 @@ namespace MyDoublyLinkedList
             linkedList.AddAtIndex(1, 5);
             linkedList.DisplayDLL(linkedList.head);
 
+            linkedList.DeleteAtIndex(3);
+            linkedList.DisplayDLL(linkedList.head);
+
             //Console.WriteLine(linkedList.Get(1));
+            
             Console.ReadKey();
         }
     }
