@@ -1,0 +1,14 @@
+C:\Sakhile\leet\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.exe
+C:\Sakhile\leet\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.deps.json
+C:\Sakhile\leet\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.runtimeconfig.json
+C:\Sakhile\leet\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.runtimeconfig.dev.json
+C:\Sakhile\leet\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.dll
+C:\Sakhile\leet\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.pdb
+C:\Sakhile\leet\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.csproj.AssemblyReference.cache
+C:\Sakhile\leet\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.AssemblyInfoInputs.cache
+C:\Sakhile\leet\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.AssemblyInfo.cs
+C:\Sakhile\leet\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.dll
+C:\Sakhile\leet\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.pdb
+C:\Sakhile\leet\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.genruntimeconfig.cache
