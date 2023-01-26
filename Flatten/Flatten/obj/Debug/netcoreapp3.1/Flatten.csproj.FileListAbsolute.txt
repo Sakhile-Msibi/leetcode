@@ -1,0 +1,14 @@
+C:\Sakhile\leet\Flatten\Flatten\bin\Debug\netcoreapp3.1\Flatten.exe
+C:\Sakhile\leet\Flatten\Flatten\bin\Debug\netcoreapp3.1\Flatten.deps.json
+C:\Sakhile\leet\Flatten\Flatten\bin\Debug\netcoreapp3.1\Flatten.runtimeconfig.json
+C:\Sakhile\leet\Flatten\Flatten\bin\Debug\netcoreapp3.1\Flatten.runtimeconfig.dev.json
+C:\Sakhile\leet\Flatten\Flatten\bin\Debug\netcoreapp3.1\Flatten.dll
+C:\Sakhile\leet\Flatten\Flatten\bin\Debug\netcoreapp3.1\Flatten.pdb
+C:\Sakhile\leet\Flatten\Flatten\obj\Debug\netcoreapp3.1\Flatten.csproj.AssemblyReference.cache
+C:\Sakhile\leet\Flatten\Flatten\obj\Debug\netcoreapp3.1\Flatten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\Flatten\Flatten\obj\Debug\netcoreapp3.1\Flatten.AssemblyInfoInputs.cache
+C:\Sakhile\leet\Flatten\Flatten\obj\Debug\netcoreapp3.1\Flatten.AssemblyInfo.cs
+C:\Sakhile\leet\Flatten\Flatten\obj\Debug\netcoreapp3.1\Flatten.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\Flatten\Flatten\obj\Debug\netcoreapp3.1\Flatten.dll
+C:\Sakhile\leet\Flatten\Flatten\obj\Debug\netcoreapp3.1\Flatten.pdb
+C:\Sakhile\leet\Flatten\Flatten\obj\Debug\netcoreapp3.1\Flatten.genruntimeconfig.cache

@@ -29,9 +29,12 @@ namespace Flatten
 
             Node curr = head;
             Node next_node = curr;
+            Node prev_node = curr;
+            nodeHead = null;
 
             while (curr != null)
             {
+                prev_node = curr;
                 if (curr.child == null)
                 {
                     Append(curr.val);
@@ -39,19 +42,20 @@ namespace Flatten
                 }
                 else
                 {
-                    curr.next.prev = curr;
-                    curr = curr.next;
+                    Append(curr.val);
+                    curr.child.prev = curr;
+                    curr = curr.child;
                 }
+
             }
 
-            curr = curr.prev;
+            curr = prev_node;
 
             while (curr != null)
             {
                 if (curr.prev.child != curr)
                 {
-                    //Append(curr.val);
-                    curr = curr.next;
+                    curr = curr.prev;
                 }
                 else
                 {
@@ -71,14 +75,60 @@ namespace Flatten
             return nodeHead;
         }
 
-        public void Append(int new_val)
+        public void Append(int val)
         {
+            Node new_node = new Node(val);
 
+            new_node.next = null;
+
+            if (nodeHead == null)
+            {
+                nodeHead = new Node(val);
+                return;
+            }
+
+            Node temp = nodeHead;
+            while (temp.next != null)
+            {
+                temp = temp.next;
+            }
+
+            new_node.prev = temp;
+            temp.next = new_node;
+        }
+
+        public void DisplayLinkedList()
+        {
+            Node list = nodeHead;
+
+            while (list != null)
+            {
+                Console.Write(list.val + " ");
+                list = list.next;
+            }
+            Console.WriteLine();
         }
 
         static void Main(string[] args)
         {
-            
+            LinkedList linkedList = new LinkedList();
+
+            linkedList.nodeHead = new Node(1);
+            Node second = new Node(2);
+            Node third = new Node(3);
+
+            linkedList.nodeHead.next = second;
+            second.next = null;
+            second.prev = linkedList.nodeHead;
+            linkedList.nodeHead.child = third;
+            third.next = null;
+            third.prev = linkedList.nodeHead;
+
+            linkedList.DisplayLinkedList();
+
+            linkedList.FlattenLinkedList(linkedList.nodeHead);
+            linkedList.DisplayLinkedList();
+            Console.ReadKey();
         }
     }
 }
