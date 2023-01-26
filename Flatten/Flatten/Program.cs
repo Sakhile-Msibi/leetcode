@@ -53,6 +53,9 @@ namespace Flatten
 
             while (curr != null)
             {
+                if (curr == head)
+                    break;
+
                 if (curr.prev.child != curr)
                 {
                     curr = curr.prev;
@@ -67,8 +70,6 @@ namespace Flatten
                         Append(next_node.val);
                         next_node = next_node.next;
                     }
-
-                    curr = curr.prev;
                 }
             }
 
@@ -116,13 +117,73 @@ namespace Flatten
             linkedList.nodeHead = new Node(1);
             Node second = new Node(2);
             Node third = new Node(3);
+            Node fourth = new Node(4);
+            Node fifth = new Node(5);
+            Node sixth = new Node(6);
+            Node seventh = new Node(7);
+            Node eight = new Node(8);
+            Node ninth = new Node(9);
+            Node tenth = new Node(10);
+            Node eleventh = new Node(11);
+            Node twelveth = new Node(12);
 
             linkedList.nodeHead.next = second;
-            second.next = null;
+            linkedList.nodeHead.prev = null;
+            second.next = third;
             second.prev = linkedList.nodeHead;
-            linkedList.nodeHead.child = third;
-            third.next = null;
-            third.prev = linkedList.nodeHead;
+            third.next = fourth;
+            third.prev = second;
+            third.child = seventh;
+            fourth.next = fifth;
+            fourth.prev = third;
+            fifth.next = sixth;
+            fifth.prev = fourth;
+            sixth.next = null;
+            sixth.prev = fifth;
+            seventh.next = eight;
+            seventh.prev = null;
+            eight.next = ninth;
+            eight.prev = seventh;
+            eight.child = eleventh;
+            ninth.next = tenth;
+            ninth.prev = eight;
+            tenth.next = null;
+            tenth.prev = ninth;
+            eleventh.next = twelveth;
+            eleventh.prev = null;
+            twelveth.next = null;
+            twelveth.prev = eleventh;
+
+            //linkedList.nodeHead = new Node(1);
+            //Node second = new Node(2);
+            //Node third = new Node(3);
+
+            //linkedList.nodeHead.next = second;
+            //second.next = null;
+            //second.prev = linkedList.nodeHead;
+            //linkedList.nodeHead.child = third;
+            //third.next = null;
+            //third.prev = linkedList.nodeHead;
+
+            //linkedList.nodeHead = new Node(1);
+            //Node second = new Node(2);
+            //Node third = new Node(3);
+            //Node fourth = new Node(4);
+            //Node fifth = new Node(5);
+
+            //linkedList.nodeHead.next = null;
+            //linkedList.nodeHead.prev = null;
+            //linkedList.nodeHead.child = second;
+            //second.next = fourth;
+            //second.prev = null;
+            //second.child = third;
+            //third.next = null;
+            //third.prev = null;
+            //third.child = fifth;
+            //fourth.next = null;
+            //fourth.prev = second;
+            //fifth.next = null;
+            //fifth.prev = null;
 
             linkedList.DisplayLinkedList();
 
