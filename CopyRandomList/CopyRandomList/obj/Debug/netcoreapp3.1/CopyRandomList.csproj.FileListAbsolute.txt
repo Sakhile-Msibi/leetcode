@@ -1,0 +1,14 @@
+C:\Sakhile\leet\CopyRandomList\CopyRandomList\bin\Debug\netcoreapp3.1\CopyRandomList.exe
+C:\Sakhile\leet\CopyRandomList\CopyRandomList\bin\Debug\netcoreapp3.1\CopyRandomList.deps.json
+C:\Sakhile\leet\CopyRandomList\CopyRandomList\bin\Debug\netcoreapp3.1\CopyRandomList.runtimeconfig.json
+C:\Sakhile\leet\CopyRandomList\CopyRandomList\bin\Debug\netcoreapp3.1\CopyRandomList.runtimeconfig.dev.json
+C:\Sakhile\leet\CopyRandomList\CopyRandomList\bin\Debug\netcoreapp3.1\CopyRandomList.dll
+C:\Sakhile\leet\CopyRandomList\CopyRandomList\bin\Debug\netcoreapp3.1\CopyRandomList.pdb
+C:\Sakhile\leet\CopyRandomList\CopyRandomList\obj\Debug\netcoreapp3.1\CopyRandomList.csproj.AssemblyReference.cache
+C:\Sakhile\leet\CopyRandomList\CopyRandomList\obj\Debug\netcoreapp3.1\CopyRandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\CopyRandomList\CopyRandomList\obj\Debug\netcoreapp3.1\CopyRandomList.AssemblyInfoInputs.cache
+C:\Sakhile\leet\CopyRandomList\CopyRandomList\obj\Debug\netcoreapp3.1\CopyRandomList.AssemblyInfo.cs
+C:\Sakhile\leet\CopyRandomList\CopyRandomList\obj\Debug\netcoreapp3.1\CopyRandomList.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\CopyRandomList\CopyRandomList\obj\Debug\netcoreapp3.1\CopyRandomList.dll
+C:\Sakhile\leet\CopyRandomList\CopyRandomList\obj\Debug\netcoreapp3.1\CopyRandomList.pdb
+C:\Sakhile\leet\CopyRandomList\CopyRandomList\obj\Debug\netcoreapp3.1\CopyRandomList.genruntimeconfig.cache
