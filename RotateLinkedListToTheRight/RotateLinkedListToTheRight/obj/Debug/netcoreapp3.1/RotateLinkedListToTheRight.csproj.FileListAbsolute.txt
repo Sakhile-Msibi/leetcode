@@ -1,0 +1,14 @@
+C:\Sakhile\leet\RotateLinkedListToTheRight\RotateLinkedListToTheRight\bin\Debug\netcoreapp3.1\RotateLinkedListToTheRight.exe
+C:\Sakhile\leet\RotateLinkedListToTheRight\RotateLinkedListToTheRight\bin\Debug\netcoreapp3.1\RotateLinkedListToTheRight.deps.json
+C:\Sakhile\leet\RotateLinkedListToTheRight\RotateLinkedListToTheRight\bin\Debug\netcoreapp3.1\RotateLinkedListToTheRight.runtimeconfig.json
+C:\Sakhile\leet\RotateLinkedListToTheRight\RotateLinkedListToTheRight\bin\Debug\netcoreapp3.1\RotateLinkedListToTheRight.runtimeconfig.dev.json
+C:\Sakhile\leet\RotateLinkedListToTheRight\RotateLinkedListToTheRight\bin\Debug\netcoreapp3.1\RotateLinkedListToTheRight.dll
+C:\Sakhile\leet\RotateLinkedListToTheRight\RotateLinkedListToTheRight\bin\Debug\netcoreapp3.1\RotateLinkedListToTheRight.pdb
+C:\Sakhile\leet\RotateLinkedListToTheRight\RotateLinkedListToTheRight\obj\Debug\netcoreapp3.1\RotateLinkedListToTheRight.csproj.AssemblyReference.cache
+C:\Sakhile\leet\RotateLinkedListToTheRight\RotateLinkedListToTheRight\obj\Debug\netcoreapp3.1\RotateLinkedListToTheRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\leet\RotateLinkedListToTheRight\RotateLinkedListToTheRight\obj\Debug\netcoreapp3.1\RotateLinkedListToTheRight.AssemblyInfoInputs.cache
+C:\Sakhile\leet\RotateLinkedListToTheRight\RotateLinkedListToTheRight\obj\Debug\netcoreapp3.1\RotateLinkedListToTheRight.AssemblyInfo.cs
+C:\Sakhile\leet\RotateLinkedListToTheRight\RotateLinkedListToTheRight\obj\Debug\netcoreapp3.1\RotateLinkedListToTheRight.csproj.CoreCompileInputs.cache
+C:\Sakhile\leet\RotateLinkedListToTheRight\RotateLinkedListToTheRight\obj\Debug\netcoreapp3.1\RotateLinkedListToTheRight.dll
+C:\Sakhile\leet\RotateLinkedListToTheRight\RotateLinkedListToTheRight\obj\Debug\netcoreapp3.1\RotateLinkedListToTheRight.pdb
+C:\Sakhile\leet\RotateLinkedListToTheRight\RotateLinkedListToTheRight\obj\Debug\netcoreapp3.1\RotateLinkedListToTheRight.genruntimeconfig.cache
