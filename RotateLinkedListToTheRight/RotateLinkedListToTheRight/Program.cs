@@ -32,38 +32,26 @@ namespace RotateLinkedListToTheRight
             if (head.next.next == null && k % 2 == 0)
                 return head;
 
-            while (k > LinkedListLenght(head))
-            {
-
-                if (k / 10 > LinkedListLenght(head))
-                    k /= 10;
-
-                k -= LinkedListLenght(head);
-            }
+            k = k % LinkedListLenght(head);
+            k = LinkedListLenght(head) - k;
 
             ListNode list = head;
-            heads = null;
 
-            for (int i = k; list.next != null && i >= 0; i--)
+            while (list.next != null)
             {
                 list = list.next;
             }
 
-            while (list != null)
+            list.next = head;
+            for (int i = k; list.next != null && i != 0; i--)
             {
-                Append(list.val);
                 list = list.next;
             }
 
-            list = head;
+            head = list.next;
+            list.next = null;
 
-            for (int i = 0; list.next != null && i <= k; i++)
-            {
-                Append(list.val);
-                list = list.next;
-            }
-
-            return heads;
+            return head;
         }
 
         public int LinkedListLenght(ListNode head)
