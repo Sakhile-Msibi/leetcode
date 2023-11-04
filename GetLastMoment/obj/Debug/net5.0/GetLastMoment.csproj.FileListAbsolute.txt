@@ -1,0 +1,15 @@
+C:\Users\SakhileMsibi\Sakhile\leetcode\GetLastMoment\obj\Debug\net5.0\GetLastMoment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SakhileMsibi\Sakhile\leetcode\GetLastMoment\obj\Debug\net5.0\GetLastMoment.AssemblyInfoInputs.cache
+C:\Users\SakhileMsibi\Sakhile\leetcode\GetLastMoment\obj\Debug\net5.0\GetLastMoment.AssemblyInfo.cs
+C:\Users\SakhileMsibi\Sakhile\leetcode\GetLastMoment\obj\Debug\net5.0\GetLastMoment.csproj.CoreCompileInputs.cache
+C:\Users\SakhileMsibi\Sakhile\leetcode\GetLastMoment\bin\Debug\net5.0\GetLastMoment.exe
+C:\Users\SakhileMsibi\Sakhile\leetcode\GetLastMoment\bin\Debug\net5.0\GetLastMoment.deps.json
+C:\Users\SakhileMsibi\Sakhile\leetcode\GetLastMoment\bin\Debug\net5.0\GetLastMoment.runtimeconfig.json
+C:\Users\SakhileMsibi\Sakhile\leetcode\GetLastMoment\bin\Debug\net5.0\GetLastMoment.runtimeconfig.dev.json
+C:\Users\SakhileMsibi\Sakhile\leetcode\GetLastMoment\bin\Debug\net5.0\GetLastMoment.dll
+C:\Users\SakhileMsibi\Sakhile\leetcode\GetLastMoment\bin\Debug\net5.0\GetLastMoment.pdb
+C:\Users\SakhileMsibi\Sakhile\leetcode\GetLastMoment\obj\Debug\net5.0\GetLastMoment.dll
+C:\Users\SakhileMsibi\Sakhile\leetcode\GetLastMoment\obj\Debug\net5.0\refint\GetLastMoment.dll
+C:\Users\SakhileMsibi\Sakhile\leetcode\GetLastMoment\obj\Debug\net5.0\GetLastMoment.pdb
+C:\Users\SakhileMsibi\Sakhile\leetcode\GetLastMoment\obj\Debug\net5.0\GetLastMoment.genruntimeconfig.cache
+C:\Users\SakhileMsibi\Sakhile\leetcode\GetLastMoment\obj\Debug\net5.0\ref\GetLastMoment.dll
