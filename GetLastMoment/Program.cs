@@ -41,6 +41,7 @@ namespace GetLastMoment
                     ants.Add(Tuple.Create((double)right[i], 'R'));
                 }
 
+                ants.Sort();
                 int curentAnt = 0;
                 bool fractionTime = false;
                 // While there are still ants on the plank (list), they should continue walking.
@@ -51,17 +52,43 @@ namespace GetLastMoment
                     // Remove an ant if it reaches the start position
                     if (ants[curentAnt].Item1 == 0 && ants[curentAnt].Item2 == 'L')
                     {
+                        Console.WriteLine("R -> L");
+                        Console.WriteLine("Before " + ants[curentAnt].Item1 + " " + ants[curentAnt].Item2);
                         ants.RemoveAt(curentAnt);
-                        Console.WriteLine(ants[curentAnt].Item1 + " " + ants[curentAnt].Item2);
+                        //Console.WriteLine("Current: " + ants[curentAnt].Item1 + " " + ants[curentAnt].Item2);
+                        //foreach (var ant in ants)
+                        //{
+                        //    Console.WriteLine(ant.Item1 + " " + ant.Item2);
+                        //}
+                        Console.WriteLine("Ants Number = " + ants.Count);
                     }
+
+                    if (ants.Count == 0 /*|| ants[curentAnt].Item1 > n*/)
+                        break;
 
                     // Remove an ant if it reaches the end position
-                    if (ants[curentAnt].Item1 == n && ants[curentAnt].Item2 == 'R')
+                    if (ants[ants.Count - 1].Item1 == n && ants[ants.Count - 1].Item2 == 'R')
                     {
-                        ants.RemoveAt(curentAnt);
-                        Console.WriteLine(ants[curentAnt].Item1 + " " + ants[curentAnt].Item2);
+                        Console.WriteLine("L -> R");
+                        Console.WriteLine("Before " + ants[ants.Count - 1].Item1 + " " + ants[ants.Count - 1].Item2);
+                        ants.RemoveAt(ants.Count - 1);
+                        //Console.WriteLine("Current: " + ants[ants.Count - 2].Item1 + " " + ants[ants.Count - 2].Item2);
+                        //foreach (var ant in ants)
+                        //{
+                        //    Console.WriteLine(ant.Item1 + " " + ant.Item2);
+                        //}
+                        Console.WriteLine("Ants Number = " + ants.Count);
                     }
 
+                    if (ants.Count == 0 /*|| ants[curentAnt].Item1 > n*/)
+                        break;
+
+                    foreach (var ant in ants)
+                    {
+                        Console.WriteLine(ant.Item1 + " " + ant.Item2);
+                    }
+                    Console.WriteLine("T = " + time);
+                    Console.WriteLine("-------------End-------------");
                     // Determine if we will move at 0.5 unit / second or 1 unit / second
                     if (!fractionTime)
                     {
@@ -102,10 +129,12 @@ namespace GetLastMoment
                                 if (ants[i].Item2 == 'R')
                                 {
                                     ants[i] = Tuple.Create(ants[i].Item1, 'L');
+                                    ants[i + 1] = Tuple.Create(ants[i + 1].Item1, 'R');
                                 }
                                 else
                                 {
                                     ants[i] = Tuple.Create(ants[i].Item1, 'R');
+                                    ants[i + 1] = Tuple.Create(ants[i + 1].Item1, 'L');
                                 }
                             }
                         }
@@ -138,136 +167,18 @@ namespace GetLastMoment
                                 if (ants[i].Item2 == 'R')
                                 {
                                     ants[i] = Tuple.Create(ants[i].Item1, 'L');
+                                    ants[i + 1] = Tuple.Create(ants[i + 1].Item1, 'R');
                                 }
                                 else
                                 {
                                     ants[i] = Tuple.Create(ants[i].Item1, 'R');
+                                    ants[i + 1] = Tuple.Create(ants[i + 1].Item1, 'L');
                                 }
                             }
                         }
                     }
                 }
-                Console.WriteLine(time);
                 return (int)time;
-
-
-
-
-
-
-                //List<List<int, char>> ants = new List<List<int, char>>();
-                //IDictionary<char, int> ants = new Dictionary<char, int>();
-                //double max = 0;
-
-                //for (int j = 0; j < left.Length; j++)
-                //{
-                //    //cart.add(left[i], 'L');
-                //    ants.Add(Tuple.Create((double)left[j], 0.0, 'L'));
-
-                //}
-
-                //for (int j = 0; j < right.Length; j++)
-                //{
-                //    //cart.add(right[i], 'R');
-                //    ants.Add(Tuple.Create((double)right[j], 0.0, 'R'));
-                //    //Console.WriteLine(i);
-                //}
-                ////ants.Sort();
-                //foreach (var ant in ants)
-                //{
-                //    Console.WriteLine(ant.Item1 + " " + ant.Item2 + " " + ant.Item3);
-                //}
-                ////Console.WriteLine(ants.Count);
-
-
-
-                ////Left to right
-
-                //double term1 = 0;
-                //double term2 = 0;
-                ////int i = 0;
-                //for (int i = 0; i < ants.Count; i++)
-                ////while (ants.Count != 0)
-                //{
-                //    Console.WriteLine("i = " + i);
-                //    //Console.WriteLine("ants.Count = " + ants.Count);
-                //    Console.WriteLine(ants[i].Item3);
-                //    Console.WriteLine(ants[i].Item1);
-                //    Console.WriteLine(ants[i].Item2);
-                //    //if ( i < ants.Count)
-                //    //{
-                //        if (ants[i].Item1 == 0 && ants[i].Item3 == 'L')
-                //        {
-                //            Console.WriteLine("Hello4444");
-                //            ants.RemoveAt(i);
-                //        }
-
-                //        if (ants[i].Item1 == n && ants[i].Item3 == 'R')
-                //        {
-                //            ants.RemoveAt(i);
-                //        }
-
-                //        //Console.WriteLine("ants.Count1 = " + ants.Count);
-                //        if (ants[i].Item3 == 'R' && (i + 1) < ants.Count)
-                //        {
-                //            //Console.WriteLine("Hello");
-                //            if ((ants[i].Item1 + 1) == ants[i + 1].Item1 && ants[i + 1].Item3 == 'R')
-                //            {
-                //                term1 += ants[i].Item2 + 1.0;
-                //                ants[i] = Tuple.Create(ants[i].Item1 + 1, term1, 'R');
-                //                Console.WriteLine($"ants[{i}].Item2 " + ants[i].Item2);
-                //                Console.WriteLine($"ants[{i}].Item1 " + ants[i].Item1);
-                //                //ants[i].Item1 += 1;
-                //            }
-                //            else if ((ants[i].Item1 + 1) == ants[i + 1].Item1 && ants[i + 1].Item3 == 'L')
-                //            {
-                //                term1 += ants[i].Item2 + 0.5;
-                //                ants[i] = Tuple.Create(ants[i].Item1 + 0.5, term1, 'L');
-                //                Console.WriteLine($"ants[{i}].Item2 " + ants[i].Item2);
-                //                Console.WriteLine($"ants[{i}].Item1 " + ants[i].Item1);
-                //                //ants[i].Item2 += 0.5;
-                //                //ants[i].Item1 += 0.5;
-                //                //ants[i].Item3 = 'L';
-                //            }
-                //        }
-                //        else if (ants[i].Item3 == 'L' && (i - 1) >= 0)
-                //        {
-                //            //Console.WriteLine("Hello");
-                //           //Console.WriteLine(ants[i - 1].Item3);
-                //           // Console.WriteLine(ants[i - 1].Item1);
-                //           // Console.WriteLine(ants[i].Item1 - 1);
-                //            if ((ants[i].Item1 - 1) == ants[i - 1].Item1 && ants[i - 1].Item3 == 'L')
-                //            {
-                //                term2 += ants[i].Item2 + 1.0;
-                //                ants[i] = Tuple.Create(ants[i].Item1 + 1, term2, 'L');
-                //                Console.WriteLine($"ants[{i}].Item2 " + ants[i].Item2);
-                //                Console.WriteLine($"ants[{i}].Item1 " + ants[i].Item1);
-                //                //ants[i].Item1 += 1;
-                //            }
-                //            else if ((ants[i].Item1 - 0.5) == ants[i - 1].Item1 && ants[i - 1].Item3 == 'L')
-                //            {
-                //                //Console.WriteLine(ants[i - 1].Item1);
-                //                term2 += ants[i].Item2 + 0.5;
-                //                ants[i] = Tuple.Create(ants[i - 1].Item1 + 0.5, term2, 'R');
-                //                Console.WriteLine($"ants[{i}].Item2 " + ants[i].Item2);
-                //                Console.WriteLine($"ants[{i}].Item1 " + ants[i].Item1);
-                //                //ants[i].Item1 += 0.5;
-                //                //ants[i].Item3 = 'R';
-                //            }
-                //        }
-
-                //        Console.WriteLine("HelloLast");
-                //        if (ants[i].Item2 > max)
-                //        {
-                //            max = ants[i].Item2;
-                //        }
-                //        Console.WriteLine("ants.Count = " + ants.Count);
-                //    //}
-                //    //i++;
-                //}
-
-
-                //return (int)max;
             }
         }
 
@@ -275,11 +186,15 @@ namespace GetLastMoment
         {
             Program program = new Program();
 
-            int n = 4;
-            int[] left = { 4, 3 }/*{ 4, 7, 15 }*/;
-            int[] right = { 0, 1 }/*{ 9, 3, 13, 10 }*/; 
+            //int n = 20;
+            //int[] left = /*{ 4, 3 }*/{ 4, 7, 15 };
+            //int[] right = /*{ 0, 1 }*/{ 9, 3, 13, 10 };
 
-            Console.WriteLine(program.GetLMoment(n, left, right));
+            int n = 11;
+            int[] left = { 1, 4, 5, 10, 9 };
+            int[] right = { 2, 7, 6, 3 };
+
+            Console.WriteLine("Time = " + program.GetLMoment(n, left, right));
         }
     }
 }
