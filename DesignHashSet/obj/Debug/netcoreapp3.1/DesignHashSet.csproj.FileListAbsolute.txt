@@ -1,0 +1,4 @@
+C:\Users\SakhileMsibi\Sakhile\leetcode\DesignHashSet\obj\Debug\netcoreapp3.1\DesignHashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SakhileMsibi\Sakhile\leetcode\DesignHashSet\obj\Debug\netcoreapp3.1\DesignHashSet.AssemblyInfoInputs.cache
+C:\Users\SakhileMsibi\Sakhile\leetcode\DesignHashSet\obj\Debug\netcoreapp3.1\DesignHashSet.AssemblyInfo.cs
+C:\Users\SakhileMsibi\Sakhile\leetcode\DesignHashSet\obj\Debug\netcoreapp3.1\DesignHashSet.csproj.CoreCompileInputs.cache
