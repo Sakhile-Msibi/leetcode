@@ -1,45 +1,56 @@
 ﻿using System;
+
 using System.Collections;
 
+using System.Collections.Generic;
+ 
 namespace DesignHashSet
+
 {
+
     public class MyHashSet
     {
         private const int MAX_LENGHT = 1000000;
-        private const int BUCKETS_SIZE = 100;
-        private ArrayList<LinkedList<int>> parentList;
 
-        public int HashFunction (int key)
+        private const int BUCKETS_SIZE = 100;
+
+        private ArrayList parentList;
+
+        public int HashFunction(int key)
         {
-            return key % ARRAY_SIZE;
+            return key % BUCKETS_SIZE;
         }
 
         public MyHashSet()
         {
-            parentList = new ArrayList<>(ARRAY_SIZE);
+            parentList = new ArrayList(BUCKETS_SIZE);
 
-            for (int i = 0; i < ARRAY_SIZE; i++)
+            for (int i = 0; i < BUCKETS_SIZE; i++)
             {
                 parentList.Add(null);
             }
+
         }
 
         public void Add(int key)
         {
             int index = HashFunction(key);
-            LinkedList<int> childList = parentList[index];
+
+            LinkedList<int> childList = (LinkedList<int>)parentList[index];
 
             if (childList == null)
             {
                 LinkedList<int> list = new LinkedList<int>();
-                list.Add(key);
-                parentList.Insert(index, list);
+
+                list.AddLast(key);
+
+                parentList[index] = list;
             }
             else
             {
                 if (!childList.Contains(key))
                 {
-                    childList.Add(key);
+                    childList.AddLast(key);
                 }
             }
         }
@@ -47,60 +58,112 @@ namespace DesignHashSet
         public void Remove(int key)
         {
             int index = HashFunction(key);
-            LinkedList<int> childList = parentList[index];
+
+            LinkedList<int> childList = (LinkedList<int>)parentList[index];
 
             if (childList != null)
             {
-                childList.Remove(childList.IndexOf(key));
+                childList.Remove(key);
             }
         }
 
         public bool Contains(int key)
         {
             int index = HashFunction(key);
-            LinkedList<int> childList = parentList[index];
 
-            return childList != null && childList.Contains(key);
+            LinkedList<int> childList = (LinkedList<int>)parentList[index];
+
+            return (childList != null && childList.Contains(key));
+        }
+
+        public void DisplayHashSet()
+        {
+            for (int i = 0; i < parentList.Count; i++)
+            {
+                LinkedList<int> childList = (LinkedList<int>)parentList[i];
+
+                if (childList != null)
+                {
+
+                    foreach (int num in childList)
+                    {
+                        Console.Write(num + " ");
+                    }
+                    Console.WriteLine();
+                }
+            }
         }
 
         static void Main(string[] args)
         {
             MyHashSet myHashSet = new MyHashSet();
 
-            myHashSet.Add(1);
+
+           
+            Console.WriteLine(myHashSet.Contains(72));
+            myHashSet.Remove(91);
+
+            myHashSet.Add(48);
+            myHashSet.Add(41);
             myHashSet.Add(2);
 
-            foreach (int value in myHashSet)
-            {
-                Console.Write($"{value} ");
-            }
-
-            Console.WriteLine();
-
-            Console.WriteLine(myHashSet.Contains(1));
-            Console.WriteLine(myHashSet.Contains(3));
-
-            myHashSet.Add(2);
-
-            foreach (int value in myHashSet)
-            {
-                Console.Write($"{value} ");
-            }
-
-            Console.WriteLine();
-
-            Console.WriteLine(myHashSet.Contains(2));
-
+            myHashSet.DisplayHashSet();
             myHashSet.Remove(2);
 
-            foreach (int value in myHashSet)
-            {
-                Console.Write($"{value} ");
-            }
+            Console.WriteLine(myHashSet.Contains(96));
+            myHashSet.Remove(87);
 
-            Console.WriteLine();
+            Console.WriteLine(myHashSet.Contains(48));
 
-            Console.WriteLine(myHashSet.Contains(2));
+            myHashSet.DisplayHashSet();
+
+            //myHashSet.DisplayHashSet();
+
+            //Console.WriteLine(myHashSet.Contains(91));
+
+            //Console.WriteLine(myHashSet.Contains(3));
+
+            //myHashSet.Add(2);
+
+            //Console.WriteLine(myHashSet.Contains(2));
+
+            //myHashSet.Remove(2);
+
+            //Console.WriteLine(myHashSet.Contains(2));
+
+
+            //myHashSet.Add(1);
+
+            //myHashSet.Add(2);
+
+            //myHashSet.DisplayHashSet();
+
+            //Console.WriteLine(myHashSet.Contains(1));
+
+            //Console.WriteLine(myHashSet.Contains(3));
+
+            //myHashSet.Add(2);
+
+            //Console.WriteLine(myHashSet.Contains(2));
+
+            //myHashSet.Remove(2);
+
+            //Console.WriteLine(myHashSet.Contains(2));
+
+
+
+
+            //myHashSet.Add(0);
+
+            //myHashSet.Add(1987);
+
+            //myHashSet.Add(24);
+
+            //myHashSet.Add(2);
+
+            //myHashSet.DisplayHashSet();
+
+            Console.ReadKey();
         }
     }
 }

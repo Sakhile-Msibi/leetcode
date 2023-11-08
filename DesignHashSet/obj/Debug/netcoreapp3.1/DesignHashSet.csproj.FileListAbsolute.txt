@@ -2,3 +2,12 @@ C:\Users\SakhileMsibi\Sakhile\leetcode\DesignHashSet\obj\Debug\netcoreapp3.1\Des
 C:\Users\SakhileMsibi\Sakhile\leetcode\DesignHashSet\obj\Debug\netcoreapp3.1\DesignHashSet.AssemblyInfoInputs.cache
 C:\Users\SakhileMsibi\Sakhile\leetcode\DesignHashSet\obj\Debug\netcoreapp3.1\DesignHashSet.AssemblyInfo.cs
 C:\Users\SakhileMsibi\Sakhile\leetcode\DesignHashSet\obj\Debug\netcoreapp3.1\DesignHashSet.csproj.CoreCompileInputs.cache
+C:\Users\SakhileMsibi\Sakhile\leetcode\DesignHashSet\bin\Debug\netcoreapp3.1\DesignHashSet.exe
+C:\Users\SakhileMsibi\Sakhile\leetcode\DesignHashSet\bin\Debug\netcoreapp3.1\DesignHashSet.deps.json
+C:\Users\SakhileMsibi\Sakhile\leetcode\DesignHashSet\bin\Debug\netcoreapp3.1\DesignHashSet.runtimeconfig.json
+C:\Users\SakhileMsibi\Sakhile\leetcode\DesignHashSet\bin\Debug\netcoreapp3.1\DesignHashSet.runtimeconfig.dev.json
+C:\Users\SakhileMsibi\Sakhile\leetcode\DesignHashSet\bin\Debug\netcoreapp3.1\DesignHashSet.dll
+C:\Users\SakhileMsibi\Sakhile\leetcode\DesignHashSet\bin\Debug\netcoreapp3.1\DesignHashSet.pdb
+C:\Users\SakhileMsibi\Sakhile\leetcode\DesignHashSet\obj\Debug\netcoreapp3.1\DesignHashSet.dll
+C:\Users\SakhileMsibi\Sakhile\leetcode\DesignHashSet\obj\Debug\netcoreapp3.1\DesignHashSet.pdb
+C:\Users\SakhileMsibi\Sakhile\leetcode\DesignHashSet\obj\Debug\netcoreapp3.1\DesignHashSet.genruntimeconfig.cache
