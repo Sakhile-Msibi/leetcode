@@ -1,0 +1,14 @@
+C:\Users\SakhileMsibi\Sakhile\leetcode\CheckForSingleNumber\bin\Debug\net6.0\CheckForSingleNumber.exe
+C:\Users\SakhileMsibi\Sakhile\leetcode\CheckForSingleNumber\bin\Debug\net6.0\CheckForSingleNumber.deps.json
+C:\Users\SakhileMsibi\Sakhile\leetcode\CheckForSingleNumber\bin\Debug\net6.0\CheckForSingleNumber.runtimeconfig.json
+C:\Users\SakhileMsibi\Sakhile\leetcode\CheckForSingleNumber\bin\Debug\net6.0\CheckForSingleNumber.dll
+C:\Users\SakhileMsibi\Sakhile\leetcode\CheckForSingleNumber\bin\Debug\net6.0\CheckForSingleNumber.pdb
+C:\Users\SakhileMsibi\Sakhile\leetcode\CheckForSingleNumber\obj\Debug\net6.0\CheckForSingleNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SakhileMsibi\Sakhile\leetcode\CheckForSingleNumber\obj\Debug\net6.0\CheckForSingleNumber.AssemblyInfoInputs.cache
+C:\Users\SakhileMsibi\Sakhile\leetcode\CheckForSingleNumber\obj\Debug\net6.0\CheckForSingleNumber.AssemblyInfo.cs
+C:\Users\SakhileMsibi\Sakhile\leetcode\CheckForSingleNumber\obj\Debug\net6.0\CheckForSingleNumber.csproj.CoreCompileInputs.cache
+C:\Users\SakhileMsibi\Sakhile\leetcode\CheckForSingleNumber\obj\Debug\net6.0\CheckForSingleNumber.dll
+C:\Users\SakhileMsibi\Sakhile\leetcode\CheckForSingleNumber\obj\Debug\net6.0\refint\CheckForSingleNumber.dll
+C:\Users\SakhileMsibi\Sakhile\leetcode\CheckForSingleNumber\obj\Debug\net6.0\CheckForSingleNumber.pdb
+C:\Users\SakhileMsibi\Sakhile\leetcode\CheckForSingleNumber\obj\Debug\net6.0\CheckForSingleNumber.genruntimeconfig.cache
+C:\Users\SakhileMsibi\Sakhile\leetcode\CheckForSingleNumber\obj\Debug\net6.0\ref\CheckForSingleNumber.dll
