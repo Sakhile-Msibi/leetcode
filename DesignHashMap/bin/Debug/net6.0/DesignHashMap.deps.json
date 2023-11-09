@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DesignHashMap/1.0.0": {
+        "runtime": {
+          "DesignHashMap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignHashMap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
