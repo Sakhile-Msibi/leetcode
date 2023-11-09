@@ -1,0 +1,14 @@
+C:\Users\SakhileMsibi\Sakhile\leetcode\HappyNumber\bin\Debug\net6.0\HappyNumber.exe
+C:\Users\SakhileMsibi\Sakhile\leetcode\HappyNumber\bin\Debug\net6.0\HappyNumber.deps.json
+C:\Users\SakhileMsibi\Sakhile\leetcode\HappyNumber\bin\Debug\net6.0\HappyNumber.runtimeconfig.json
+C:\Users\SakhileMsibi\Sakhile\leetcode\HappyNumber\bin\Debug\net6.0\HappyNumber.dll
+C:\Users\SakhileMsibi\Sakhile\leetcode\HappyNumber\bin\Debug\net6.0\HappyNumber.pdb
+C:\Users\SakhileMsibi\Sakhile\leetcode\HappyNumber\obj\Debug\net6.0\HappyNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SakhileMsibi\Sakhile\leetcode\HappyNumber\obj\Debug\net6.0\HappyNumber.AssemblyInfoInputs.cache
+C:\Users\SakhileMsibi\Sakhile\leetcode\HappyNumber\obj\Debug\net6.0\HappyNumber.AssemblyInfo.cs
+C:\Users\SakhileMsibi\Sakhile\leetcode\HappyNumber\obj\Debug\net6.0\HappyNumber.csproj.CoreCompileInputs.cache
+C:\Users\SakhileMsibi\Sakhile\leetcode\HappyNumber\obj\Debug\net6.0\HappyNumber.dll
+C:\Users\SakhileMsibi\Sakhile\leetcode\HappyNumber\obj\Debug\net6.0\refint\HappyNumber.dll
+C:\Users\SakhileMsibi\Sakhile\leetcode\HappyNumber\obj\Debug\net6.0\HappyNumber.pdb
+C:\Users\SakhileMsibi\Sakhile\leetcode\HappyNumber\obj\Debug\net6.0\HappyNumber.genruntimeconfig.cache
+C:\Users\SakhileMsibi\Sakhile\leetcode\HappyNumber\obj\Debug\net6.0\ref\HappyNumber.dll
