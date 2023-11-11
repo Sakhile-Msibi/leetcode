@@ -1,0 +1,14 @@
+C:\Users\SakhileMsibi\Sakhile\leetcode\FirstUniqueChar\bin\Debug\net6.0\FirstUniqueChar.exe
+C:\Users\SakhileMsibi\Sakhile\leetcode\FirstUniqueChar\bin\Debug\net6.0\FirstUniqueChar.deps.json
+C:\Users\SakhileMsibi\Sakhile\leetcode\FirstUniqueChar\bin\Debug\net6.0\FirstUniqueChar.runtimeconfig.json
+C:\Users\SakhileMsibi\Sakhile\leetcode\FirstUniqueChar\bin\Debug\net6.0\FirstUniqueChar.dll
+C:\Users\SakhileMsibi\Sakhile\leetcode\FirstUniqueChar\bin\Debug\net6.0\FirstUniqueChar.pdb
+C:\Users\SakhileMsibi\Sakhile\leetcode\FirstUniqueChar\obj\Debug\net6.0\FirstUniqueChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SakhileMsibi\Sakhile\leetcode\FirstUniqueChar\obj\Debug\net6.0\FirstUniqueChar.AssemblyInfoInputs.cache
+C:\Users\SakhileMsibi\Sakhile\leetcode\FirstUniqueChar\obj\Debug\net6.0\FirstUniqueChar.AssemblyInfo.cs
+C:\Users\SakhileMsibi\Sakhile\leetcode\FirstUniqueChar\obj\Debug\net6.0\FirstUniqueChar.csproj.CoreCompileInputs.cache
+C:\Users\SakhileMsibi\Sakhile\leetcode\FirstUniqueChar\obj\Debug\net6.0\FirstUniqueChar.dll
+C:\Users\SakhileMsibi\Sakhile\leetcode\FirstUniqueChar\obj\Debug\net6.0\refint\FirstUniqueChar.dll
+C:\Users\SakhileMsibi\Sakhile\leetcode\FirstUniqueChar\obj\Debug\net6.0\FirstUniqueChar.pdb
+C:\Users\SakhileMsibi\Sakhile\leetcode\FirstUniqueChar\obj\Debug\net6.0\FirstUniqueChar.genruntimeconfig.cache
+C:\Users\SakhileMsibi\Sakhile\leetcode\FirstUniqueChar\obj\Debug\net6.0\ref\FirstUniqueChar.dll
