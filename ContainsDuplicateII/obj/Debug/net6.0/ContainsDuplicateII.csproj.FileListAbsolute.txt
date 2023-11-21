@@ -1,0 +1,14 @@
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\ContainsDuplicateII\bin\Debug\net6.0\ContainsDuplicateII.exe
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\ContainsDuplicateII\bin\Debug\net6.0\ContainsDuplicateII.deps.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\ContainsDuplicateII\bin\Debug\net6.0\ContainsDuplicateII.runtimeconfig.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\ContainsDuplicateII\bin\Debug\net6.0\ContainsDuplicateII.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\ContainsDuplicateII\bin\Debug\net6.0\ContainsDuplicateII.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\ContainsDuplicateII\obj\Debug\net6.0\ContainsDuplicateII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\ContainsDuplicateII\obj\Debug\net6.0\ContainsDuplicateII.AssemblyInfoInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\ContainsDuplicateII\obj\Debug\net6.0\ContainsDuplicateII.AssemblyInfo.cs
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\ContainsDuplicateII\obj\Debug\net6.0\ContainsDuplicateII.csproj.CoreCompileInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\ContainsDuplicateII\obj\Debug\net6.0\ContainsDuplicateII.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\ContainsDuplicateII\obj\Debug\net6.0\refint\ContainsDuplicateII.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\ContainsDuplicateII\obj\Debug\net6.0\ContainsDuplicateII.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\ContainsDuplicateII\obj\Debug\net6.0\ContainsDuplicateII.genruntimeconfig.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\ContainsDuplicateII\obj\Debug\net6.0\ref\ContainsDuplicateII.dll
