@@ -16,7 +16,7 @@
             }
         }
 
-        public IList<TreeNode> FindDuplicateSubtrees(TreeNode root)
+        public IList<TreeNode> FindDuplicateSubtrs(TreeNode root)
         {
             int counter = 0;
 
