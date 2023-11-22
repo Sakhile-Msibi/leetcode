@@ -1,0 +1,14 @@
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\Anagrams\bin\Debug\net6.0\Anagrams.exe
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\Anagrams\bin\Debug\net6.0\Anagrams.deps.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\Anagrams\bin\Debug\net6.0\Anagrams.runtimeconfig.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\Anagrams\bin\Debug\net6.0\Anagrams.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\Anagrams\bin\Debug\net6.0\Anagrams.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\Anagrams\obj\Debug\net6.0\Anagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\Anagrams\obj\Debug\net6.0\Anagrams.AssemblyInfoInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\Anagrams\obj\Debug\net6.0\Anagrams.AssemblyInfo.cs
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\Anagrams\obj\Debug\net6.0\Anagrams.csproj.CoreCompileInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\Anagrams\obj\Debug\net6.0\Anagrams.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\Anagrams\obj\Debug\net6.0\refint\Anagrams.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\Anagrams\obj\Debug\net6.0\Anagrams.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\Anagrams\obj\Debug\net6.0\Anagrams.genruntimeconfig.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\Anagrams\obj\Debug\net6.0\ref\Anagrams.dll
