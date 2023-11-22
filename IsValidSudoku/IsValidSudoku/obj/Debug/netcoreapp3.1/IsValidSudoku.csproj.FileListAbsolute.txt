@@ -12,3 +12,17 @@ C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidS
 C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.dll
 C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.pdb
 C:\Sakhile\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.genruntimeconfig.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\IsValidSudoku\IsValidSudoku\bin\Debug\netcoreapp3.1\IsValidSudoku.exe
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\IsValidSudoku\IsValidSudoku\bin\Debug\netcoreapp3.1\IsValidSudoku.deps.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\IsValidSudoku\IsValidSudoku\bin\Debug\netcoreapp3.1\IsValidSudoku.runtimeconfig.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\IsValidSudoku\IsValidSudoku\bin\Debug\netcoreapp3.1\IsValidSudoku.runtimeconfig.dev.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\IsValidSudoku\IsValidSudoku\bin\Debug\netcoreapp3.1\IsValidSudoku.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\IsValidSudoku\IsValidSudoku\bin\Debug\netcoreapp3.1\IsValidSudoku.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.csproj.AssemblyReference.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.AssemblyInfoInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.AssemblyInfo.cs
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.csproj.CoreCompileInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\IsValidSudoku\IsValidSudoku\obj\Debug\netcoreapp3.1\IsValidSudoku.genruntimeconfig.cache
