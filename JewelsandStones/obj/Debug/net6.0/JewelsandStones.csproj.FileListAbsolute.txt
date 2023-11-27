@@ -1,0 +1,14 @@
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\JewelsandStones\bin\Debug\net6.0\JewelsandStones.exe
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\JewelsandStones\bin\Debug\net6.0\JewelsandStones.deps.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\JewelsandStones\bin\Debug\net6.0\JewelsandStones.runtimeconfig.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\JewelsandStones\bin\Debug\net6.0\JewelsandStones.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\JewelsandStones\bin\Debug\net6.0\JewelsandStones.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\JewelsandStones\obj\Debug\net6.0\JewelsandStones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\JewelsandStones\obj\Debug\net6.0\JewelsandStones.AssemblyInfoInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\JewelsandStones\obj\Debug\net6.0\JewelsandStones.AssemblyInfo.cs
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\JewelsandStones\obj\Debug\net6.0\JewelsandStones.csproj.CoreCompileInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\JewelsandStones\obj\Debug\net6.0\JewelsandStones.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\JewelsandStones\obj\Debug\net6.0\refint\JewelsandStones.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\JewelsandStones\obj\Debug\net6.0\JewelsandStones.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\JewelsandStones\obj\Debug\net6.0\JewelsandStones.genruntimeconfig.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\JewelsandStones\obj\Debug\net6.0\ref\JewelsandStones.dll
