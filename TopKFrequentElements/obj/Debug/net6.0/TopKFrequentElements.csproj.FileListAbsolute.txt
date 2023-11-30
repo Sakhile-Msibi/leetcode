@@ -1,0 +1,14 @@
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\TopKFrequentElements\bin\Debug\net6.0\TopKFrequentElements.exe
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\TopKFrequentElements\bin\Debug\net6.0\TopKFrequentElements.deps.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\TopKFrequentElements\bin\Debug\net6.0\TopKFrequentElements.runtimeconfig.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\TopKFrequentElements\bin\Debug\net6.0\TopKFrequentElements.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\TopKFrequentElements\bin\Debug\net6.0\TopKFrequentElements.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\TopKFrequentElements\obj\Debug\net6.0\TopKFrequentElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\TopKFrequentElements\obj\Debug\net6.0\TopKFrequentElements.AssemblyInfoInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\TopKFrequentElements\obj\Debug\net6.0\TopKFrequentElements.AssemblyInfo.cs
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\TopKFrequentElements\obj\Debug\net6.0\TopKFrequentElements.csproj.CoreCompileInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\TopKFrequentElements\obj\Debug\net6.0\TopKFrequentElements.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\TopKFrequentElements\obj\Debug\net6.0\refint\TopKFrequentElements.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\TopKFrequentElements\obj\Debug\net6.0\TopKFrequentElements.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\TopKFrequentElements\obj\Debug\net6.0\TopKFrequentElements.genruntimeconfig.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\TopKFrequentElements\obj\Debug\net6.0\ref\TopKFrequentElements.dll
