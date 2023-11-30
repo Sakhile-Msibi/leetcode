@@ -1,0 +1,14 @@
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\InsertDeleteGetRandom\bin\Debug\net6.0\InsertDeleteGetRandom.exe
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\InsertDeleteGetRandom\bin\Debug\net6.0\InsertDeleteGetRandom.deps.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\InsertDeleteGetRandom\bin\Debug\net6.0\InsertDeleteGetRandom.runtimeconfig.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\InsertDeleteGetRandom\bin\Debug\net6.0\InsertDeleteGetRandom.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\InsertDeleteGetRandom\bin\Debug\net6.0\InsertDeleteGetRandom.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\InsertDeleteGetRandom\obj\Debug\net6.0\InsertDeleteGetRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\InsertDeleteGetRandom\obj\Debug\net6.0\InsertDeleteGetRandom.AssemblyInfoInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\InsertDeleteGetRandom\obj\Debug\net6.0\InsertDeleteGetRandom.AssemblyInfo.cs
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\InsertDeleteGetRandom\obj\Debug\net6.0\InsertDeleteGetRandom.csproj.CoreCompileInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\InsertDeleteGetRandom\obj\Debug\net6.0\InsertDeleteGetRandom.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\InsertDeleteGetRandom\obj\Debug\net6.0\refint\InsertDeleteGetRandom.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\InsertDeleteGetRandom\obj\Debug\net6.0\InsertDeleteGetRandom.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\InsertDeleteGetRandom\obj\Debug\net6.0\InsertDeleteGetRandom.genruntimeconfig.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\InsertDeleteGetRandom\obj\Debug\net6.0\ref\InsertDeleteGetRandom.dll
