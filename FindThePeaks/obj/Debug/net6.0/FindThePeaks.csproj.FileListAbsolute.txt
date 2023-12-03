@@ -1,0 +1,14 @@
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\FindThePeaks\bin\Debug\net6.0\FindThePeaks.exe
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\FindThePeaks\bin\Debug\net6.0\FindThePeaks.deps.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\FindThePeaks\bin\Debug\net6.0\FindThePeaks.runtimeconfig.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\FindThePeaks\bin\Debug\net6.0\FindThePeaks.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\FindThePeaks\bin\Debug\net6.0\FindThePeaks.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\FindThePeaks\obj\Debug\net6.0\FindThePeaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\FindThePeaks\obj\Debug\net6.0\FindThePeaks.AssemblyInfoInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\FindThePeaks\obj\Debug\net6.0\FindThePeaks.AssemblyInfo.cs
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\FindThePeaks\obj\Debug\net6.0\FindThePeaks.csproj.CoreCompileInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\FindThePeaks\obj\Debug\net6.0\FindThePeaks.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\FindThePeaks\obj\Debug\net6.0\refint\FindThePeaks.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\FindThePeaks\obj\Debug\net6.0\FindThePeaks.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\FindThePeaks\obj\Debug\net6.0\FindThePeaks.genruntimeconfig.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\FindThePeaks\obj\Debug\net6.0\ref\FindThePeaks.dll
