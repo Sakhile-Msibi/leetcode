@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DesignCircularQueue/1.0.0": {
+        "runtime": {
+          "DesignCircularQueue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignCircularQueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
