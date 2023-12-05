@@ -46,9 +46,14 @@
                 {
                     _head++;
                 }
-                else if (_head == _queue.Length - 1)
+                else if (_head == _queue.Length - 1 && _tail != _queue.Length - 1)
                 {
                     _head = 0;
+                }
+                else if (_head == _queue.Length - 1 && _tail == _queue.Length - 1)
+                {
+                    _tail = -1;
+                    _head = -1;
                 }
 
                 if (_head - 1 == _tail)
@@ -56,7 +61,7 @@
                     _tail = -1;
                     _head = -1;
                 }
-                
+
                 return true;
             }
 
@@ -65,21 +70,14 @@
 
         public int Front()
         {
-            if (!IsEmpty())
-            {
-                return _queue[_head];
-            }
+            if (!IsEmpty()) return _queue[_head];
 
             return -1;
         }
 
         public int Rear()
         {
-            if (!IsEmpty())
-            {
-                //int lastElement = _tail;
-                return _queue[_tail];
-            }
+            if (!IsEmpty()) return _queue[_tail];
 
             return -1;
         }
@@ -96,35 +94,111 @@
 
         public void DisplayArray(int[] ints)
         {
-            Console.WriteLine("Array");
-            foreach (int i in ints)
-            {
-                Console.Write(i + " ");
-            }
-            Console.WriteLine();
-            Console.WriteLine("Queue");
+            //Console.WriteLine("Array");
+            //foreach (int i in ints)
+            //{
+            //    Console.Write(i + " ");
+            //}
+            //Console.WriteLine();
+            //Console.WriteLine("Queue");
 
-            if (_tail >= _head)
-            {
-                for (int i = _head; i <= _tail; i++)
-                {
-                    Console.Write(_queue[i] + " ");
-                }
-            }
-            else
-            {
-                for (int i = _tail; i < _queue.Length; i++)
-                {
-                    Console.Write(_queue[i] + " ");
-                }
-            }
+            //if (_tail == -1 && _head == -1)
+            //{
+            //    Console.WriteLine("Empty");
+            //    return;
+            //}
+
+            //if (_tail >= _head)
+            //{
+            //    for (int i = _head; i <= _tail; i++)
+            //    {
+            //        Console.Write(_queue[i] + " ");
+            //    }
+            //}
+            //else
+            //{
+            //    for (int i = _tail; i < _queue.Length; i++)
+            //    {
+            //        Console.Write(_queue[i] + " ");
+            //    }
+
+            //    for (int i = 0; i < _tail; i++)
+            //    {
+            //        Console.Write(_queue[i] + " ");
+            //    }
+            //}
             
-            Console.WriteLine();
+            //Console.WriteLine();
         }
 
         static void Main(string[] args)
         {
-            MyCircularQueue queue = new MyCircularQueue(5);
+            MyCircularQueue queue = new MyCircularQueue(6);
+
+            //Console.WriteLine(queue.EnQueue(6));
+            //queue.DisplayArray(queue._queue);
+
+            //Console.WriteLine(queue.Rear());
+
+            //Console.WriteLine(queue.Rear());
+
+            //Console.WriteLine(queue.DeQueue());
+            //queue.DisplayArray(queue._queue);
+
+            //Console.WriteLine(queue.EnQueue(5));
+            //queue.DisplayArray(queue._queue);
+
+            //Console.WriteLine(queue.Rear());
+
+            //Console.WriteLine(queue.DeQueue());
+            //queue.DisplayArray(queue._queue);
+
+            //Console.WriteLine(queue.Front());
+
+            //Console.WriteLine(queue.DeQueue());
+            //queue.DisplayArray(queue._queue);
+
+            //Console.WriteLine(queue.DeQueue());
+            //queue.DisplayArray(queue._queue);
+
+            //Console.WriteLine(queue.DeQueue());
+            //queue.DisplayArray(queue._queue);
+
+
+
+
+            Console.WriteLine(queue.EnQueue(4));
+            queue.DisplayArray(queue._queue);
+
+            Console.WriteLine(queue.Rear());
+
+            Console.WriteLine(queue.EnQueue(9));
+            queue.DisplayArray(queue._queue);
+
+            Console.WriteLine(queue.DeQueue());
+            queue.DisplayArray(queue._queue);
+
+            Console.WriteLine(queue.Front());
+
+            Console.WriteLine(queue.DeQueue());
+            queue.DisplayArray(queue._queue);
+
+            Console.WriteLine(queue.DeQueue());
+            queue.DisplayArray(queue._queue);
+
+            Console.WriteLine(queue.IsEmpty());
+
+            Console.WriteLine(queue.DeQueue());
+            queue.DisplayArray(queue._queue);
+
+            Console.WriteLine(queue.EnQueue(6));
+            queue.DisplayArray(queue._queue);
+
+            Console.WriteLine(queue.EnQueue(4));
+            queue.DisplayArray(queue._queue);
+
+
+
 
             //Console.WriteLine(queue.EnQueue(1));
             //queue.DisplayArray(queue._queue);
@@ -150,62 +224,69 @@
 
             //Console.WriteLine(queue.Rear());
 
-            Console.WriteLine(queue.IsFull());
 
-            Console.WriteLine(queue.IsEmpty());
 
-            Console.WriteLine(queue.EnQueue(5));
-            queue.DisplayArray(queue._queue);
 
-            Console.WriteLine(queue.EnQueue(13));
-            queue.DisplayArray(queue._queue);
 
-            Console.WriteLine(queue.EnQueue(8));
-            queue.DisplayArray(queue._queue);
 
-            Console.WriteLine(queue.EnQueue(2));
-            queue.DisplayArray(queue._queue);
 
-            Console.WriteLine(queue.EnQueue(10));
-            queue.DisplayArray(queue._queue);
 
-            Console.WriteLine(queue.IsFull());
+            //Console.WriteLine(queue.IsFull());
 
-            Console.WriteLine(queue.IsEmpty());
+            //Console.WriteLine(queue.IsEmpty());
 
-            Console.WriteLine(queue.DeQueue());
-            queue.DisplayArray(queue._queue);
+            //Console.WriteLine(queue.EnQueue(5));
+            //queue.DisplayArray(queue._queue);
 
-            Console.WriteLine(queue.DeQueue());
-            queue.DisplayArray(queue._queue);
+            //Console.WriteLine(queue.EnQueue(13));
+            //queue.DisplayArray(queue._queue);
 
-            Console.WriteLine(queue.EnQueue(23));
-            queue.DisplayArray(queue._queue);
+            //Console.WriteLine(queue.EnQueue(8));
+            //queue.DisplayArray(queue._queue);
 
-            Console.WriteLine(queue.EnQueue(6));
-            queue.DisplayArray(queue._queue);
+            //Console.WriteLine(queue.EnQueue(2));
+            //queue.DisplayArray(queue._queue);
 
-            Console.WriteLine(queue.IsFull());
+            //Console.WriteLine(queue.EnQueue(10));
+            //queue.DisplayArray(queue._queue);
 
-            Console.WriteLine(queue.IsEmpty());
+            //Console.WriteLine(queue.IsFull());
 
-            Console.WriteLine(queue.DeQueue());
-            queue.DisplayArray(queue._queue);
+            //Console.WriteLine(queue.IsEmpty());
 
-            Console.WriteLine(queue.DeQueue());
-            queue.DisplayArray(queue._queue);
+            //Console.WriteLine(queue.DeQueue());
+            //queue.DisplayArray(queue._queue);
 
-            Console.WriteLine(queue.DeQueue());
-            queue.DisplayArray(queue._queue);
+            //Console.WriteLine(queue.DeQueue());
+            //queue.DisplayArray(queue._queue);
 
-            Console.WriteLine(queue.DeQueue());
-            queue.DisplayArray(queue._queue);
+            //Console.WriteLine(queue.EnQueue(23));
+            //queue.DisplayArray(queue._queue);
 
-            Console.WriteLine(queue.DeQueue());
-            queue.DisplayArray(queue._queue);
+            //Console.WriteLine(queue.EnQueue(6));
+            //queue.DisplayArray(queue._queue);
 
-            Console.WriteLine(queue.DeQueue());
-            queue.DisplayArray(queue._queue);
+            //Console.WriteLine(queue.IsFull());
+
+            //Console.WriteLine(queue.IsEmpty());
+
+            //Console.WriteLine(queue.DeQueue());
+            //queue.DisplayArray(queue._queue);
+
+            //Console.WriteLine(queue.DeQueue());
+            //queue.DisplayArray(queue._queue);
+
+            //Console.WriteLine(queue.DeQueue());
+            //queue.DisplayArray(queue._queue);
+
+            //Console.WriteLine(queue.DeQueue());
+            //queue.DisplayArray(queue._queue);
+
+            //Console.WriteLine(queue.DeQueue());
+            //queue.DisplayArray(queue._queue);
+
+            //Console.WriteLine(queue.DeQueue());
+            //queue.DisplayArray(queue._queue);
 
 
             Console.ReadKey();
