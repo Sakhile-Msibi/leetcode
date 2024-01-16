@@ -1,0 +1,14 @@
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\BinaryTreePostorderTraversal\bin\Debug\net6.0\BinaryTreePostorderTraversal.exe
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\BinaryTreePostorderTraversal\bin\Debug\net6.0\BinaryTreePostorderTraversal.deps.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\BinaryTreePostorderTraversal\bin\Debug\net6.0\BinaryTreePostorderTraversal.runtimeconfig.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\BinaryTreePostorderTraversal\bin\Debug\net6.0\BinaryTreePostorderTraversal.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\BinaryTreePostorderTraversal\bin\Debug\net6.0\BinaryTreePostorderTraversal.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\BinaryTreePostorderTraversal\obj\Debug\net6.0\BinaryTreePostorderTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\BinaryTreePostorderTraversal\obj\Debug\net6.0\BinaryTreePostorderTraversal.AssemblyInfoInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\BinaryTreePostorderTraversal\obj\Debug\net6.0\BinaryTreePostorderTraversal.AssemblyInfo.cs
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\BinaryTreePostorderTraversal\obj\Debug\net6.0\BinaryTreePostorderTraversal.csproj.CoreCompileInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\BinaryTreePostorderTraversal\obj\Debug\net6.0\BinaryTreePostorderTraversal.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\BinaryTreePostorderTraversal\obj\Debug\net6.0\refint\BinaryTreePostorderTraversal.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\BinaryTreePostorderTraversal\obj\Debug\net6.0\BinaryTreePostorderTraversal.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\BinaryTreePostorderTraversal\obj\Debug\net6.0\BinaryTreePostorderTraversal.genruntimeconfig.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\leetcode\BinaryTreePostorderTraversal\obj\Debug\net6.0\ref\BinaryTreePostorderTraversal.dll
